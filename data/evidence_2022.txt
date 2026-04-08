@@ -1,0 +1,247 @@
+=== Q1a ===
+Query: advantages computer networks LAN WAN share
+
+[Result 1] --- Slide 23 --- Wide Area Network(WAN) Advantages Of WAN Share information/files over a larger area Large network cover Messages can be sent very quickly to anyone else on the network
+[Result 2] --- Slide 8 --- Private WAN Infrastructures Dialup Advantages: Simplicity Availability
+[Result 3] --- Slide 7 --- Private WAN Infrastructures Leased Lines Advantages: Simplicity Quality
+[Result 4] --- Slide 16 --- Local Area Network (LAN) Advantages of Connecting computer in a LAN Workstation can share peripheral devices like printers. This is cheaper than buying a printer for every workstation. Workstation do not necessarily need their own hard disk or CD-ROM drives which make them cheaper to buy than stand-alone PCs. User can save their work centrally on the network file server.
+[Result 5] Computer Networks   DNS 7
+[Result 6] --- Slide 18 --- Metropolitan Area Networks A metropolitan area network (MAN) is a large computer network that usually spans a city or a large campus. A MAN usually interconnects a number of local area networks (LANs) using a high-capacity backbone technology, such as fiber-optical links, and provides up-link services to wide area networks (or WAN) and the Internet. Features which discriminates MANs from LANs or WANs Its geographic scope falls between a WAN and LAN.
+[Result 7] It is cost effective. It is faster than its predecessor X.25. Advantages of the ATM It can easily interface with the existing network such as PSTN, ISDN. It can be used over SONET/SDH. Seamless integration with the different types of networks (LAN, MAN and WAN). Effective utilization of the network resources.
+
+================================================================================
+
+=== Q1b ===
+Query: simplex half duplex full duplex mode differences
+
+[Result 1] Tree Protocol (MSTP) • Autonegotiation  Half/full duplex  Speed  Flow control  …
+[Result 2]  IEEE 802.1w  Full-duplex mode o No shared links
+[Result 3]  100BASE-T full duplex  100BASE-T4  100BASE-T  10BASE-T full duplex  … • Misconfiguration problems
+[Result 4] --- Slide 6 --- Data Transmission Modes 2.Half-duplex: In half-duplex mode the communication channel is used in both directions, but only in one direction at a time. Example: walkie-talkie CSE-411
+[Result 5] --- Page 34 --- 34 Ethernet Autonegotiation • Incompatible rx/tx modes  Full/half duplex  10/100/1000 Mb/s
+[Result 6] --- Page 36 --- 36 Ethernet PAUSE Frames • Flow control  Full duplex mode only  Negotiated through auto-negotiation
+[Result 7] --- Slide 7 --- Data Transmission Modes 3.Full-duplex: In full duplex, the communication channel is used in both directions at the same time. Example of this mode of transmission is the telephone line. CSE-411
+
+================================================================================
+
+=== Q1c ===
+Query: intranet extranet differences definition
+
+[Result 1] 3. Extranet VPNs allow customers, suppliers, and partners to access corporate intranet in a secure manner. Because of their growing importance in corporate networking, both intranet VPNs and extranet VPNs are discussed in greater detail in Chapter 10. Most of the discussion in this chapter deals with access VPNs, which are the building blocks for intranet VPNs and extranet VPNs.
+[Result 2] --- Page 8 --- VPN terminology • Intranet – Portion of VPN connecting internal sites • Extranet – Portion of VPN connecting external sites
+[Result 3] --- Slide 13 --- Computer Network Extranet An extranet is a computer network that allows controlled access from the outside, for specific business or educational purposes. In a business-to-business context, an extranet can be viewed as an extension of an organization's intranet that is extended to users outside the organization, usually partners, vendors, and suppliers, in isolation from all other Internet users. Internet:
+[Result 4] strategic partners by means of the extranet. Both intranets and extranets are discussed in greater detail in Chapter 10. VPN tunnels permit non-routable protocols to be delivered to specific LAN segments in the corporate intranet. In this way, VPNs enable legacy applications to use the intranet. VPNs have also contributed significantly to the increased use of private IP
+[Result 5] ============================================================ === nyquist and shannon theorem definition.pdf (23 pages) === ============================================================
+[Result 6] ============================================================ === exponential backoff definition and csma-cd.pdf (19 pages) === ============================================================
+[Result 7] --- Slide 12 --- Computer Network Computer Network: A computer network, or simply a network, is a collection of computers and other hardware components interconnected by communication channels that allow sharing of resources and information. Intranet: An intranet is a private network that is contained within an enterprise.
+
+================================================================================
+
+=== Q2a ===
+Query: topology types logical star tree bus ring advantages
+
+[Result 1] Topology Bus Bus Bus Star Star
+[Result 2] • Explain the characteristics of the following topologies: o Mesh o Bus o Star o Ring o Tree
+[Result 3] Q-2. List out the advantages and drawbacks of ring topology.
+[Result 4] • Fiber optics is suitable for use in ring and star topology – Gigabit data rates and longer distances. • Unguided media are suitable for star topology
+[Result 5] --- Page 10 --- 8. In Ring Topology, Repeater works in 3 modes: ____________, _____________ and ______________. 9. ___________ topology can be considered as an extension to BUS topology. 10. ______________ is suitable for use in star and ring topologies 11. Coaxial cable is suitable for use in __________ topology.
+[Result 6] Ans: Yes, medium should be selected based on the topology. For example, for bus topology coaxial cable medium is suitable, and for ring/star topology twisted-pair or optical fiber can be used. Version 2 CSE IIT, Kharagpur
+[Result 7] Short Answer Questions: Q-1.  List out the advantages and drawbacks of bus topology.
+
+================================================================================
+
+=== Q2b ===
+Query: WAN LAN differences wide area local
+
+[Result 1] --- Slide 21 --- Wide Area Network(WAN) A wide area network (WAN) is a telecommunication network, usually used for connecting computers, that spans a large geographical area. A WAN spans a large geographic area, such as a state, province or country. WANs often connect multiple smaller networks, such as local area networks (LANs) or metro area networks (MANs). CSE-411
+[Result 2] --- Slide 15 --- Local Area Network (LAN) CSE-411
+[Result 3] --- Page 3 --- Building blocks of enterprise network • Local area networks • Wide- or metro-area networks: include 1 or more of:
+[Result 4] --- Slide 14 --- Computer Network Classification: Geographical area Local Area Network (LAN) A local area network (LAN) is a group of computers within a small area, such as a house, office or school, that are connected to each other. Most academic institutions and corporate networks use LANs.
+[Result 5] --- Slide 23 --- Wide Area Network(WAN) Advantages Of WAN Share information/files over a larger area Large network cover Messages can be sent very quickly to anyone else on the network
+[Result 6] --- Slide 18 --- Metropolitan Area Networks A metropolitan area network (MAN) is a large computer network that usually spans a city or a large campus. A MAN usually interconnects a number of local area networks (LANs) using a high-capacity backbone technology, such as fiber-optical links, and provides up-link services to wide area networks (or WAN) and the Internet. Features which discriminates MANs from LANs or WANs Its geographic scope falls between a WAN and LAN.
+[Result 7] --- Page 25 --- Virtual Local Area Networks
+
+================================================================================
+
+=== Q2c ===
+Query: centralized network distributed network differences structure
+
+[Result 1] --- Slide 25 --- Computer Network Classification: Structure Centralized network: A type of network where all users connect to a central server, which is the acting agent for all communications. This server would store both the communications and the user account information. Distributed Network
+[Result 2] Differentiate among Unicast, Multicast and broadcast. Classify computer network according to structure. CSE-411
+[Result 3] A distributed network is a type of computer network that is spread over various different networks. This provides a single data communication network, which can be managed jointly or separately by each network. Besides shared communication within the network, a distributed network often also distributes processing. Hybrid computer network A hybrid computer network uses different communication standards simultaneously, such as Ethernet and WiFi. This type of network uses special routers, switches and hubs to connect computers and peripheral devices. The ability to use both Ethernet and WiFi within the same local area network, or LAN, is important when people want to be both connected and mobile.
+[Result 4] •Distant centralized database •Distant centralized database •Single point of update •Doesn’t scale! 15-441  ©  2008 5
+[Result 5] • Network (Provider) Delay – refers to the time spent in a WAN provider’s cloud. Network delay can be very difficult to quantify, as it is often impossible to determine the structure of the cloud.
+[Result 6] •No centralized caching per site •No centralized caching per site – Each machine runs own caching local server – Why is this a problem? y p
+[Result 7] Lecture 13 Measurements of DNS •No centralized caching per site •No centralized caching per site – Each machine runs own caching local server – Why is this a problem?
+
+================================================================================
+
+=== Q3a ===
+Query: TCP 3 way handshake three way establishment SYN ACK termination
+
+[Result 1] --- Page 10 --- TCP Connection Termination (Three-Way Handshake) Host 1 Host 2
+[Result 2] (Three-Way Handshake)
+[Result 3] --- Page 8 --- TCP Flags • The flags fields are SYN, FIN, RESET, PUSH, URG and ACK. – The SYN flag is used to establish a TCP connection. – The FIN flag is used to teardown a connection.
+[Result 4] --- Page 9 --- TCP Connection Establishment Active Participant (Client) Passive Participant (Server)
+[Result 5] Figure : A Simplex Transmission (Only one-way transmission
+[Result 6] Figure : Full-duplex transmission (Two-way simultaneous transmission
+[Result 7] --- Page 3 --- lecture_9 Autoconfiguration • Need a way to simply connect a computer to a new network – No manual configuration
+
+================================================================================
+
+=== Q3b ===
+Query: IPv4 address 32 bit format decimal hex
+
+[Result 1] --- Page 12 --- IPv6 •  Initial motivation: 32-bit address space soon to be completely allocated. •  Additional motivation: – header format helps speed processing/
+[Result 2] IPv4 Address 0000.............0000 0000.............0000 80 bits 16 bits 32 bits
+[Result 3] --- Page 19 --- lecture_9 IPv6 vs IPv4 • Changes in IPv6 compared to IPv4 – 128 bit addresses – extended address hierarchy
+[Result 4] Decimal value Data Block Parity bit Code word 0 0000
+[Result 5] • Dst Address Revised destination address field. 128 bits in IPv6 vs 32 bits in IPv4. 0 15 16 31
+[Result 6] • fragment •  offset • upper •  layer • 32 bit destination IP address • Options (if any)
+[Result 7] identifier sequence number 32-bit receive timestamp 32-bit transmit timestamp Sender Receiver
+
+================================================================================
+
+=== Q4a ===
+Query: subnetting borrow bits routing prefix division subnetwork
+
+[Result 1] – L3ÆL2 address resolution automatic Global Routing Prefix Subnet ID Interface ID n bits 64-n bits
+[Result 2] --- Slide 3 --- Process of dividing an IP network in to sub divisions is called subnetting. Subnetting divides an IP address in to two parts as the network (or routing prefix) and the rest field (which is used to identify a specific host). CIDR notation is used to write a routing prefix. This notation uses a slash (/) to separate the network starting address and the length of the network prefix (in bits). For example, in IPv4, 192.60.128.0/22 indicates that 22 bits are allocated for the network prefix and the remaining 10 bits are reserved for the host address. In addition, routing prefix can also be represented using the subnet mask. 255.255.252.0 (11111111.11111111.11111100.00000000) is the subnet mask for 192.60.128.0/22. Separating the network portion and the subnet portion of an IP address is done by performing a bitwise AND operation between the IP address and the subnet mask. This would result in identifying the network prefix and the host identifier. What is Subnetting?
+[Result 3] --- Slide 2 --- Subnetting vs Supernetting Subnetting is the process of dividing an IP network in to sub divisions called subnets whereas, Supernetting is the process of combining several IP networks with a common network prefix. Supernetting will reduce the number of entries in a routing table and also will simplify the routing process. In subnetting, host ID bits (for IP addresses from a single network ID) are borrowed to be used as a subnet ID, while in supernetting, bits from the network ID are borrowed to be used as the host ID.
+[Result 4] --- Slide 32 --- Subnetting vs Supernetting Subnetting is the process of dividing an IP network in to sub divisions called subnets. Computers belonging to a sub network have a common group of most-significant bits in their IP addresses. So, this would break the IP address in to two parts (logically), as the network prefix and the rest field. Supernetting is the process of combining several sub networks, which have a common Classless Inter-Domain Routing (CIDR) routing prefix. Suppernetting is also called route aggregation or route summarization.
+[Result 5] --- Slide 32 --- Subnetting vs Supernetting Subnetting is the process of dividing an IP network in to sub divisions called subnets. Computers belonging to a sub network have a common group of most-significant bits in their IP addresses. So, this would break the IP address in to two parts (logically), as the network prefix and the rest field. Supernetting is the process of combining several sub networks, which have a common Classless Inter-Domain Routing (CIDR) routing prefix. Suppernetting is also called route aggregation or route summarization.
+[Result 6]  Time Division, Frequency Division, Code Division  Random access  ALOHA, S-ALOHA, CSMA, CSMA/CD  CSMA/CD used in Ethernet  Centrally controlled  polling from a central site
+[Result 7] --- Page 20 --- Global Internet Routing •  Objective is to provide routes to prefixes – Could be an IPv4 prefix – Could be an IPv6 prefix •  Route should get you to the right “??”
+
+================================================================================
+
+=== Q4b ===
+Query: supernetting route aggregation combine subnets routing table class C
+
+[Result 1] 8, 16 or 24 bits  (class A, B or C) Number of subnets =  23 = 8 Number of subnets must be power of 2
+[Result 2] --- Slide 32 --- Subnetting vs Supernetting Subnetting is the process of dividing an IP network in to sub divisions called subnets. Computers belonging to a sub network have a common group of most-significant bits in their IP addresses. So, this would break the IP address in to two parts (logically), as the network prefix and the rest field. Supernetting is the process of combining several sub networks, which have a common Classless Inter-Domain Routing (CIDR) routing prefix. Suppernetting is also called route aggregation or route summarization.
+[Result 3] --- Slide 32 --- Subnetting vs Supernetting Subnetting is the process of dividing an IP network in to sub divisions called subnets. Computers belonging to a sub network have a common group of most-significant bits in their IP addresses. So, this would break the IP address in to two parts (logically), as the network prefix and the rest field. Supernetting is the process of combining several sub networks, which have a common Classless Inter-Domain Routing (CIDR) routing prefix. Suppernetting is also called route aggregation or route summarization.
+[Result 4] Class C addresses are still available. What if a company needs a network larger than 254 hosts? ! Give the company several consecutive blocks of C addresses and treat these as a single supernetwork (Supernetting applies only to the class C addresses)
+[Result 5] A company is granted the site address 201.70.64.0 The company needs six subnets. Design the subnets. Solution: Company can have 8 subnets (not six) The given IP is class C, therefore we consider only the last byte. Subnets:
+[Result 6] Informs about an alternative route for the datagram and should result in a routing table update. The code field explains the reason for the route change. Redirect 0–3
+[Result 7] --- Slide 2 --- Subnetting vs Supernetting Subnetting is the process of dividing an IP network in to sub divisions called subnets whereas, Supernetting is the process of combining several IP networks with a common network prefix. Supernetting will reduce the number of entries in a routing table and also will simplify the routing process. In subnetting, host ID bits (for IP addresses from a single network ID) are borrowed to be used as a subnet ID, while in supernetting, bits from the network ID are borrowed to be used as the host ID.
+
+================================================================================
+
+=== Q5a ===
+Query: connection-oriented connection-less differences TCP UDP
+
+[Result 1] --- Slide 2 --- Another difference between connection-oriented and connection-less services is connection-oriented communication uses a stream of data and is vulnerable to router failure while connection-less communication uses messages and is robust to router failure.
+[Result 2] --- Page 4 --- TCP: Byte Stream Management • TCP is a byte-oriented protocol: the sending process writes bytes into a TCP connection and the receiving process reads bytes out of the connection. •
+[Result 3] 8. Connection establishment. Transport level protocols go through three phases: establishing, using, and terminating a connection. For data gram-oriented protocols, opening a connection simply allocates and initializes data structures in the operating system kernel. Connection oriented protocols often exchanges messages that negotiate options with the remote peer at the time a connection are opened. Establishing a connection may be tricky
+[Result 4] --- Page 3 --- Services TCP provides to Applications • Connection-orientation: A connection is established with the destination and then use the connection to transfer data. •
+[Result 5] FTP client FTP server TCP control connection port 21
+[Result 6] oriented – Call request and call accept packets establish connection (handshake) • Once route is established, all
+[Result 7] TCP data connection port 20 FTP: separate control & data connections
+
+================================================================================
+
+=== Q5b ===
+Query: IPv4 IPv6 differences 128 bit header size
+
+[Result 1] --- Page 19 --- lecture_9 IPv6 vs IPv4 • Changes in IPv6 compared to IPv4 – 128 bit addresses – extended address hierarchy
+[Result 2] Internet IPv6 tunnel IPv4 header IPv6 header
+[Result 3] --- Page 50 --- lecture_9 IPv6 Summary • IPv6 has: – 128-bit address space
+[Result 4] --- Page 21 --- lecture_9 IPv6 Header Format • Version Only field identical to IPv4. Code is 6 in IPv6
+[Result 5] • IPv6 • IPv6 • IPv6 • C • D • IPv4
+[Result 6] 0000 – IPv4-compatible IPv6 address: to dynamically tunnel IPv6 packets over IPv4 routing infrastructure FFFF – IPv4-mapped IPv6 address: to represent the address of IPv4 nodes as IPv6 addresses
+[Result 7] • Payload Length Replaces length field in IPv4. Gives length of data following IPv6 header • Next Header Replaces protocol field in IPv4. Extension headers can be used.
+
+================================================================================
+
+=== Q6a ===
+Query: Address Resolution Protocol ARP broadcast reply IP MAC
+
+[Result 1] ARP (Address Resolution Protocol) CSE-411
+[Result 2] RARP Ethernet MAC address (48 bit) ARP IP address
+[Result 3] RARP Ethernet MAC address (48 bit) ARP IP address
+[Result 4] --- Page 1 --- 1 1 Address Resolution Protocol (ARP) Relates to Lab 2.
+[Result 5] – Works similar to ARP – Broadcast a request for the IP address associated with a given MAC address – RARP server responds with an IP address – Only assigns IP address (not the default router and subnetmask)
+[Result 6] Address resolution protocol
+[Result 7] have a configuration file somewhere in the system that maps IP addresses onto Ethernet addresses. Otherwise, the sender outputs a broadcast packet onto the Ethernet asking about the owner of that particular IP address. On receiving that packet, each machine will check its IP address and only the correct user will respond. The protocol for asking the question and getting the reply is called ARP (Address Resolution Protocol). Almost
+
+================================================================================
+
+=== Q6b ===
+Query: NAT Network Address Translation controversy advantages
+
+[Result 1] --- Page 2 --- 2 3 Private Addresses 4 Network Address Translation (NAT)
+[Result 2] --- Page 21 --- NAT: Network Address Translation Implementation: NAT router must: –  outgoing datagrams: replace (source IP address, port #) of every outgoing datagram to (NAT IP address, new
+[Result 3] --- Page 1 --- 1 1 Network Address Translation (NAT) Relates to Lab 7. Module about private networks and NAT.
+[Result 4] port #) . . . remote clients/servers will respond using (NAT IP address, new port #) as destination addr. –  remember (in NAT translation table) every (source IP address, port #)  to (NAT IP address, new port #) translation pair
+[Result 5] --- Page 19 --- NAT: Network Address Translation •  16-bit port-number field: –  60,000 simultaneous connections with a single LAN-side address! •  NAT is controversial (books term):
+[Result 6] --- Page 3 --- 3 5 Basic operation of NAT • NAT device has address translation table H1
+[Result 7] --- Page 20 --- NAT: Network Address Translation 10.0.0.1 10.0.0.2 10.0.0.3 10.0.0.4
+
+================================================================================
+
+=== Q7a ===
+Query: flow control definition layers congestion control difference
+
+[Result 1] occurring again. 7.5.12 Flow Control Versus Congestion control Let’s have a look at the difference between Flow Control and Congestion Control, which are mixed up at times. Flow control is a very important part of regulating the transmission of data between devices, but it is limited in a way that it only considers what is going on within
+[Result 2] to the receiver satisfying the conditions of flow control and congestion control) is MIN(CongestionWindow, AdvertisedWindow) – (LastByteSent – LastByteAcked).
+[Result 3] = 25,000 – (30,000 – 20,000) = 15,000 bytes • (c) Both Flow Control and Congestion Control Effective Window Size = Min(Eff. Win. Size based on Flow Control, Eff. Win. Size based on Cong. Control) = Min(5,000 bytes , 15,000 bytes) = 5,000 bytes.
+[Result 4] ============================================================ === Congestion control.pptx === ============================================================
+[Result 5] --- Page 15 --- Flow Control  - Example
+[Result 6] --- Page 13 --- Flow Control • Flow Control is the mechanism of adjusting the sending rate according to the resources available at the destination. •
+[Result 7] --- Page 30 --- Sample Question: Flow Control and Congestion Control (continued…) • What would be the Effective Window Size (the amount of data that can be sent) by the source considering:
+
+================================================================================
+
+=== Q7b ===
+Query: virtual circuit datagram packet switching routing path
+
+[Result 1] 1. Datagram and 2. virtual circuit packet switching
+[Result 2] --- Page 3 --- How to Switch the Data? • Circuit switching • Packet switching – Datagram – Virtual circuit
+[Result 3] --- Slide 1 --- Circuit, packet, and message switching
+[Result 4] the packets follow same route • Each packet contains a Virtual Circuit Identifier (VCI) • No routing decisions required
+[Result 5] –  packet-switching (fixed length packets, called “cells”) using virtual circuits
+[Result 6] for each packet • Clear request to drop circuit • Not a dedicated path
+[Result 7] --- Page 4 --- Circuit switching • Communication via circuit switching involves three phases: – Circuit Establishment connection oriented – Data Transfer
+
+================================================================================
+
+=== Q8a ===
+Query: message switching vs packet switching delays route
+
+[Result 1] --- Slide 1 --- Circuit, packet, and message switching
+[Result 2] --- Page 3 --- How to Switch the Data? • Circuit switching • Packet switching – Datagram – Virtual circuit
+[Result 3] 1. Datagram and 2. virtual circuit packet switching
+[Result 4] –  packet-switching (fixed length packets, called “cells”) using virtual circuits
+[Result 5] --- Page 27 --- Switching Via Memory First generation routers: •  traditional computers with switching under direct control of CPU • packet copied to system’s memory
+[Result 6] --- Slide 4 --- WAN Operations Packet Switching Splits traffic data into packets that are routed over a shared network. Packet-switching allow many pairs of nodes to communicate over the same channel.
+[Result 7] --- Page 6 --- Packet Switching • Station breaks long message into packets • Packets sent one at a time to the network • Packets handled in two ways – Datagram
+
+================================================================================
+
+=== Q8b ===
+Query: Frame Relay ATM differences disadvantages reliable
+
+[Result 1] The frame relay does not offer any flow control. There is no provision of the acknowledgement of the received packets and retransmission control for the frames. Disadvantages of the ATM Cost of switching devices is higher. Overhead generated by the cell header is more. ATM QoS mechanism is quite complex.
+[Result 2] --- Page 5 --- Virtual circuits: Signaling Protocols •  used to setup, maintain  teardown VC •  used in ATM, frame-relay, X.25 •  An alternative to spanning trees/Ethernet switching
+[Result 3] It is less susceptible to the noise degradation. Provides large bandwidth. Disadvantages of the Frame Relay Unreliable service. The order of the arriving packets may not be maintained. The erroneous packets are directly dropped.
+[Result 4] --- Page 14 --- Frame relay vs X.25 14 Comparison o f X .25
+[Result 5] L2F L2F is a proprietary protocol that was developed by Cisco Systems. It is protocol-independent and can run over X.25, frame relay, and ATM networks. Figure 9.9 PPTP VPN components. Internet
+[Result 6] Architecture Internet ATM ATM ATM ATM
+[Result 7] --- Page 15 --- Frame relay/Internet vs. X.25 • Difference between reliable and unreliable networks – Fiber has error rate of 1 bit in 1014; can correct end-to-end – Wireless has error rate of 1 bit in 106; must correct link-by- link
+
+================================================================================
+
+=== Q8c ===
+Query: BGP exterior gateway protocol EGP OSPF difference
+
+[Result 1] • Setting up routing tables (RIP, OSPF, BGP, PIM, …) Overview
+[Result 2] and common metrics to route packets within the AS – uses an exterior gateway protocol (EGP) to route packets to other AS’s •  AS may use multiple IGPs and metrics, but appears as single AS to other AS’s
+[Result 3] EGP IGP EGP EGP IGP IGP
+[Result 4] IGP IGP EGP EGP
+[Result 5] --- Page 3 --- ...Decision Process – select route learned from E-BGP peer with lowest BGP ID – select route from I-BGP neighbor with lowest BGP ID
+[Result 6] IP Layer 3 Protocol Gateway PSTN VPN Client ISP
+[Result 7] --- Slide 4 --- Supernetting is the process of combining several IP networks with a common network prefix. Supernetting was introduced as a solution to the problem of increasing size in routing tables. Supernetting also simplifies the routing process. For example, the subnetworks 192.60.2.0/24 and 192.60.3.0/24 can be combined in to the supernetwork denoted by 192.60.2.0/23. In the supernet, the first 23 bits are the network part of the address and the other 9 bits are used as the host identifier. So, one address will represent several small networks and this would reduce the number of entries that should be included in the routing table. Typically, supernetting is used for class C IP addresses (addresses beginning with 192 to 223 in decimal), and most of the routing protocols support supernetting. Examples of such protocols are Border Gateway Protocol (BGP) and Open Shortest Path First (OSPF). But, protocols such as Exterior Gateway Protocol (EGP) and the Routing Information Protocol (RIP) do not support supernetting. What is Supernetting?
+
+================================================================================
+

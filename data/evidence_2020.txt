@@ -1,0 +1,169 @@
+=== Q1a ===
+Query: Internet network of networks components
+
+[Result 1] --- Slide 19 --- Basic components, types of networks, applications
+[Result 2] Figure 9.17 Firewalls providing authorized access to two networks. Internet Corporate Network Firewall
+[Result 3] L2F L2F is a proprietary protocol that was developed by Cisco Systems. It is protocol-independent and can run over X.25, frame relay, and ATM networks. Figure 9.9 PPTP VPN components. Internet
+[Result 4] --- Page 3 --- Building blocks of enterprise network • Local area networks • Wide- or metro-area networks: include 1 or more of:
+[Result 5] VPNs are not new. In fact, they have been used in telephone networks for years and have become more prevalent since the development of the intelligent network. Frame relay networks, which have been around for some time, are VPNs. Virtual private networks are only new to IP networks such as the Internet. Therefore, some authors use the terms Internet VPN and virtual private data network to distinguish the VPN described in this
+[Result 6] --- Page 5 --- Virtual private networks (VPNs) • Definition: VPN is set of sites that – Communicate over the open Internet but – With the security and management capabilities of dedicated circuit or frame relay network
+[Result 7] The Internet, sometimes called simply "the Net," is a worldwide system of computer networks - a network of networks in which users at any one computer can, if they have permission, get information from any other computer (and sometimes talk directly to users at other computers). Today, the Internet is a public, cooperative, and self-sustaining facility accessible to hundreds of millions of people worldwide. CSE-411
+
+================================================================================
+
+=== Q1b ===
+Query: unicast broadcast multicast differences mode communication pros cons
+
+[Result 1] , Multicast, and Broadcast Addresses Broadcast Addresses Unicast communication is one-to-one. Multicast communication is one-to-many. Broadcast communication is one-to-all.
+[Result 2] Differentiate among Unicast, Multicast and broadcast. Classify computer network according to structure. CSE-411
+[Result 3] --- Slide 8 --- Information Delivery Information is delivered over a network by three basic methods: Unicast Multicast Broadcast
+[Result 4] Broadcast Communication Networks
+[Result 5] --- Page 25 --- McGraw-Hill ©The McGraw-Hill Companies, Inc., 2000 4-25 Unicast Unicast, Multicast, and
+[Result 6] Repeater works in the following three modes: • Listen mode: In this mode, the station listens to the communication going over the shared medium as shown in Fig.5.1.6.
+[Result 7] IPv6 uses hexadecimal colon notation with abbreviation methods • IPv6 has three address types: unicast, anycast, and multicast • IPv4, ICMPv4, ARP, RARP, and IGMP replaced with IPv6 and ICMPv6 •
+
+================================================================================
+
+=== Q2a ===
+Query: TCP/IP reference model layers functionalities popular OSI
+
+[Result 1] --- Page 20 --- Q-5. Briefly write functionalities of different OSI layers? Ans:  The OSI Reference Model includes seven layers. Basic functionality of each of them is as follows: 7. Application Layer: Provides Applications with access to network services. 6. Presentation Layer:
+[Result 2] • State the requirement for layered approach • Explain the basic concept of layering in the network model • Define entities protocols in networking context • Describe ISO’s OSI Reference Model • Explain information flow in OSI references Model. • Explain functions of the seven layers of OSI Model
+[Result 3] Figure 1.2.3 OSI Model Layers Communicate with Other Layers
+[Result 4] used. An example is 10BaseT. 1.2.2.1Characteristics of the OSI Layers The seven layers of the OSI reference model can be divided into two categories: upper layers and lower layers as shown in Fig. 1.2.2. The upper layers of the OSI model deal with application issues and generally are implemented only in software. The highest layer, the application layer, is closest to the
+[Result 5] Q-4. What are the seven layers of ISO’s OSI model?
+[Result 6] The Open System Interconnection (OSI) reference model describes how information from a software application in one computer moves through a network medium to a software application in another computer. The OSI reference model is a conceptual model composed of seven layers, each specifying particular network functions. The model was developed by the International Organization for Standardization (ISO) in 1984, and it is now considered the primary architectural model for inter-computer
+[Result 7] Ans: The Open System Interconnection (OSI) reference model describes how information from a software application in one computer moves through a network medium to a software application in another computer. The OSI reference model is a conceptual model composed of seven layers, each specifying particular network functions. The model was developed by the International Standardization Organization (ISO) in 1984, and it is now considered the primary architectural model for inter-computer
+
+================================================================================
+
+=== Q2b ===
+Query: framing character count bit stuffing advantages disadvantages
+
+[Result 1] d). Framing The DLL translates the physical layer's raw bit stream into discrete units (messages) called frames. How can the receiver detect frame boundaries? Various techniques are used for this: Length Count, Bit Stuffing, and Character stuffing. e). Error Control Error control is concerned with insuring that all frames are eventually delivered (possibly
+[Result 2] Single-bit Error The term single-bit error means that only one bit of given data unit (such as a byte, character, or data unit) is changed from 1 to 0 or from 0 to 1 as shown in Fig. 3.2.1.
+[Result 3] disadvantages? ISP1 ISP2 ISP3 Customer
+[Result 4] Availability Disadvantages: Cost Limited flexibility
+[Result 5] --- Slide 1 --- Topic 2: Data link layer: framing and error control
+[Result 6] Disadvantages: Version 2 CSE IIT, Kharagpur
+[Result 7] 2. Explain different types of Errors? Ans: The errors can be divided into two types: Single-bit error and Burst error. • Single-bit Error The term single-bit error means that only one bit of given data unit (such as a byte, character, or data unit) is changed from 1 to 0 or from 0 to 1. • Burst Error
+
+================================================================================
+
+=== Q3a ===
+Query: Segment Packet Frame layer Port Socket difference
+
+[Result 1] away the IP address is followed by a: followed by the port so that immediately becomes the socket. The IP address and the port number together form the socket so we give the method and the socket and when you have done up to this much the port for the initial request is port number 80. If you give the host IP address and the port number, you have given the socket which means that we have indicated or we have specified where to go, first to the domain name and subsequently to the IP address of the host.
+[Result 2] frame adapter adapter link layer protocol
+[Result 3] Segment Segment Segment ……. TCP TCP
+[Result 4] On each bridge, select a root port  Port with the least cost path to the root bridge 3. On each LAN segment, select a designated bridge 
+[Result 5] --- Page 26 --- has been left out so by default it is port number 80/path/file.html. First open a socket to the host www.somehost.com at port 80 and then get that file.
+[Result 6] public Internet, to replace the IP address-port pair of an IP packet with another IP address-port pair.
+[Result 7] filtering rules to determine whether to pass or block it. For example, the filtering rule might require all Telnet requests to be dropped. Using this information, the firewall will block all packets that have a port number 23 (the default port number for Telnet) in their header. Filtering rules can be based on source IP address, destination IP address, Layer 4 (that is, TCP/ UDP) source port, and Layer 4 destination port. Thus, a packet filter makes
+
+================================================================================
+
+=== Q3d ===
+Query: CSMA/CD CSMA/CA TP Fiber Data Link Network 1-persistent non persistent
+
+[Result 1] ============================================================ === csma-cd and csma-ca.pptx === ============================================================
+[Result 2]  Time Division, Frequency Division, Code Division  Random access  ALOHA, S-ALOHA, CSMA, CSMA/CD  CSMA/CD used in Ethernet  Centrally controlled  polling from a central site
+[Result 3] ============================================================ === exponential backoff definition and csma-cd.pdf (19 pages) === ============================================================
+[Result 4] carry sporadic, occasionally heavy trafﬁc at high peak data rates. Ethernet/IEEE 802.3 Comparison Ethernet and IEEE 802.3 specify similar technologies. Both are CSMA/CD LANs. Stations on a CSMA/CD LAN can access the network at any time. Before sending data, CSMA/CD stations “listen” to the network to see if it is already in use. If it is, the station wishing to transmit waits. If the network is not in use, the station transmits. A collision occurs when two stations listen for
+[Result 5] - devices (main slide).ppt - dns (how resolve a name).ppt - dns.ppt - ethernet and csma-cd.ppt - fragmentation 1.ppt - ftp.ppt
+[Result 6] --- Page 9 --- 2008-09-15 CSC 257/457 - Fall 2008 9 Ethernet’s CSMA/CD (more) Exponential Backoff:
+[Result 7] 10 Compare 802.3 with 802.5, 802.4 11. Difference between segmentation and  multiplexing, packet and frame, error detection and error correction. 12.Taxonomy of different WAN technologies. 13. Significance of ATM 14. Short note on cloud computing, IoT, distributed computing, sensor network, encryption and decryption 15. What is binary exponential backoff. Differ CSMA/CD with CSMA/CA
+
+================================================================================
+
+=== Q4a ===
+Query: classful classless subnet supernet subnet mask wildcard mask IP
+
+[Result 1] In subnetting: The first address of the subnet + subnet mask In supernetting: The first address of the supernet + supernet mask Note Note
+[Result 2] SM – supernet/subnet mask Number of hosts in the range: h = 2z z = zeroes(SM) Range of IP addresses: IP1,…,IP2 = SA+1,…,SA+h -1
+[Result 3] ! 201.70.64.224 Subnet mask = 255.255.255.224
+[Result 4] --- Page 6 --- IP Address and 24-bit Subnet Mask 00001100 00100010 10011110 00000101 12 34 158
+[Result 5] . . . . . . . . . . . . . . . . . . .11111111.11000000 ! 181.56.255.192 Subnet mask = 255.255.255.192
+[Result 6] --- Page 7 --- McGraw-Hill ©The McGraw-Hill Companies, Inc., 2000 5-7 Default mask and subnet mask nnnnnnnn.nnnnnnnn.sshhhhhh.hhhhhhhh
+[Result 7] --- Page 10 --- McGraw-Hill ©The McGraw-Hill Companies, Inc., 2000 5-10 Comparison of a default mask and a subnet mask
+
+================================================================================
+
+=== Q5a ===
+Query: routing protocol distance vector link state Intra domain inter domain routing
+
+[Result 1] --- Page 23 --- BGP Routing Choices •  Link state or distance vector? –  no universal metric - policy decisions •  Problems with distance-vector: –  Bellman-Ford algorithm slow to converge
+[Result 2] --- Page 8 --- 8 Classless Inter-Domain Routing (CIDR) IP Address : 12.4.0.0       IP  Mask: 255.254.0.0 00001100 00000100 00000000 00000000
+[Result 3] changes •  Non-uniform hierarchy –  Useful for heterogeneous networks of different sizes –  Initial class-based addressing was far too coarse –  Classless Inter Domain Routing (CIDR) helps
+[Result 4] collision domain collision domain
+[Result 5] ============================================================ === Routing-q.pptx === ============================================================
+[Result 6] ============================================================ === routing -2.pptx === ============================================================
+[Result 7] ============================================================ === routing 1.pptx === ============================================================
+
+================================================================================
+
+=== Q5b ===
+Query: default route sink tree Dijkstra
+
+[Result 1] --- Page 23 --- 23 Rapid Spanning Tree Protocol • Ordinary STP takes 30 – 50 seconds to converge, with default settings • Rapid Spanning Tree Protocol (RSTP)
+[Result 2] --- Slide 31 --- A default route of a computer that is participating in computer networking is the packet forwarding rule (route) taking effect when no other route can be determined for a given Internet Protocol (IP) destination address. All packets for destinations not established in the routing table are sent via the default route. This route generally points to another router, which treats the packet the same way: If a route matches, the packet is forwarded accordingly, otherwise the packet is forwarded to the default route of that router. The process repeats until a packet is delivered to the destination. Each router traversal counts as one hop in the distance calculation for the transmission path.
+[Result 3] --- Slide 31 --- A default route of a computer that is participating in computer networking is the packet forwarding rule (route) taking effect when no other route can be determined for a given Internet Protocol (IP) destination address. All packets for destinations not established in the routing table are sent via the default route. This route generally points to another router, which treats the packet the same way: If a route matches, the packet is forwarded accordingly, otherwise the packet is forwarded to the default route of that router. The process repeats until a packet is delivered to the destination. Each router traversal counts as one hop in the distance calculation for the transmission path.
+[Result 4] •  ISP1 advertises /16 aggregate •  Customer advertises /24 route to ISP2 •  ISP2 relays route to ISP1 and ISP3 •  ISP2-3 use the /24 route
+[Result 5] --- Page 30 --- 30 Spanning Trees and VLANs • Per VLAN Spanning Tree  One spanning tree per VLAN  Many spanning tree instances to maintain
+[Result 6] Spanning Tree Instances (spanning-tree topologies)  VLANs are associated to MSTIs • One common spanning tree (CST) for the entire network • MSTP based on RSTP (Rapid STP)
+[Result 7] Forward On/Off, Default IP TTL, Broadcast Address, Static Route, Ethernet Encapsulation, X Window Manager, X Window Font, DHCP Msg Type, DHCP Renewal Time, DHCP Rebinding, Time SMTP-Server, SMTP-Server, Client FQDN, Printer Name, … 12
+
+================================================================================
+
+=== Q5c ===
+Query: Route poisoning split horizon ACL Firewall
+
+[Result 1] Firewall Corporate Premises Firewall Branch Office Branch Network
+[Result 2] •  ISP1 advertises /16 aggregate •  Customer advertises /24 route to ISP2 •  ISP2 relays route to ISP1 and ISP3 •  ISP2-3 use the /24 route
+[Result 3] Firewall-controlled access from the Internet. Corporate Network Firewall Corporate Premises Internet
+[Result 4] proxy server. Unlike the dual-homed host firewall, the screened host firewall requires the screening router and the bastion host to be configured Screened Subnet Firewall The screened subnet firewall can be considered an extension of the screened host firewall. Like the screened host firewall, it uses a screening Figure 9.5
+[Result 5] --- Page 2 --- Decision Process •  Calculate degree of preference for each route in Adj-RIB-In as follows (apply following steps until one route is left): – select route with highest LOCAL-PREF
+[Result 6] Inter- connect Static route from R1 to customer over L1 Static route from R2 to customer over L2 L1 L2
+[Result 7] – select route with shortest AS-PATH – apply MED (if routes learned from same neighbor) – select route with smallest NEXT-HOP cost
+
+================================================================================
+
+=== Q6a ===
+Query: Congestion factors Hop-by-Hop choke packet Fragmentation
+
+[Result 1] 7.5.9 Hop-by Hop Choke Packets This technique is an advancement over Choked packet method. At high speed over long distances, sending a packet all the way back to the source doesn’t help much, because by the time choke packet reach the source, already a lot of packets destined to the same original destination would be out from the source. So to help this, Hop-by-Hop Choke packets are used. In this approach, the choke packet affects each and every intermediate
+[Result 2] As compared to choke packet technique, hop-by-hop choke packet algorithm is able to restrict the flow rapidly. As can been seen from Figures 7.5.6 and 7.5.7, one-step reduction is seen in controlling the traffic, this single step advantage is because in our example there is only one intermediate router. Hence, in a more complicated network, one can achieve a significant advantage by using hop-by-hop choke packet method.
+[Result 3] – Rely on link layer and higher layers to check integrity of data • Remove hop-by-hop segmentation – Fragmentation only by sender due to path MTU discovery
+[Result 4] Figure 7.5.7 Depicts the functioning of Hop-by-Hop choke packets, (a) Heavy traffic between nodes P and Q, (b) Node Q sends the Choke packet to P, (c) Choke packet reaches R, and the flow between R and Q is curtail down, Choke packer reaches P, and P reduces the flow out
+[Result 5] Encapsulated security payload header Authentication header Fragment header Routing header Hop-by-hop options header
+[Result 6] --- Page 40 --- lecture_9 Extension Headers • Hop-by-hop Options header – TLV coded options processed by every hop along the path – Jumbo payload option for pkt > 65535 bytes (RFC 2675)
+[Result 7] Hop Limit
+
+================================================================================
+
+=== Q7a ===
+Query: DNS Name space Resolver looks-up recursive iterative queries server
+
+[Result 1] ============================================================ === dns name resolver.pptx === ============================================================
+[Result 2] --- Slide 13 --- Recursive query Puts burden of name resolution on contacted name server. Heavy load? DNS Name Resolution (example) Computer Networks   DNS
+[Result 3] •DNS servers are replicated – Name service available if ≥one replica is up Name service available if ≥one replica is up – Queries can be load balanced between replicas •UDP used for queries f
+[Result 4] 22 Workload impact on choice? • Root/distant server does iterative • Local server typically does recursive Lecture 13 How to manage workload?
+[Result 5] --- Page 6 --- Typical Resolution •Steps for resolving www.cmu.edu – Application calls gethostbyname() (RESOLVER) Application calls gethostbyname() (RESOLVER) – Resolver contacts local name server (S1)
+[Result 6] --- Slide 7 --- Distributed, Hierarchical Database Example: Client wants IP for www.amazon.com {1st approx:} client queries a root server to find .com DNS server client queries .com DNS server to get amazon.com DNS server client queries amazon.com DNS server to get IP address for www.amazon.com
+[Result 7] root name server 2 iterated query • Only returns final answer or “not found” Iterative query:
+
+================================================================================
+
+=== Q8b ===
+Query: key transposition cipher encryption plaintext
+
+[Result 1] which provides header integrity and authentication without confidentiality; and the Encapsulating Security Payload (ESP) which provides integrity, authentica- tion, and confidentiality to payload (or IP datagrams). ESP permits packet-by- packet encryption and uses a standards-based encryption key management protocol. Thus, IPSec VPN can be created with either AH or ESP or both. AH does not provide data encryption and is useful in those environments where
+[Result 2] Q-2.  What are the key benefits of layered network?
+[Result 3] Q-7.  What are the key functions of data link layer?
+[Result 4] Key Characteristics: o Fully connected o Robust – Highly reliable o Not flexible o Poor expandability
+[Result 5] k dd 15-441  ©  2008 8 –gethostbyaddr: query key is an IP address. Lecture 13
+[Result 6] illustrates the format of an L2TP packet. L2TP is supported by many vendors, and is expected to be the predominant protocol once it becomes a standard. L2TP relies on IPSec to perform data encryption. If L2TP discovers that IPSec is not supported at the remote end, it uses the less secure PPP encryption. The encryption may be performed by the user’s workstation or by the LAC, depending on the
+[Result 7] There are three key methodologies for implementing QoS: • Best-Effort • Integrated Services (IntServ) • Differentiated Services (DiffServ)
+
+================================================================================
+

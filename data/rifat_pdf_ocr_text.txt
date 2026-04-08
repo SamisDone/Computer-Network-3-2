@@ -1,0 +1,1250 @@
+
+======================================================================
+=== PAGE 1 ===
+======================================================================
+chapte7-0 | Inmnoduchon 1x[ompyrei Netwonkt n romputez network on 4 netwonk] "nalis %ollection cf (omputerv and Othei7 ha-dUcUZ Crmpone ntn inle7 connec tad by (ommuni cah'on channels '!) hcct allow nhunq Of nonou7te ) and infonmation '| )) oh Qompananiva analysis Of be twueen 0s1 Tafer nto mode | an Icp UP Ta feznca model : nVJ rl) | OSI TC Plip  fyuj pon Ay ntoms ' 'fo |Tnansmlssion Contnol intevconnaction , ' pnototol / Intennet pnotocol ! 9. (' | }:~osbnd 17'1"r) tr) i 1 mldqveloped;by 158 <:; v0 {dovelpped by ARPANET 2r) follows vertical appntath] follows horuizantal appnoach Ll ( defined noferance nol Cwll defined! mode| 4.1; moda|  " 6wvido 5T3v' ; can J *7 ~ Conceptua mbderiJ' >(elent:newver mddz| ;;;0' 1,~f| 1cAI4ol han ynclis h fuv-layehisd mode | ba 4 layeru 1 ~ ci' 6cf Hi,!: (73 Not Iargiblq rlbaic |Tangible , In ,w follows 0 bo ttom-to-top follows 0 tp-tu - boHom appnoach Oppnoach   minimum heade 7 minimum header nlte is Ajke 15 5 byte) 20 bxte)
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 2 ===
+======================================================================
+`` '| 6 .~X Wxufe_ down Thr principle thcdl Lr Gpplied Ko_auuve_&tha 4-cuer 0S ( nq ferwnc mode/ : Th? Pindplen applied t6 Czlv2 a layeru A7Q 0 follous: Gcela v4aY" _ nhou (d be (racted wher_a difterwnf absmachon 15 needed Each Iayyen nholud pezfonm 0 well- dehned funchon' 1 0 WOha function Ofeoch layer  hould -ba Ad hosen with an €yr towaad int defaning e7nclonally ntandeadi 2ed pnotooIs , O rc ()The ori" boundazi e) ThnlaHizebun nhould b & chosen t 7c Ipts Infon'mation fiow acnoss s6~lhe intenfacn '11 191212}007 /,ni ,/ 6 ` The numbet 0f Iauyet nhould be Ia7g8 anbugh, (Jthcut distinct functiongi nead not be thnowni [t)tvgethers in Ih, name layer oet of necemily , Gnd nmall onough tkcu th Cuichitectuw dbennot become Unwi edly' Stci(rnl !M L"d 3- SJt ? acjylin qs. frali)d ^ j choonu cJ-ojn}i ;io 5sho (rWmioi 1 5shn? / ")fninn! (hd %' {hed 70 3$i0
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 3 ===
+======================================================================
+TCP t rjarance mode I : '1 : D Netoonik inte-tac [Cyez' This layer acts On Kn inteafac betloeon hosts and tnansmis5i0n linkcs and wed fon MnansmiHlim datognam; 'Italso Opeci fie 2 tohat bpenation mut be pezfonmad Linlcn  Iike noran ainirand (lassc  hefinat db7 {l fill Ihg naquirumonts bf the (onnectionln internet layeru n 11W/' bri( `lwg  '  Iteriet laygr; The puzpose cfthis Icyyen is to Inansmitan indapemxdeat pocket into ony netwonl (hich tnovels to the  dtination 'gt includc > Ip? (Infennet pnotocol), ICNP ( Internat ( bntnol mamag? pnotocol) , ARp Addnam Renolution Onotocol) antha nlandad pc ket" fonmat fn thq layer  . . oV 17". AF 11", : fA! sHc} "Jlf  JitriIng ( 1 fcuull _ free @e3 1 Tnans_por_1a42w St enablea 0 Qnd _ T0-Qnd  del very of Ihe data belween tho AoU7ck and detination hosts in Jhe fonm 6f datognams: The pnotocol s defined by this layor a7 TCP (Tnansmission eontnol pnotocol ) and UDP ( ler '" ;la baagnam pnotocol): , ( "1' 0 tnn 7;' !U ;iln) n) <'U 'Wsl ~oncm;q .WVsnh
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 4 ===
+======================================================================
+Applicatton_Iayrr: This 'layer pQrmits LQT) 3. ..h Ig Gccem Ih 027Vic ) 0f globl 0n7 prrivate "Mntennet: IIh vauoun pnolocoln dancriibed in ,this lcyer a79 vintucl tevmimi ( TENNET) , . Aaew ctnonic mal (SNTP) and file tnans fe7 pnotocol | (Ftp). Somg Cidditronl pnotocals Iilce DN $ (Oomcin Nama System) HTTp ( Hypez TextTnansfer pnolocol) and RTP ( Qocu-time Tnans pont Pnotocol)  - kUel K |1 +^ /*1"'J} ~1 :?";|fxlol | oow1 OSV Naferzance model: ' <^ {imzni' s [ ' ntond fon oprn: Syntoms Intenconnechon, gtwan ncmed a it daaln cifh (onnecting lopen ayntems {hu in ^yntems {hau au opkn for T1 71 ommunication llth U92 othe7 ~^yntems OSI Iculem:   Vpo" 0 Pplicaytion Icuet1: With this layez th wer 1 can orcem Tho netwonk by wuing intezfacen and 1 / . ne7vicn Uke e/ecmoni ( mcli nhard dadabor ( ma' nag emant file tnans fe- (occen and 4ha Otheru ne7vitg 2. ! Kaj fj:.ov1 7  `  ) 1!^, / 1  `::f {" : ';' ` Prwontction layer' Praenlation layez focue) '1' 0n Ik iynlax and nemantic ofthe tnansmiHlinp infonmadion; It pezfonma Jako ^uch a
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 5 ===
+======================================================================
+tmonslahon; ocryyption cnd compra mion whaza Iha actucl infonmction 0xistinq intha tonm of (hanoctor ntruingn 1 numberun , nym bols is encoded int 'bit ntncams Convezted @neHAer: int onothe7 fonmand (ompnamad f?i} Jo "1ichW
+Session qyqru: This laye7 Utablishe Thq namion beteen &ifleront machinen, n onide7to aynchnonite and mai ntcun 'the intenaction betwean Tham: Ib n87Vic pnovided by Ihq namion (ayer Q dialcg ( bntol okon management and nynchnonitation: ` :i plok fuqni vf k? : ^^ V ' o1 4 accepls Ihe deda fnom ito Tnansport_lyyel: Jt accpls ced iz laye7 1n the fonm of indapenderit pckets pne Cind traOkmitn it to thq Auc &ed i laye7 in pnope7 Onde7: Th Othe7 functions (iuied u by thi} layesr QUQ Oenvi CQ point addreming' connection Contnol, and neamembly flow contnol' and Ia3mentation Qron Fontnol:'nct ~P cti , ~'oh,pN 1 ;7^ :"V"WV ~:xaoafnh Jdl } v netwonuk_IaY4E7 Iggical ad dramina and nutin Q1 tha major openationn pevfonmed b7 thq 1;1 netwoork layez: It tnans (aten Ihe ncttoonk logical K) addmin intu phy Sical NAC addram 1o fhat the two Ayntems naaiding in thz diftennt netwonko
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 6 ===
+======================================================================
+8 'on| | eouud also (ommuni cata @fficlently' A packet 31 ao rq curan a path to b follo wed tv rach at 31 th dutnation a void- im (ongation and fuiled 4o! | (ompon entn ,c italso facil i Jaten the auto matic updction df the noutey ? ;  1V''}i:1)
+Dadc Link_layev' 9+ '{5 Nz) ponsible fon 1: tnan sfonmim the naw tnansmission ne7vice into 10)i | a Tliabla' 'Iifk. It maken th phy scial Iaye7 fraa_ fnom Q7on7 bY man king thm no thatthe 7 ?TL netwonk layez' d021 not notic thm: 'Inthis layer tha (n put data is nplit into fname 9^ , Tha tc kn Caued out i0 tha data link Icuyer CUZQ fnam Oti '& M1)ri {)h $ '7 "r ,  Occn contnol physital oddrimin] ' &ror and fiow 9 (1) , ! ( ~1 ;6ou) '9 Contnol' [ubeiu 'W ) /. airrzr)ya} t ~ 3f irtrd Ujs ta6,!,; nVilr |: !|k 9 #} phy sicaL L0y21' It tncnsmits tho ind ivjdual 0' bit over thq tnans mission channel . Tho physical layer dah With Jha ducruption of Iho chanacteristi& 0f the intezface between fhe dvicn cnd thq 1y ) tnnsmisSion media hq 'prnentation Df bltn, Aynchno nitation of bita , data nate ! phy Sica Ra topolog71 lina Configuaton and tnan $mission mode 6 W T | Leo'ton I;9':lik n! 6" Rmatol'`
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 7 ===
+======================================================================
+Wth Ihzhap 0{ an appnopruate example ^hoco hoco nfonmation ftcws in @ five lcyez netwonk
+( ,1 '`  . ^ . 1' .1' | ': 110` .| A1 L layer 5 pnotocol N 4' ' ! 1 1 . |' ' '' ' '1 7Aj 1
+ 
+layer 4 pnotocol tly N Hyl N ~ 1 {~ Layez ? pnotoco| +lz Hy Ai H3 Az tl3 Hy Ini +n;i
+laye7, 2  !_ La L_ L Pnotacol T ;| H2k H? Hy Mi T2 l1z|H3/N2| Tz H2 H3 14 Hu T2 Myryuh '*T .` 4. '1)^ Drok ~otal ork Fa? :"' 7' " '6no:|k |''{oin '71 # : %'! a 74774"" bnpn Denhination Scu7cq 7 ' 31/'*) . * machine Od akob <' 033n0 machine  "1 . (9 pominc ! Noknnfein inriho malop 1 ' i1: ,.' ~ ^ 03i /na^Acit Ko < ( Jiovno^ 1 |. - | ' ''~lhi)[7Y' . :`rta)) '.. )r)n
+Scanned with CamScanner
+Scanned with CamScanner
+Hsl Idz
+
+======================================================================
+=== PAGE 8 ===
+======================================================================
+Cith Dceazy diagnam de hina c rent 0r7vet modeYand peczto_Pecz kommunicctr'on mode / CKent_nezver modcl: Iha c (rent-n27ve7 model "5 a distnibeded Communication fnamowonk 0f ndtonk ^ e7lic p' mq Uantoru?, 0 pnotema 1 Cimong S&7ver
+6jv'
+Pc
+Netwonk
+Mobile
+Di
+'J4: |
+{wfv) .#J 'a"l j"j'" efient W € lrenta 'Ond aeavic poovideru. Tha ((rent-ne7vera connaction is eMablinhed Ihrough a netwonk on Iha Internet: Hene , ^eriven /s 0 poweaful cyntem thyt ntora thv daa or infonmation init On thr_ "odothr7 haindn,the client is Ihe machine which letthe 21 jueru accem #ha data on tha' momote ne7ver Thu hyntem odminislnalon mc nci9 9 tho dalq 0 thq nenveru As all the ^envic aZ pnovided b7l q Centnalixed nerzvet thene may be chanc) 0 f Ae7ve7 beicq bo Hlenecked
+Scanned with CamScanner
+Scanned with CamScanner
+{ ' |
+
+======================================================================
+=== PAGE 9 ===
+======================================================================
+PeezAo peez (ommunication mode  ; Thpeer-@o - PRR7 modci doe1 not distingui- sh belwean client and e7ven inntead Qcich noda can eilhcz be 4 client or newver dqpendirg &n tha Whathe7 #h node is S / Noquenting Or pnovi d im the nqrviton) Each oda is 11 ~1 To be come 4a prt Of Cons idencd Cu 0 pQa 7 pec7-to -pecv ,a node mut initially join thq netcoonk 'i. Pee7-to -pec7 netcoonk ha the advantag?) 'OvQI Ulient-nezver Ihat th? nenvei is not botlle neckad | : | N) I1 an fhq ne7vicen pnov i ded by  th ^everal nodzn a7Q distnibuted "n a pee7 -to-pQe7 ~yntom: p'f ` r Ip;  | 138a ~i [imeia poerr ni/vn15; Y:I;{:7n 1;kin) ni /)920 vI /jo! ~#dicn 77 1/"L
+6| ' kcommunkatidn 2  z! CTOVDJ` {1^` link ;' ; ` ,' oOo C I' "til ST,, "infa5nT, o 1 0 1~Jh , IxJw1 2M} m } >lywn ') 1 ~M;"  U' Jr ion `  | 
+ .
+ . .
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 10 ===
+======================================================================
+Di fferixfiate betluean (onnection orented '' 4.1 and/onnaction Ien nezvicQ P( : ( ) |; ' . 1 1: : Konnection orenled ; ' (onnection Iem 3 Connection oTenfed (onnection, lem 0 eTIViQ ne7vicc (s Fulated to the/ is rclcut ed to the postal telephona ^yatem 7 (1 ^yntem "lwm { 1'c: .:' '.0 73 ' = ' v 1 '| . -  / connection orented Connection lem ne7vice js 20 Aehv ic is pne feld pna fo,nuzed by bwvt= bV lorg and ^tead Y : 7 tornangunhcationdy ,  ktommunitarion} > ^ ~; 11"%0 : 1/6f) mfci '/} | Dc " { &}mli hik ^ignaling is naramaruy No wnapt 0f nigmlim )7' ^ Connection Orented Connection lem nenvice is Aenvicq js fecuible not fean ible
+eongetion Is not Pssible (ongention 1'5 possible T" Give the tee Doen not the 0/78b9iyt;t dcuontea 0f Vieitobauqaant 6f packcets follow 4hx pacKets donot folloc thq Aam noutr Name noute
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 11 ===
+======================================================================
+Pnotocgts ; ' 1 :;; 4^ | : 1  ` A protocol is an arquement betceen (ommunicatior Dcutien how' eommunicalion in Io pnocead A list 'of pnotocol wed b7 a ayntem One pen layeri is called pnotocol ^uit.  ' '1 ] . Cvi : f ; 63) Topologiel; 311'(]| . / Netcuehik topology is th physical doign 0f G LAN which Felolvan Ihe Conflict Jht Occv belween (ompedem 0n the natcorkc atfem ptim to tnansmit C #hus (aan Hm  xtv:7'>4 3 20 )njx) U) Du topologie: is 0 netcuork type in which Qveryy com pedte7 and netcuonkc dvice i Connected t  Aingle cable
+6y 101~C 0l0  , s 'polci /! Ky? '0 ) 0): CO ~ri v17Ah] ( ? Advanlag? 1) (ost etlective , - 2) Wed in nmall networks; 6 ! '116 ('){ 1 ) O ! : 3nnnij 3) Qa7 to underutand 4) cable A& rqul ned is Iqant= Companad t bth7 netwonk topo logy'
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 12 ===
+======================================================================
+Disad vanlagyy' 1) Cable ha) a limfted Iength: "' : `/ `. 2) Slbwve7 than tura to pology' 1 '1 1 .*: 1 . 3) Qablen fails Iher' wuhole netwonk ; ::|.o . 1" | fail '  . ` 4o'^ '` 4) If netcuork tna flic i$ hcavy on node aw mor7, then Ihe pezfonmanc 0f Iha networikc ~ ! k )on` + Inv:y decruanen:, " !' :Ivj;  9 9',_J <;7?   "ifj) w '1^ ` l~|^ ' Q 0 Ringtopo logY : 91 Is et30 'called  nlng topo l091 bqcaue Qvq ny (ompute7 is 'connected to" anothe oilomputer: ;>6nn1 0 < ` '6iv)1 33 ~ ( 5inf `ny Okr :1hm; Kn; ;` Wcln^ Nnin ~n:)snnx Advantage : I) € hacp to ins tall Cind expand Cccem to 2) Cnch nodezha fh nctuoorccc L ~nJsl 3) Add ion 0f nto nodc do0 not Kh1 dag nade thc pez fonmanc of thq_ Tc6>| >i netwonk   Wdl' (' F:! 1J:) />7 Fxilo 6 6onjo '
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 13 ===
+======================================================================
+>: pisadvanlag2! 1) Tnoublenhootim is di fficut, ' ' :: . 3  : 2) nclatively ex pennive ilm ,~11 B) The failuzs Of onq node 'in fhe TUna Iopology afleds the othen noden in tHe ringt Tvnfnon! Nesh TpolcgY: 94 is a point_to-point (onnection to othe7 nodc7 0r devicc ? Ai noden 4 a7 (onnected to Qach Othek Menh han pn-4) physical 6 chonnelo 2 > J0| '.36, to Iink dvicn: `jt; h1(10,y 41); Ft U) ; pc) > JJii) ... 0)i/))tyh p9  M  !^ 7 :Cslnnvtnaig Aon: `:: > ` 'nrf ,)t| Advoplaq2): I) Pnovidcn necuui= and prui- vacuy- 2) fauut  : i5 diaq nosed qailt' 3)Nemage deliveruy is morw relioble 'Ji 0<` 4) Netwonk corgenton is minimum Kiw) >nf (, " dua t lange numb;n7 cf Iinko, 1 0 vs {{7 `o/1/ :oonc pnm1 Disadvontage i 1) ax ponnive b implement; ! ~ 2) Difficut to configuzoond; install 3) Bul l wiring is riaLirwd
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 14 ===
+======================================================================
+Stu Spoleg+' Herw , Q V eryy nods' is eonnectad to or cntna| node; Everuy " dvica inth nctwonk is dxdtlly (onnecfed J cntnal node and indiructlt Mbnnected to eveIzy' ncde Aducin - {n: 71 !4' tagea Eqy to install: ` ' ~ { W W:"; 4" # 6 Fallz . `` 0 ofonc , Computer d00) not aflect 4ha 0th7 xf! ^ Computer in tho netwonk '' Allows Qay eruon Coruwction and detection;
+Disad vantag?): 0 hub failcw laado t +ho oveza| l netwonk cruvh, JDvUJG bon Qequu' n) mor Gmbunt 6 f Cable 26 expennive' dus to the ( ost 0f Klion) Koa tha hub:! | 67wm <1 WTvf p *CwaHC* 6) Txeq topolog: A truc to polog7 K 0 net wonk tructuze thout io nhaped Iilce 0 tree bith Its Kany bnanchen . Tnee topo logien have a ncrt hode & Which I$ (onnactad F0 othe7 nodq . hfenazchy' 1o.'' 18'0107,7 621jnS JIo ' (€
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 15 ===
+======================================================================
+Ad vonlage2: 1) Failure of on? node Dqvrt affeds The tat 0f thc newonk, 2 ) Nodq rX pansion i5 fat and 4a eay ' (`"' 3) betaction Of el7or is an ej pnocem: '` ( :^ , M;i . 4) emy to mcnage and mainlain, Qisadvanlag ?)' 1) heavily cabled ^' 6wai :7   2) Diflicu Fo configua ,  6:q ov : 3) |f mora nodcn CUw added  hon its muntenanca is' di ffiuytnn!
+Hlykiud topolo9Y: (0mposad of one on mora d ifternt v ': V a, w7! , ( topologien: 1>) "pook "X@~To 'ikni" {ocyri )5k fdvantaga:': !) Act Q Hectivenim Fpisad vanta9a2' V,31 pn:o ^ npicx On 1) Nona complex Than Th othcz 2) Diftiud eAdto inslall am Iod |  (1 3 confi]" tiza . !6` {nnrint Irotyq"  J I;arlc; 0iprv tJJd ti , 'vn(  . 1~hn . i1,01) irri JJon Fno (psl r 4to abont chonnxn hu po] S |} B"inroxl 4"0 I; ~Mlv:Jo.05f+)ton 1,;> ;abni, ' #lwn'' `  `, Ini)J >0 'stnl   '  ` FCriquan .
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 16 ===
+======================================================================
+) Wrute down Ih naaons fon wing lay erd 4|pnotocgs- 1 :; `1' 1 | ene|Th Basic Neaon fo r wing ~'C loyere d netwon kine apnoach (s thal 4 layencd mode| tarena tank, ^uchan dcu4 Communitatons ,and bmaks j4into A Oer % of tmkn ( activit'e 0n com Ponenis <| i each 0f which is dfinad and developed inde pen deintlx ` f n1 1 Whi The rranon for Icy end pnotoeol CUZQ | given beloloa Chance: when eha ngu) CUlQ made to 0Nq lcuyer Ahe impactoh #ho othen layerun i5 minimized '13/4 ( 'f,lnosh) 2) Peian; A Icyyerad mode | define) each (cuyer Aepaiatelv Aslonq cn th intenconnachon_I batwean lay erw 'rw mcun Constant, Dnotocol denignt can npecialte In onq layez Cuithou worvyim abou how any nq W iIplem entaHon aftech 0 th7 (ayet. 1 3 Yaping Thtoi topicd ,apvctich, andactiors into 0 e venal ^malle7 , inte ruw lated nbuping '
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 17 ===
+======================================================================
+Tpeuble Ahoclim: Tha pnoto Cols, actions and dala 4) Conlained in QGc h Iaysr Of th mo dcl nolade cnly totha puuipose 0f 4hcd medel Iayeri: This Callua) tnoublgohotlin a ffonts tv b? pinpointed ontha catic) out the ' nupected (ae of Icye7 4bat 4hy pnoblem: ,c 4' ') 4151 | WWci1 Standand2:' Pnc babl y the most st impontant naon qi7e d mode / i5 thcu itutoblinhe a fon ting oloys pnacnibed qi deling_ for intancpenability 1 4 e  0''' 1 ( vandoru develepin products betweon thc vazol) thad p7fonm dffennt data communic(hon ^ " ` ' ( ,  01 pnlojed doks Ccal | Ynowytori ablublniouj T1'^1  Whyitotinct (' X iqt Ts callod netcuonks cf netcooHtks ? interuet i5 0 netwonk 0f (om puter  Ie Jloba) 9tis callad netconks of newonks becaue nathe7 4han havimq one layor whero Qll Compuder a7 togathei On Ihc nome Ieve) eomputaru Cz {houped togethe7 on nepancte netwonks on Lans,  Jhene netwon kn CUZ nmall gnoup of computero which can tallc to &ach other when any 0f then_ dnouped (omputern necd t communicate with a (omputen outsid bf thein qnouplnawonik , 4hc y Will Ae nd 0 &atewucyy
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 18 ===
+======================================================================
+' [ Which will nolte t an onothe7 gaytet netooriy hpecitic (Om Iputeru: '  ;: ,i [:7vn 3' ;iml.;V'l T,` 1l 2{{1 : .' M' `{ ''1 Diflorwnco betueonKntengl and intnanet: 3.' ' 1>; Intennet ''7 ("Intnanet` 1 public netcbonk prIvate nctwonk J1 F Iam naylzu 31 >} ktc- Moria `^euuzah fla Wde : : 1ty!  Prii , 13 Kionyonk can ac cqm th only tha WJez EA 0f Ih_ wia infonmation ongonizaion bave 4(c m "cxh):J { 1; Ic h? morq tafhic ; a hm mlnimum tnathic baccue itin 0 be ( aue (t ha a woonldtf d& netwonk lem numbe7 of wer Unlimitad werw ,ri 6 ; limited ed , leru ,rW UT btwqm)} T) *n)1 Inalv:" ei '>Whli J" Tt 3 ) I)YY 27/17 } ,)n): "ndolon 'ollon <i t(| [x/"frij) 09 2,7)d'J1 ,,1 Loi 9n) Mivorl 'I } ' | J T) 019hqC/ 1) (J) C . o o^  :l xM0 | J1? ~nryssh1 Fncg? C 7i0( Higmon ~> !onp Mntri , D) , K' Po6d' 5 .d ~; 4 Ml o; {vid.) pa (1)f))7m/)) 607030 ~ . )^ Kan :. si.1 F3)i0)) { AM , S07;){ ijnC1! >^ ^ 65 ) (` Wi ,; 1' hy,hivnp 1" ^ #2
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 19 ===
+======================================================================
+Compazson balwqa n Lan; MAN, WAn;
+LA
+Mn N' w an Hetnopolilan #h wida CUwa 'alidal Qwa 'i | .' nc (bnk netwonk Netwohk  ` '  area chol ) (omplicated Qaiqn t0 'i 1 L| Com pliccded and d i fiuut maintan and di ficuut . | ] ( 1 ' + 'maintain ~:? 7 to mainlan 's and' undautan ' !1 and undc ntand Nozhate data ` `id locu daa. tigh dcda , "'V 3 hnansferung ' ,~, Kotnans ferrun (tnansferrning 0 peed 0 peed {ipaed,m; 7 Alode7ate low lan Congeitit on Conge)tbn conge)tibn an" Coveru anhd coveu 0n Qa COvem cUa within thatgoe; @a Within lokm t tov km 76 ' beyond Iokm Ikm t' Ikm  ' | Kj'3)CV Ma (' ~" pba 4>vy Vialchzapezni Vplci Compehhve rrspak "Xopenaivc 6o <i nll : J| prck,2{'n ) 0n 6oln ? oVR Haidcuac foc) Haidlwa - focwu Ha7duaz foc 0n on dala 0n 7 , / tnansmission n. | communication nhauc;' 'i nano Thd ^ >>  Irnc] Io 4, n 0 2) otoar DP^
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 20 ===
+======================================================================
+DitleCnco_betoqen WiFi and Winax : " ' wifi WiNAX 4 ( Xinlem Fide lity o' Wort Id wide Intero Penabitity ~i^ ^ ( J81l,|fonmic nowave accn Shont narga lerhnokgy lorg: nange tachnol69y K1 7 ; !ncryphion tochniques encny ption 'technicu) a7Q '1'8 @w  R6y and AES >  ' 1 3 DES ( AES UX Ha If Duplex `i ' Wq Full Duplex / = Communicahion' : 31 Communication pnotocol Pnotocol 1 ,>1" '. . >J JI 'wsbl ito .0nj) oif "n njJi lu ,('13> f) Compason_ belcoon neqment; packet and fname: 7a,, ^ J Legment C packet 1 Hnam Pnotoco| padq Pnoto co Dada Pnotocol bd4 unit at tnansp pontf unil at netwonk unitat pdda Iinlc Iayor in (alled 0 layen /s called O) Iaye7 i5 Called 0 egmentn ()) packetyiysl' fnama ' 6i ` 0lyl (} ) : 1; Iporu numberu ! kIpi addrunin azq MAC adrame &u& an 0 pauit of pant of a packet a paat Of fnamen ^agmenta
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 21 ===
+======================================================================
+. Aduonlagg_ Of computernettoorak' enhanc Communicaton and avalabilit: ofinfonma} llows for mona (onvenient 1Ou7co ^huznx J'! maken file ^ harng &ania7: , , ()T;1 (7 = | Jighly flexibla | 7 ` 11`;72 6i } : inexpenaive ~yntem. ,Jil #xhil n,! Scrce) Cost & fliciency; T"{ 6>rit) c:} H5 boosts ntorcge <apocity; , h:4 " )(> #,ilgy ? "Distinqukh_batuqan unicant; multicanl and bmadcot TTt )) > 77 77,)! ' Dasxs fort unicant Aulticant . | Bnoadcant (om paz son ( > Tnansmission onc to 0ne O1 to many On to all 41 X; J (o 1)J @andwidth wnted tiliaed wanted vi 'QJ ! n '  .Jn atficienllt 0/ ~i ((1 }" 6' 1; GnoupGiriL Non) ;n Yan , /fi| No } UJ ' ) monogemat,iW' . 0'6oi dy #iofidje Socuityy  ""| safent,. 3 Safq U1 2|/ | Not safe Mt) >#H."n '4nm[ hnvyri J ,n d+ [hfi n 2walWik (r )iclom .( )' Si 3udv 1/),} 4i Icl 1U 6 .| An Icpn ). 7w AAonwlib :1,7 oA 1F ali , 0;Af "imri 2j) . n' . nn
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 22 ===
+======================================================================
+Distingyish_betwecn _Compuyteinctworko' 4d_ '7; ayytonomck 1Y ntem'  '11.i ^ ) > In Distn( buted Ayntem 1 Jha kxistence 0f multipla dlomdlu) Computeru in 0 computer netwonk is tofn s pajant 0n nol vis iblq to the 1e7: The 0S cylomalically allocatan jobs to pnocemoru_ 1 nove) '1;' ; flan amona vaziolu   ( omputeru W Ithoyt explieit ' ^ ^ le7 invention. Ihw tho W) e7 is not JOC MWaz | hat the QUTQ multiple pnocemoru , itlook Iike 0 vintucl unipnotemor 0 fen & Icye7 of ~#o| Aoftwcezc on tp 0f the 0s, 'called middle Waw , is NQ) ponsible Tr (m plam 4) 1"t / .' antin tni3 ! this mode |' A Ji'1^ example Of {his 7)1 - A dud is W w W , 6'>) ivcj; `  'n` athnkl In Computev netwonkn ( wua Ily nquina @ Wen tv expliully login onto one  mching; expticitly  nubmi Jo b Im otely expliatly mo vQ filef data Cuaund The netwonk Ond genenally handle all the netconk monagementn peruonally: If thq mochinc han ditlerw ru hcuid UCuLQ and d fHerunt Us tht i5 full7 vis ible to #ho weru), So,dhe diftercnta bettueon two ~yntems lien lith Ih nflwc7a nathev than wifh fh handluara
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 23 ===
+======================================================================
+2042) Nyaiisl thorm {r: . Moximcm dal a nate of a noiselam channei whose bandcidth is H Hx and (f tha ^ igna( € onsists Of d iscruate lave(, Y' Than Nyquist Ihoonom state:_Ie:lv " Nax dala nate 2H log 2 (v) bits(sec. ' `ifo NOC; ^ignal Ievel V =12 :J1;) n~Vch> ] Hax data nate = '8 6 0 bps ' ' ao ' yan, 0 ' Noc, Nax data nate = 2Hlc 2Hlogv) , 1 ? | T ' 0TY, 86c7 = 2Hlog2(2);nJrs chtli Abnf ~'' 017 H = Y21 HAt :{7"! sli : &] }j 5o   209. 20 ) Shannons thebnam;" * xlilnt  Tha Ncimum dada hate bfa noisy y chan nel lhose bandwi dth is 13 11+ Gnd Tf Ihe nignalto YTVnivi noke nati0 15 3" thon max data natte 7/ aiilnicgi 0fol =Blcgz(I+.3)  NOCu; Ce Knol, Snedo 2 I0 4.` Iogi snr . 017 , 3 0 (o loqi SNQ Ol7 Snr = (03 = (67 Now, Aax dal a nate = 1 l0g_ (I+SNp )  017, 4677 = DX logz ( I+ I6to ) 0171 B = Uol' 3153 Hz
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 24 ===
+======================================================================
+J |s L11 20 , 2T0) Dtunca belceon Unct an packet nxi Ichirg' Xn - '' 1 4 '14" '[; . itemy Cinzcuyt packet Call etup 1 #lnquirud 4; 7 Not  ` |> ngqurutla DDeAiccted physical path , 49) ' ' >71 Ng Each pGckcet follotos the Yxnmnin "{Nd 9 Oam ndlte 1 41 , ! Xt)n .6 .^ paclcetsazaive Ineder orde7 YU No 1s a ^witch Cnanh fatal key^ ' 1 )A No Bandtoid th avalable/1/ ' Fixed . ) [Dynamic Tim of pos sible tongution ) |at nttup time On qveruy packet Potentially wanted YU) N6 bandwidth " 71) 41 'Olyio,c {(1^ ( K Stona-Gnd Ond _ for 7 nlouzd , / o/| No ' "ivov o ~ ^ c1fin tq) tnansmis5i0n ')/ 2 ~` 4 7 uto .c cocl| Ipe7 4" '91jy1 Q hazgird Pr  minute pac Icqt 041 !Wchl1 A> )) V 1 "M} .J)n"/ 'J),)A | JP > 1W 0103 8 i12 |1) 4"0 ston oroi .1W1 !11N) a{' .1 TJ ' "^  ;"(ml {14) .A)
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 25 ===
+======================================================================
+2016.20) :;' 2 | '.. 3 >| Ur wwilching f | iV '>; I ;1 phanen (onnect on Utablishm Qnf , 9t hw daa mansfez, d isconnection: be tceen en davicen mwt Tho communications CCn (ommunicato. $0 bQ Oet Up befora thay itXs <onnection oniented  m/ !6 ! >' ' St phoviden ond-to-and connection- Th unuit,in dedicatad ta Jha two 8nce netup, if connects fon tha dunation [ pf tht node Cennection; 471`) )'14 o| vil:7 (x. N0 delcy in tha data fiow: n 'niUjp; ! to fiow any 'Othe7' data Qlvven ifitis Don'J alloto frxaa _ Copnection @tablinhment #ina in monq_ Kore bandwidth in NqUrud An axamplz of a (ruit-nwithd neworik is ananalcq telephone network Alrr nendinq data it disconnects fh ( onnechion:
+Meaigr qwitching: Memagr Ow i tching wan the pnocyvorr of pckaf awitchina Tbpz*y-hop data deliverul - fveny node nlora dcdd
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 26 ===
+======================================================================
+Node mw} be (apabl & of otorina fu /| memaqa N6 pruc sla blished (onnechon needcd flrcient tnaflic mancg ement aderc nctcon k tnaftic (ong? )tion. I4 hcu n0me dlay due to ntor and . delay, "auninc ` ~1^ P/ k Xx!Za) packet nwitchi nq V:) V,yi 
+pnentablished (Onnedtion n aeded 2) pivida dala intu package) 31ri 3X pxflernt notte in wed tu end paclcets. Raaxuns mon pnocemning pocrz' ' ` Requitu mona RAN:k,J , ~ : >. 6) Nadc-to- Nodg ddda dq livery 'MMn : 1'' 71 Utoc) oi ;roi;h {n) nIrsiIdl;sl ) '1il '. V`  6uiip".ni chlhic hnn? .v `) 6:, hsli:,c.!:11") ') sprnm . '1 ?" Yo"1q;l/ @Yryin 1^ 0 0 ' /}nn ^: I: na  0oik . 1,1
+'{oi--hi 27 w 1 : :M} On  <vnic !: !. `;:1 Kw|  `` 1'71'[' '71 Ayi ''` i:c! ~ 1., 1 ' "1. ;
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 27 ===
+======================================================================
+c3:1 7 ':.' 1 61 Xll, rqicut nigmal" ? ", : o.>171 .^ . {' `1. 1 .. '.;1" : L L . L'aJexni= 0s9 1'' '; u: Ms | " 1o~ JPktz Tim PKti Hpent Papghhonf (> V( Pkt 3 hunHrg delay 0sg F dpktz] fonar Pkhi lqulgking Pktgt (fik pk+2 # hop "Ckv. Yamnil Pktz Call (al IAccept bala 0 aignal Ler| "li , Ks |:s Ab Bc ( C>^ > .| :Ilc;: % {y');} IaJ'T (i hunktiunk huunlk hin;| 1"T {~avf w ~'> V. ( ; | 4^ {1 L |" m ]k:p
+A 13 einclt awitchfng
+B
+A   B C packet nwilchin
+0
+Nuncxh,g
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 28 ===
+======================================================================
+6
+[x. 2c ) Adyanka921 ) Uide7 band width and g nate7 infonmatiun ( apacity 2x  mnmunihd Io crisstalk 3Y1mm unfl to nlati c intenfenonce X)Eovinonmental imm unity afely and Convienk, Kotue7 tnansmission 1055. "` : ` 1"1 4) Swuty
+Digadvantag?u: 1) Inteafacing kost. Va" Strungth In.>'1 1/'6i' ' 3) Remole & lectical pbcue7 ptical fiberu cable 02 mon 2w) ( eplibla tolossen intnoducd by band ing the Cabla 6 Specialized tools, eawpment and tnaining
+G 8 G
+~ | {*' :1 C'a"l
+F : '5 '1"9 (' .
+F. '  V
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 29 ===
+======================================================================
+Dnak Tha qrhnomagnetic Apectum anduhh Yanq?) of fcisted pairi (able and optical loonkcim '!d fibety  ^<` 4 . ' ;.;'' V ( 0' ,r` ftx2)le 'Io2 (64 lolo I0l1 I6ly lolb (0 l8 lo2o 1021 I6 (b8 I624 | Radio Nicnowave IInfraud UV X-nay Olamm Nay ! .  , | 1` | ` visibie :y;' {1 !ight,.!'' 1 (1n'(1' ~: .  ^ | 1" 1 ' ') ~4 12 Iolo 16" @IL 3 10'4 15 I6ly 16(8 lct (o3 16 186 ~7 ' Twisfed pin Satellite K Wwl Teirutia / >M ^ {/ 0 ' (oax V /' Qicnowave_ 1 >  '. FN Am Hahme 'Qadio nadio 1o 'JIntt WiO ) 1" L'g 3 1 ,` Indt ,
+Band LF MF HA VHF UHF ' S#F EHF TF "0  1i7 " ~1'3iWJG)' '.1 : {;' 'lo1  X;1 ~;v1   'i''1"n .  :"
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 30 ===
+======================================================================
+(ivs_a_comparison amona Coaxial cable, LTP Cabla and Uptical fibex cable: [ ' 1 ? Chcaclni shics U1p Coaxial IFibez opti< (ablen Cabla) Bandwid th ReiaTively] Hishe7 Cimatoy with ![ ' :)] 'Jocu " '(bonatidthlfaR higo3 bars width Maximum (cwm 2 € - bwom Zkm - Itwkcm) Kabl e Tangth Interfehnc poon Ietle7 thanl Immunity to Twisted envinonmental nating pair (ntenfeznca_ Wvr ca bla ` Inslallation 1 c hcap (05t11e7 Costlic)t to (ost '1 ' !1 Jhain twistedl install Ipain wine) >,7" na diu 360 degmeqa 360 degremll 30 degreg) /feet Bend lfeet feet 017 30 dogrcnl fet ewuil;y loko low high 5Q (~1^- AHenuation veruy itigha ?phial lowen high Than atlenvatibn nata fiber atenuation nate
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 31 ===
+======================================================================
+' . 1. '",  pifferwnTiate Dafcuecn bandwidFh andFhnoughput: Bang6 idth Thn oughput mawd a physical mzalad at any laye in  | F: 0S1 model 1 . 1 |` .1 (ayerr pnopery  ( ;1 Dandwv (dfh doen not Thaoughpul depond)bn L dq pend 0 n Iatancy on Ijhkl (atency on Iho link  :>  | 3 ~' Real torild peafonmanc Throrw Fita| pa 7fonmanco i: ac tual ammount 0f datc mximum amount of Inave | #hct (Cn be tnansferzd data that can a Iink erc 71 ;4 thnough 0' nctwonk Ihnough network 7 |1; ^ Tiw ~ylslclcs:C rnty 01 and multi modc fibx bedcueen ninlg mode DiflernYate ~ 1 Singla mode n | 1k Nultimoda : , + 4! : L lowuaz band iuidth tghen bond width 2 enuation  F highe7 attenuation iowur7 aH &  wed In LAN , n2 &euHy wed in Telacom Sa ^` ( ATV networiks '     |nyntoms 61 &anal fibur '7 I:" c: |^13h A natworiks Wod a)  Appli (abl? to Applicabla {on nhorxt ?trnm?nitation] [ dis tance d{SFanc (ommunication '.1 ' :t ic; '; 1! High ? xpensive Iam expQ nsive{ r  1  71 / 1/yl ;j01` ''C )) Wl  1>{1'11 i: 0 .2 ,    '
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 32 ===
+======================================================================
+Chaptez-0 % Daa link layg7 wyte 4c0n Tha basic functons Of daa 1 Wk Icygt {in>i " 1 ata Tink Icyyen is 4h? 2nd Icyyev 0 f tcP IP mode | Jhad delg w ifh tnans mission of data 77", a(noss 1 | phy Sica| layer - Jt do al wifh hansmission" RToru, nogulate) Ihc fiow 0f dcda and pno vide a well detinad Intenfac tv Ihe netconk S" (| ` lcy e T Tho functens 0f tha data linr layea az given bx lbw 1) paming; The 1F)' '; daa link laye7 divide tha nmnam 0f byrn No c/Ved fnom the netwubnk (nto 1anagoable data unitn called fname). ! 'i'0 : 2 ) Physical addriaming' If' tnang Q7 to b2 distbuted +8 di fenont ^yntems on the netwoni th; data link Icyor add5 a head &3 to th fnamu tU dfine the nende7 andlor Facive 0 f th fnam  ! 1 0; :An / 77/ ) : xontol' Tha dalo nate mul ba constant | 3) Flowu On borh ^idu einr tb dala may get (onuwupted 1/  :vi { Wo 4) Eruon (o2hol' Emor (ontokis nonmally achiq ved Xhnough a tuaileg added t the end of th fname 4nd t detect and 'aq rtnansmit damaged 6n Ist fna me),
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 33 ===
+======================================================================
+Conhok-chan two 0n mona devic CUQ 5) Acce m Xthe ^dme Iin lr data link laye7 Conne cted pnotocorh necemary to detezmine lhich davic NlQ tho link at any d iven time IY €ontnol 0v27  . ' 4J ) ` / *: . . ' 3. ;' o) ^ '' '1 (.) ' . ' Iink layen is The functon of 4he data 2015. y(a) '1 The Jo pnov i de nezvicc ? t tha nettork Iayer pnin eipal nevic ) is tnans ferinq data mnom mmachine to Ihz nettoonk Iaye7 0n the ^0u7ca on the detination machine, Jhe netwonk laxeni Othe7 'comgzori nevicen, Qu'A (!: uid~ (onnectionlen ngwic consist3; 1) Unackzo bledgqd machine nend Indopendent 0 f hcw ing #h Olc machiria Without fnxomu to th dentination dutnation' mathin acknbcledge nav inq tho them, No Icgical (onnecHion is etablinhed befor hand or relecued a flerwonid' If a fnama is [ost du to nois? on tho ling, m aHlempt in mada to detectn Tha loss OT n (ove7 fnom it Intha '1^, class of newvic N) data link layeru   tha appnopniata When thc !1on nata (s Ie that Icovery' i5 |efl +0 higher Iayyeru, locu ^0 9tis also availablc fn Tal-tme tattic,nuch Cn voik, in Which late data 0Q wbrue than
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 34 ===
+======================================================================
+bad dalc . Most LfN $ We unac know | edged eennectionlem (e7vica In thq dafa Iink laye . 1' f | ! " `. {*' . Acknatokdged (ennectionlen newvic' wha0 thin 0&Vice 75 offeniad , heita &w ntili no logica (onnectionn wed but each fname "s 1xaividually acknowoledged, In +his Way , fhq Aende7 knoun Whethen C fna m han azzved coruutl . If ithou) not @uived within'a )n ^pea tied Hime inte7va / , it can b& nent again, dThio ^e7vic ^ W) etul ov €7 unnoliable (hanneh ^ucha winq Iem ny ntemn 9 6i/ron 'J1.>'11 ` K:[; :T~" ' F 1 , ~i RC >c;3/ 1 2)','14 , a!~^1 4-) 3 nxxnotoledged eonnection OLented__-nezvic2 ' wixh thin ne7vic, the nOUnca and dentinction Xnaching 0 tablinhzn 0 Connaction befona any daa Cuw tnansferuud Each fname nent; ove7 the Connection io num bonod an Jhe datalink |aye7 galucnteon Ihat- Qach fname i$ ind Qod neceived (: ' > | Fuuthe-mora, i+ 9 Cuantacn Ild each frrame is netaived exactly ona ond all fnamen OT ncei'ved infh righl ondcz: How ave7 itwonks inthnce phae) : uitablish 0 connechon; Oend non fncimag naleaser-he cdnnection; . "1 <
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 35 ===
+======================================================================
+201.300 Fnamica:' Bnoalcira Up #ho bit nlnams inlo fhamgn in mono diHic& Ihan It fimtappea T) , Acld daign mwl maKo iteoy fora 1taivek Xo find Iha_nlaut 0f new tnomen lhil? wica @iHle of +ha chapnel bondwidth: We 'will Iodlat fou7 methedy ! 1; {il;n`I: al;1 This mathod L2 ) a fie Id jnJha V)Bytq_kount' T 1,1 hocdor t npecitt tha numbe7 bf byten in Ihe fnama lben tha datta (ink layer at 4ha dantination Xean th byte ebunt, if knotus how mony byte) follotu Ond henca lhew tho end ofthe fnamo 0ne : {Byte count ";n} 4 uo/rbyfc J{; 6 X1" | ioi1 -, VAri 5711/213/u 5 1ATx T[o g 0 |u/2 3 4/5 6 glalglglo/u2/ Fnam 1 ;6 Fnam 1'^' fname $ ,i f otmam 4 bbyte i | ' bbyte) hn &byta 1,`17 vIk  & byte Fig W7: A byte ntroom withou etuzotu [rumk _ eizon 6;/o) o1WJD irirl,| zicll 5 2 |3/u t6 /8 9 2 |o| 2 3/4 s[E s/ils 9/|/2| 2
+Fame 1
+Fma 2 " . . % Nol a byte (wnong)  Qount . | ` `  fiqu : A byta ntnaom with eruzon(0ne)
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 36 ===
+======================================================================
+2) Fiaa bxto)_lxith byte ntuHlina: Tho necond mefhod ge+7a7ound `ha pnobiam cf ; - , hnynchnohi?ation aflar Cin enron b7 Qach fnarna having , ntart and end with ^pecia / This b4te in Callad Q fiaa byte , which in led CU) bolk Jha nta7icg and endina delimiter. (aq Hecxe7 Pay load Fe Id Tm|27 fiaq '1 Whan #ha fiag byten occcuw in th dada enpecially when b inayy data nucha Photoq  napht 0 n ong n @U7  being mansmiHed . This ti} ( Intenfera #ha fnomina To nolvg #his pnoblq 0 insert a 0 pRcial @lape byte Esc junH befonq Ahe acaidenla l floq "bYte in Ihe dca Ori tha nondona dcua linki layeru The data IinKi Iayen on th ncoi vioq end Imove) theietape byte be fona qivird the dada to the nctwom k layer This technl quq ( called by tq atu finx Fl33i
+)hml 0 " a;'
+Xy)| (01Jr,J'
+Xi
+(,1) j Al) 'c"Ti syA'' |
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 37 ===
+======================================================================
+:T
+Oniginel bytes , aflerintu flina ~ Esc FLal 13 A ES ( B 6  ') ; 0 ' 1 F; ES ( ES (  ES ( B ES ( ESd ES ( FlAbl 1 'c 17'04 ES ( FLAl? 3 ESd ES( ES < 1 ES ( ES ( Es e 1 717*5) bv)>6 1//1 )"1 M*Fn> 3) floq bils' Llth bikotulliq' then Iha nendarc; data five consaclive 1s In link Icyter qncounterlln ntutks f0 bit into thq )*}n ~h Mita , it automatically and the raceiverunre five Ougcir], bitntnam; 1 bita follbwed b7 & 0 bit eonseccti vq incomin it auomati dyuttufls th 0 bit. cally 0iio U M I M 07 |0 3nja .  isjd) | hal )) oiio U M O 10195757  Jea 4! ' Dnieji (brta ii stot' 'J6U . nlufled bito; +an &' ~j lom 0 UYY (UV; U; W, M cDPao; 6 6 d? Phy Sica) (ayer_(odin_ Violtion: 'The  lantme thr 4) L2 & ^horu UfA fhom #he physita) Sf fnaming i5 to Tayeri'In this,'We WUR omiq Henved ^ignal 10
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 38 ===
+======================================================================
+indicate the Oiayt and Qnd f fnamey ' S6,iHIS Q0n Y to' find #Fa Aiart and end 0f fnamo and Ihane isno need t8 ntuff tha datas
+[o17.306)
+po th nidu Autkentifation agnee on 'ptions
+| cquuen rc'!/ datac ted 7sFonn ESTAB LISH  AUTHE NTIC ATE nx , Pt >vir sksns vi } t ` fafled JoJa` 4 ! @ead 91" LM*i' L+A[frrvgsl10 1; Jatn6 ~ '[netwonk [vcn11607 :dl trin (jc rsl f>dl kd ' [vi) n !ic T15Tfail O)F0'" afid TERNINATE OPEN } 0 i0v | ! Jiig L {rwpped % ! Dorkk I!I Ncp 0Mm( JlI 9 connecton 6i444' slate d iaanam for bringina 0 PPp Iink up and d8lon:",  js Sucha diagham 0 €an dencrib 4 Iina made up and 'dwn;' The pnotocol ntatn Luith Jhe line in ihe  DEAD,atafep which meqn that; 0 no physica) (ayen canuien In prent and no physital (cder
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 39 ===
+======================================================================
+((     |cennech'on exists. ffen Iayar connection m @Atablinhed, thq ling Move) to ESTAC Listl Al Aht point, LCP option negotiation bgins  which Tf AUTHENTCATE Now thq two ^uccen fw , Iead) to pazhe) (an chackc on rach Otherhn identitie iF " NETWORK phae is,  'entenad the dznined: Cohon the :.1 Nc P pnotocoll 0's invoked t (on pricete fialuza appno layer: If 4he (ontiquuation 1s the netwonk is naa ched Ond data hnans port Ouccenfil QPEN When data tanspont is fininhed, (Cantake Place . move ) into the TERNINATE phae an dh, ling 'TW | fnom thena, back to : DEAD wuhan tha cauzle in "~ 1 dnopped ' 1jii.! !ix Kc aibr  | > } |'  :a: Kootn'`  o1ln 1' ,mhsh ytI 'Isntnn)  V2oly&(0 ) YXLc: 9t is a bit o1ented pnotocol,   |`-M1TU  viewn Xe fname 0J & collechon Of bito . This f pnojocol WR bft ntu Hlina' Ton data tnanspuncy; Stwen the following fnane fonmat: : ' {1' 2 !.;_(~ LLLLA Io  (0 Addnam (ontnol DAIT cha( Knum olliio 8 QWWLWO flag byte Addrn: to identifx 6nx 0f the tehminal) ,
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 40 ===
+======================================================================
+0 Ln
+Contnol: fori Aequenc& numberu, acicnolledgamentn Dwol numberw and othe7 Pusposeo'' 7 ') / Data _ contcn any infonmation: / !31 T0:" ~ ChecKoum: eycl'c nedund 0nuy (8da ' :1'1 7 (1`,> (1) *~v` 76) < >lf] :i PPP: ' This pnototol is chaacte7 0Tu'entad OTY > !Aj} Byte Orentad ncthen than bit pru'ented a HDLC 9tunea the' fallowind Fna mo: fon mact : ,~1* IY1~ Cdotnt Kua 624d,c,591 / i Io Woa 4   fiaq Add ncm Contno| pnatoco| | pyload check flag umsl Kin 01)lo M 077 t6 | ( otni (>4xo Jj 0immo (i F) Addnan alwayn nel t0 Ihe bincyy Nalu | Ato indicate that aIll ntation az toaccpt Ih tnama_ Contnol: The defcult valu of (ontnol fie ld is xnq +x/lzv- OW|0Whic h indiraly 9n an unnumberd fnam VVa ciir.tia 13 (n"7)3 !o^ 60 ~rirt )ko  )v V"J5[paeyload! t tell; what kcind bf packet (s in the PAtlaad ,tield [iivuoug} : {i50 =} Chrakaum " Olways entains 2 byten c)iI /mnViyi; (1C (octa)) {(Sufh/) M Xlrd p3 ; 0HHWVVS_ (Joniar{ ak 1; 37 ) Vitow sk 'CU
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 41 ===
+======================================================================
+Distinquish be tweon HDLC and PPP 201+.3()  ) ' '  | 1)1 HDLC ppp Dasis Ll L Dala :17 point_1 ~point ~.. OXpando to 71 7 1 ttigh-Ievel pnotoco| ppnotocol Iink (ontno| pyte oriented (Type? of Bil onientad > .n , ' .( {~o1t] voil1 Dhotocols '` ' i nynchnonow) 0) :1 wed in ~1*7'1 only ^ynchnonoun " media cinn 7welljan ': : /' 'ix: poyochnonow) '| 6 ` /;,1  / 7j aia| t:h7))P imedia ion of  ` Pnoviden Au henticction No pnovis afnantication athenhcation i Ibynamic _' ' Dot bffer ' ol Pynamic Doe) addruming jo ' 1 addnam ina 't dynamic addroming )YJ 11 . >'1' h )' ,l ,, wed plomentad e ! Jo-point,` )| -o only point_to _ point Irplo ' ') and multi point ! | poinl ccntia wation tontiguition be Intgzo pezable kannot With lapobeaty 31'^ jepenated, Woith toith non-c is (0 Other ^ '1) '^' non-Cfsco,dcvic? 01; } dqv it 9 8) Tx/?;f 0 'imcoa 6aln'; J!() ! Awv: 1J// ) U ,| 636la` lnicni ((ijll
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 42 ===
+======================================================================
+2018 3 ( ) Pp Ppnovidc2 thnec main f2aduz:; A namirg method that unambiguccly dqlnecten he end of ona fnan and tha ntaut Yfnextone. Ihe Fiam fonmat alo hndla) leiuon detection: ,/1; {' Ia .; > :v 1 6o: | ' A link Contnol pnotocol forr bringing linen UP , ak tutina hem na]otiatin options and brunginq Jhom 7 down again &nac fully thon 4ha 4 C7Q ~Do longen needed , This pnotocol i9 (alled LCp (( Line (ontnol Pnotocol) '1 iofcr 7)ivs; !.~7f'7, 01)i la~ih;; } Wayy to negotiata netwonk layer optiongin a liyy: Ihcul Is independentiof tha netconr layer Pnotoco| to ba Lad Tine method chosqn i5 to have Q X difle7 Ncp (Netcuonk Contnol pnotocol) f fon each nctwonk layer auppontad 'Nit: {7 , asifm biJo, ') atn1 JC Lis 2016 1 31) Hamming_distanco: The numbrz of bit posxh on in whith two (odew ond) differnt j2 Salled Hamming dislance ~xample ' L0110 0 |10 | UoU Ham ming dislanc = 4
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 43 ===
+======================================================================
+Sisni ficancei If ttc (odv word) QZe d distar Ihen i+ Coill no quina d aingle bif Qror +o ong (ede wOnd into anotheti^ . '1 ' ^ 1 ''. ' 1a. 306) Hena , Ascil (ode : 171 .| | ' ( :(077w11 : ' '.1  | . .c > .' U : (01010 | . . :'.1)) E ' 6072 (0 | ";^>) T ; (0| 0 100 2"z mtr+1  {:;0 Tf ! ,J1 We Icnoto, O1v , 247 4+4+1 ^;i%3 ON7 J6 712 Ycha c k bitn (29,2/, 21, 23) = (124,3) Tola| bit 5' [4+#)-Wbito " < HommingCcde:  " : oli/uo ToTTTT  U = FTT TIL ' (j `  L`' E = TToT 0/6 Vol 12 .1  A T = [TTTTTTC 0 [2 | "1        . . 4.  . ^  '
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 44 ===
+======================================================================
+1206 .3a) Heno, ASc1) (odc ? ! ~ .. 1 < 5 F : (C10 | 10 ! ' ` ~iv: Njo .ti 01` ;  ' 77D |; 'J^ lo 6n) ) 0o` |] 16077 1 | .  1627 /0 | '1' !'1 1 |! Wg Inow, 2"77 m+n+1i" !:: |Vv'1 . OT7 , 247 14 4+1 ';';;) | ' 4( 017116 7 |2  7 '' . | NOw, tlammimg code ' 'i V :)7/ : /! F : @TToto 0
+A :
+0 |o
+"TTT ti | Vv!' 0 |o tic' |olh Jim ' o | oft
+€ : 0/L 1o E: (To 0
+2o18: 3(b2 Hemo, ascIl (6dc: 7 0' 0| 0777|0. A; 0 | 0773776 | Mih  N : 0 | 6D [0 Ic : 01o0 10|1/'/ ahn 3   
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 45 ===
+======================================================================
+[ctr 3654Honq Asf HLAedeni  ! ~ { ( ` ;  ! wq Xnol; 21> m+n+1 ; 'vi Y : (oc" |  1 :T 017 , 247 B+4+1 : ?  ) (1 ; ) '> c) :  S (' "; :1 O1ri16 >,13 `nao i | {13 ' ^ J'f`  Now, Hammina cdy_ ` '7Co ()' " if' '; IV' (v|. 1 1: 0 | OpHTT pT (] | '' . ;'  A' TPTTL 0 tldlo 6)n7,0 ,17 xorr o N ; I/o/b TtTTo n) K : (Io 0 {01 | Iki C ' Y : 1: ) )u Hamm Con corua & only 20pX. 3 (b)1 ainglc Ing; eodcn Hokoq ven therue is a truic k tha Can br hnzcr . wed to permit hamm ing Ccdan tv conzect buvt eruoru. A naquanc of k corisewutive ( dzwbnd) 13 Cx a mctrix , 0nq ( 0dq Wond p27 nolu: ava ngad Nonmally, lata @oouud ba tnansmiHed onz ct atimq fnom Ietl +o right: To corzct Codq Wond nhoud b? tnansm ilted bww1 eruioru, Ile daua One column at atime ,nlaiting with thq Kbitn have been Iaftmost lumn Wuhqn a1) nent, the etond (blumn io ^en and ^0 00 '
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 46 ===
+======================================================================
+C Indiccued in Ihe fcllowing figuza _ whn Ihe fnamen @rive CH Ihe Icclveri -Ihc matnix is nccons tnucted, cne colimn al a tima. Ika but erzcr 6f lenglh k Ccclu at most 1 bit In &ach of th k (oda wond) toill have bean aflected, but Ihc hamming (ede (anconzct Dne 2770 5 0 pez (edcwond , n0 Iha &ntine block can bq_ nantoned M Chazo cte7 Osc [ob163D Oi Vi0v ( 6vv (077o| 1ov167 | 60 | F I01/0 | L.0 [0/0 /0,| (4ou0) U0|01 0 |0 | U0l6v | 0 (0/0 (07 ) 41 f' 0 `'11>2, 10 (10 0U.0 /0/ 0 (0 N,1;) .' F 8 'w B0 UL,}! 0(16v |U1 3.  AmuoM;  Uoix (` Nuri? : ; L 6,0 . ^ U0 (1 |010 | 0 - 71 | > '~(1 ((601 07;,6 L6 167 U/b ~x.' ~12. 4.1';1" '  " pIk,,, 0(Loqleh 'Opfu' O70 16 | '1 1 % WM: ? ;^ 'i'fv/' ;' Xh . him1I{. 'xnf -!' w 6:)'> lo.; | k) Mitrahn >nilnin | 01J^ CV /^ j c +i   3^ Mt; A>l . '(1371'}'!1 41"+1 0 ) | 6o I) ( 0 fJla' 1015526 : .'7.
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 47 ===
+======================================================================
+Floc contnol: when nendpr wanls to 20p&' | (6) Anansmlt fnamen fante7 Jhan thq 1ceive (an tham , tha nocaive7 may be Unable to hamdla Ciccept 4hcy a77'Vc and will los q thc fname Cu fant 0 Aome Tv prvent thin ^ituation, twa appnoochen . , T <1 1,' o"'`' QUZQ commonly Wqd : ! 6 1) feedback_ baped fiol cntol: 'tha naceiver nen1) backc infon mation @o the ^qndev giving it to nqnd moro data or a' Ieat telling penmission thx nende7 holo tho noceive7 in doina: Tn   han @ bucct baged ftw Contnol' Ihe pnotoc ol 2) Rate _ Fhcd Timitn the ncte Cyt which in mechaninm Tenderu may tnonsmi+ data, without wind feadbock fncm tha 1ceiver
+Algoruthm fon_computing chec kaum: D2014 . 286) munt agroe upn 0 Iyho nende7and nacc iver gonanalon: polynomial, G() in ad vantc f ((x) . A Ppend h 2876 bitn 2) Let n br the dag1aq and Of -hi fname n0 it noc to the loco orrderi bito and (orrwn pondim Io Iha_ Konlains m+r polyoomial X"Nx), 11)''[ ; >n|} IaWionriy(
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 48 ===
+======================================================================
+3 ) pivide Ihe bil Atnuira (ome) Pond i Nc ((X) into Ih bit ntnirci (oruwen pond in xln(X) wing moduuo 2 division; | a^ ` '1 F ^ v"(^ Vij (' >a1.^ .1'  ' 4) Subtna &t the nmcnde7 fom 4h bi: Conne) pond to XN(X) e im mcdeuo Aubmnoction itha Yoult in #Hz chacknu fnama to be honsmiHed (all Its ' . *1'1 polxanmi ""]'` :3 :^  ' D J |7 '` 101 7,' ' 'v"| 204.300) Ghixon, Gu(x) = 'x ?+x Wt1' w' ) 'Dl ):,//1 v 74108481810 _ ~. iclo +461 101 1 0 0 1 0 1 0 0 0m " T() ) Ki) [` 1101 V | 'DC . 110 0 'j1 /7,.] 110L V 10 10 nUnujn| |ogo1LOL LLL 31o.; {;' 'YJ') Joui' 1v11oi ~~ ~1T ;$ GnnvinGi (y)n .nino LO '>t ` ( 'q.)^ ~1O' 1 ;j '1i33n. 9; '|c,'(i h 6` ) | | '1040Z} :'' ' ihn )r)> L^ m8n04+y (HTTT1L . Tnunsmi tted tnamq = 101101011j
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 49 ===
+======================================================================
+"' ' ` 1 ''! 1~F Ci' ' [orq 2b)  10100001011 ` 3 10071 1010101101 100 Looo1ll . . 1ooo 1 Vcc 01 ' . LOOOLA  00001o1Lo .: 100 0 | 11io 0 | 1 0 0'0 11o 1 0 , <' .fL 10 0 01 Th/ 1o 11 fna me = 10LoLO L4OLL 1011 TnansFi Hlad Receixer I7a peipt  wnong fnam_ 7 1J > | 2016' /(b) Cu(x) = xB+X+1 J ; [ = 10001 : , ' 0o0 JLI 10 110111oo1loood0 Loo0 11 1110 1 1 100011A 1100*0 = 1 0 0 011 1oo1 10 . 1 000 LL . .. . Lo 1TFO  6 " 100011 1461 06 Ioo 01 1 i Heesf? 7770170
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 50 ===
+======================================================================
+20 12 3()
+0 | 0 0O
+0 ' `` 0 | 0
+0
+'1 1 : '1) ` 1 Stufl bit ' 1202 2)1 10|0100 | (0 2112 nfmfV ` 25 > 5+ |2 + ( 327 18 I+1 15 14 13 2 10 9_8_36 5 4 3_2 uul ~T 2019. 3(a ) lux)z x 4+x*+1 firrring 1 101o1 LO 1107) 10x01 h0o 11 0 111 00 000 0 1o Lo 1' ($1;  {1'Ax 110 0 1 10 10 1 1'0/01 '. 1 1 00 1 1 010 4 (|. > ') 1 10 0 1 P"t , LO 10 1 ' | ` )` 1 1 0 0 0 10 10 1 , 1 L 0 L0 104 0 L '1'JC1 0 Lo L0 1 101 1 0 1 0 1 01 11 60
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 51 ===
+======================================================================
+Slop_%a cuait pnotocols: Stop-and Cait pno toc0( islha  dda Iink lyer pnotocol Torr tnansmission fname ? over hoiselem rhanneln' 9t pnoviden unidirchi' onal dcu a tnansmisslon with {(ow Contnol {acilitien bu without eruor (ontnol  ') facilitien, The idqa of ntop-cind tat pnotocol is Atnaighl fon7wd7d, A fter Inansmittra bna fnama , tha nender Cuaits fon an acknot ledgefhent be foria tnansmi Hina the next tnama , "i " Sende7 Recaive(7 Data pac Icet ! t^ Ackcnowledae maRj oxhnv 9 ; Li1 iliri '. :7: Data packet  1I;il o | 1~ : "C '~' OcIcnowledg emant Cn ' Data packet :^  Alt kcnowledgem ent eoalT 37) ; O t5) 8c Jety 1 "1'j / N!ainivd' . n" Thh ; ) : L ' Pnobloms: " ' X0 "ni} ,1 ;{n 'fir:rt{ 1 ` (| Pvoblem da t lostdcta: nendev wat fon Ack :,' h Ynd nacivei waits fon dca   an (nfinite 7)@ amdunt Of time poin: Ovska% 2 W3 1  1~vn61o1 sr Walu Frin io '.n'
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 52 ===
+======================================================================
+:
+'n L ' Sende7" Receive7 } 571170 "c Dalq ' ' [ ``0 ! f o. 'i !  [ ':f.V X' ` '.i1~ 7101 '` I"o 0v (1;1'|.'f '.)),/7if; h.' '} 7 1' ,' 'li |' vnw'iy ). 1!;' ~ Pnoblem dua to lost : Semez' CK| ^Qetaive7 D| Ack Oendem laitn for kr Dalq 1,' , '3 Cn infinite amount of .  |`,1^Ack Him fon Ac K. ! ! x1 ^) Xk' o1.'6-:) 7nv 17'y/87 Sende7 "Recaiv27 pnoblema dUa to Datq delay &d Ack (dcda : Aftq7 Vao   timg olt a `nender nid2 / Ack a delay &d Ack m ight ">n be wnongly (onsidorad '4)*0 @ Ack of,nme Othe dala pac Icet , :931n'] al ,Jn]v( Stopznd-wait_nra_pnotocols : Tho idea 'of ntop-and_ toft Ar4 pnotocol io ntnaight fo1 woa7d A fter Xansmi ttina ono fnar mi , the 00nd7 waits fon an h1 ac knowledgemant befor InonsmiHling tho next fhnana. |fthw aclcnol Iedgoment d02 noj azuive afletu G cetain peruod of tim , Jhe nende7 tmnu) out and rwtnansmitn tha origincl Mna mq_
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 53 ===
+======================================================================
+Sse: Nonmcl opeaction Xase : Aclc Loss' peceiven Sende7 Receive7 Sender 4` 1^ | Fname ; $ | Fnare . 1': , . ) Timeout | ' Ack '!.d AcK Fnam  /o Tmeout  ' Ack
+loss Kasa : S hort timeout | C%e: Fnama Sende7 Recive7 Sende7 R &ceive  Fna me Fnam Timeout Ack Fnam [ama
+Ack
+Ack
+
+
+     Stop-and -luat dnawbacks: Onk mnam at a tmq Dponi utili?at7'on of bandwidth BXpoon  pe7 fonmanc
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 54 ===
+======================================================================
+Srim :,) ; Windot pnotocots; Sliding windol pnotoco| ne nd) milliplg fname aa Him, Numben7 of fnamun Io be nant in bC Rd 0n blndow Aize . Each fnama "s numbend b7 a Aeql nc humbez 77 Sende7 Racaive7 M'2 8 2 '! ^,3 9 ~.7 /14 2 f1 ".i'1 :.0) "1 Jn 1 { 1 1"X; 4 "0C)|
+5 Un 6
+) (1o7 
+wv
+'nlf ! , fon j>` Srni| n f^ 'rann) ~ c{la; ,nydd ! > {Jul:1'' 7 ` ~nnVy . FJ' ' `     .s
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 55 ===
+======================================================================
+4: ': Di ffencnca br twec n nlop-and tcaid and ^idina Uwindote pnotocol' I::11 ;; "{1*>1) ` :i o0 401 J' ~ Stop- and toah H4 Sliding wlndolu ~1 Ssnder nend cnc mame S0 nde7 nend mon than Ond Urut fon #hc 11 ; 1 ona' fnam to the Fuce iven Gxknoto ledgoma ' nt fnom nide Jnd hu tnansmitthe ;.1i 4h 1cciven nide ` / ' fnam& cuhich in denigned >! "  ~~ 1 ` `7:>  ! :%) on awpected, i,' :i;: . ;' Ii   rOrs*9 711/ prv} T))) +)'.) Oio` lass eHiciency, : is mono fhan t C) Elfopizack ccut pnotocol :"3 ''1 o1 .Jn |V !,) JhJ,,,[,) 'vr F 1 Se nde7 tlndotunite is 1'- >i Sende7 windol aize is N 16 1'131,') P 7C Vp) Lcriic / W} 9 Receive7 window nia0 is 1 Receive Windolo ^ize may (' 70 10n7 N Xnc;t 9 M ,;  Hv; slf }!.:t?n 9 1:? >fin 'Jhriuj '' 6, Sonting i5 not nqcemavy Sonting my Dr my not bz nrcemauly odmx;t1rr xla; ({Ctc , Wlo. inin?1 {n': Hla lf-duplex full-duplex,| <o
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 56 ===
+======================================================================
+G10-bEk-W_pRQ_pnoto cojs' (no-Dack-N-AQQ We) Jhe concpt of pnottol pipelinina i,0, Ihq , nomdev can nend mu !tipla mamu befona rceiving fhe Cicknotledgemant fon tho frut time, thng QQ finitq numbe7 d of fname and tho Fnam (UI num bend 1 a neq wntal mcnne NIs thq Aend7 ' window nize, The nize of the Oendina wlndow ` detenmine thq ^2qwnca numbe Of th Ou bound fnamen' Fon exampla, Jf the nending o):i Wwindow is Y, then th aequentq numberu bilf bq 011,2, 310,L, 2 310 , L and 10 0n. tl numb- Of bitn in the aequanc_ number Is 2 to geneate n ,J, tha binary ^qquencq 0U, 01, (0 , | - Th number Si ^ Of fnama ) that €an b2 nent dpend) bntha window nize Of tho nendez If the ackno Coledgomand Mnn > Of *a fndlme 15 not necaived within an agned upon Touttil | ? timg  period 7ai fname) in the kuuwnt window Q70 tnansmiHed xslqub Hryk'
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 57 ===
+======================================================================
+Se nde7
+Keceivr7 3n7 ij} J..1 | / k 1^
+1 2 3 '6~ 4114 5 ` X2 i:c . 2 9 ^  . 4 <^5
+2 <<y 4 | 121/ .' 1> 7' : 
+7o 17>'MT~; L
+V ` xj o' /1 1 V'in
+' . `
+. .
+: 
+411;') nrr;6)l-) 637i'no1
+07Ttt
+:.`> Fk !<' | Jici Selectve Repedt'Arq_pnotocols: In  seloctiv&rw peat Aeq) anly thr Qu10 nqou) 6ri lost fnamen az Tutnansmi tled sohile coruuct hamen &UJ rcalved and buffered Sendc7 Receiven "Vo1 4JF7 Yt 0,| : Koi 7 ;'J 6 'Li ' 1 ` '1'h 1) ,noj (1 3 .33i357s o/ :4 'n| V' 0j 9) i,f-xta !`` 5 :f !) = 52m12 Hu6 {"
+Scanned with CamScanner
+Scanned with CamScanner
+2
+
+======================================================================
+=== PAGE 58 ===
+======================================================================
+choptez-04 DiHcxcnliatc betce&cn IE FE 602, 31 IEFE %02.4 Ond JE EEZ02'5 1 IEEE 80 2,3 IEEE {02,4 IFEE 202,5 Bun Jopologx Bun (Trico topolog] Plng topolo9] Ethernat Tcken Bw Tokon ping Pnotocol is Pnoto col i5 Dnotocol Is veryy extnomely Imodezately complex' ^imple (omplex Nodcmo C7q not Aodan Q7Q Nrodemo @U7Q hqunod hoqui Nuad Nqu rd hand le ^uppott) both minimum fname Can ^hont minimum ^ haru aod lazge naqu' rud is" fname) fnamx) 20 byten (1:1,;. ' :l V~> 'i 1 COy; Mon;1`4),>1 2" ( {00J0 .1' ',151?717 ~'1   7, Etheznet: Ethenet is tho nlandau7d wcy to Cannect ( omputer on 0 netwon lc ven & llnd Xonnection ' Jt pnovi d G ^ imple in+enfe-LAL intenta ( fon connecting multiple 'dvicen , Auch a (omputer 1 noltem and ^witchen. L
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 59 ===
+======================================================================
+Ethxinat fmamc {onmal ' 1.  {"0"16;; pnecimble SFD Datination Sblzce Tupr Datq Fes MAc 1v, MAC Gnd , ' ''. '>i. 1i pad (` ' 6 76 ;` 2 46-T6z 4 byte) byten byta) (1 bxte) blte) byte) byte 7 ' Prcomble: infonmn Ihc nocal - ving nyntem Ihat 4 fncima is nlcrtinq and Q nable (TA; aynchnonidtion. | X} fof,) SED : Signi fien Ahu #lhll  tinaton NAc addram '<. 1 ! field beginh' 'tuith the next byten/ petinction Nac: idenlifie tha Iecai vlng ayntem Souwc MAc: idanti fien thc Aend in ~jatom, "od Lype' datine) #hc txp 0f pnotocol innids Tha tnama fon example IPv4 on (Pv6 Dta and pad: ( ontains Ihe puyload data, pdding dala /5 added to meat th minimum i/l6.' i| englh rqurmont fon this fi eld '!3, V| Ktc 'J ) 'ni(:} (46 {ai I;7') byten),| 't [A>o;n Ecs' Fna ma che cK nequnce Contains 4 32 bit Ucl < rdundancy chec k | € Rrc ) (Od< which allows detechon Df koruupted data' {'invy 1"ln ) Aij  0~ in: ICri| s  
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 60 ===
+======================================================================
+Dis tinguih between I - pens istant (SMA EA P-Perxhislant CSMA ond Nonpemislant CShA; penisisfant Non P-pemwistant peruistont Xf Iha khannei Idtho channe| If Jhe channel is "' ! is be1, Ihe ntation  | is bwx, Ihenit; bwy, th? ntation Wkits unfi) i+ lill wat for Wat untilnext Jn, t Jidla becomen fixed intqaval , tim alot cX 6f timq Tntin; inr 1i WCW} @hen #ha tation bh If the channelis If the channel is detects an ideal idlq , then "t idlo, then it channel, itari and) imma diately tnansmita lith imme diat 2|Y 'Mlosbi pno babjlitd P '0/ 0 '1 Ihansm its Iha ,|o!o !;lcn' fnam with 'v >'? Fd ) ) pnobobility , | Xl < . sk 'ot!  "! 7) 1'/ 3oni) if| Siahon that The_ntation da8 'k W(th 4hx mi)i wanto t, '' not continuowoly tansmit dta 0 enor) thq lprobata+ta9Fhan e^ | | the then Continuown)  Channe| fvn Ihq Wats fon thx nenne1 thr pw7 pose Of ' begininq 6 f th 'channe | tu'< '  captuzing it ; next Iimenlot; ehetk luhethex cuhon' (tdetects . | Ihe chonnel i5 ` thq end of ,; 2alal   idle on7 bwy pno vi oc) tnansmission
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 61 ===
+======================================================================
+No (oncopl of timc No (oncpl of pala tnansmission nlot Iim nlt OC (cu depend ir 1 ' ~':: 1 ' .1171 )) On fixed #im nlbts .1`it] 'Te ` '| "'"` '1VA '| #ighe?t rhanta ) ; ; It rduca ) Ihas I+ neduca) {he Cf (Ollision Chanc of chance of cbllision betcuuse two 617 collision becawe ' ^ more atonn Iha nlation)  |65 : fy(1 find wait fon 0 : may tha nandom li 1!61 65 n) channe| I be omount of; + idlect thc 1 ',l)  nme tima = hmc and 7 i ) 1 > :' :1 , ) , Iy"! Hl:"' vil tnansmitthzir  /, c, 'i ; ` "p}  fnamen Anmic ) mJifn" Ipulj) V  Diftetwnco be-wuean Tan} etheret and gigo bit qthennct
+Dasis fat Ethernet TTgobiF Ethgn net ibasic Ofam) 10 mbps npeed Pnovide 16 bpn npead Delay mora dclay (ompazatively Iqm konfigunchicnl nimpla' ' ! T < ! '| (omplicated and ' ![ 0 : !VL ~  13} 1ICi-of cratq mona (anom 8' Covenagq Can (ove7 dislance uP  |Hc the limit 66 7km to Ibkm ] :i :r '0 Ivcnl C b;slc Mv1 Reladion olnuccemon oflo -Base-V ^uccemor bf fot Ethenet etheznet T1 Qou  nd 167-510 bit time) 4l7v bit Hma) tp Aa|0
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 62 ===
+======================================================================
+Svgabit & lbginehi 67 igu bit eIhe-net j0 the famil: ofxompute7 ncitorikin ond Cemmxni cationafandad, TKJ gigobit ethenet ^uppontn & thaorctital maximum dadu nate 9Y1hbpa. Gnigabit ethannef nupponlo tuo modc? of openafion: Hlalf- duplex and ful _ duplox  mode ful | - duplex mode , (o Ws ed than theno is G Canmna ( witeh '1 | eonnecded to computeru. "OF> Holf- du plex mode in wed when Iha (om Puern 07Q Conne cted 46 a hub nadhe7 than a nwitch Aii Configuiahon of gigabit ethenet Is point-to point. 9tnlpponts ', ' ' bolh €bppe7a nd, fibe7 eablinq ` :A7j/ : tr ., ( L;~'' 1 ^ , '^1}9 mu Itiplq_ Accey Pnotoco | : ~ " ~1(1 v'~ 0floha fwha "s 0 nondom accm pnotocol # wan actuily deigned fon WLAN bid i5 als0 @pplicabla fon" nlu d medium. Whan two 0r L mon_ ntations Inansmit the data at fhe nome timg it Iaad1 to Collision and data bq ina `  ^ i9) J 9a7bled Ti' : 'ir T !' 'v {rd : ;' 1 '9 71i : 1'3'90
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 63 ===
+======================================================================
+Alha can be 2 typ22: 1) Puw Aloha: Pwo aloha alloc nlalions 'to tnansmit whenev e1t 4hey hava data to b Oent; when C 0Ii on Oendn data, 14 waits fon 0n ackc nowladgemn?i 1f {he acknocledgemont dennit ccme within Ih alloHed tim&, Ihan tha ntahion Waits Fona nandom amount vf tima Called back- 0ff tim (T) and meend) thne datc Since diflerant ntatibns wat fori diffehnf amount 0 f tln thq pnobability of {wuth kolli sion dqcza @uc) _ tne thnoug hput PUza aloha Is maximized chen fnaman Gza of unifonm lergth: lhenever; two fnamen 4u to Occupy Ihe channel" at the name Hma ) theria wil ( (4 be eollision and both wfll bq Jawbled Ut the firut bit of 0 new fname oven laps w ith jwt the ant bit ofa fnam& almost fninhed bofb Fname) Wil/ be dutno yed totally and both wjlI have t ba_ tnonsmiHed laterr Min '1 inli hQ :V"! Xit" ! 4i/,7- [
+iv "rC, '!f
+2 otl:
+Ktn 1 . | €.GI| 6Si; 'J3" " n; Mir n^
+1Jrgi/o''
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 64 ===
+======================================================================
+Brn end 0s end ecllide with wX (ollidc) with C; ':' !; 7". J1 ' A's nfcztirgl et nlazting ~~, 3 .^ `  | ' 3.1 ~1 : . Digin 1 Fnd ,' | >"1;' 4' V ! ;; 1 , ' "AX  A; c[ ^ ] 7"[Begin 0 End O " | |^ (~ n 3o ^ | Kall ^ '7, c ha | 36o: : Bigin ( End 'i) Vx V;{ 06 ; .)cfn '~i 4o t-Tfn 1;'` in ' F;  oii' t+Tfr 1l,3 '1 '1} (vulnenable Tmc = 2XTfr ` Ksi "Wi) 31 Vlylnena ble , hme 5^ 2Tfr vinwh" 1 21 Thnoug hput = (ie 267 wheze (7 is: fhe numberz ' Kl toujf ' ` of_ { nlations wish to tnansmi} In 01 Ih ndm tima >/ c) b ;rifa 07yn  7 ^ ') > - Kid Maxlmum Ihnoug hput 0.184 for 6 = 0+5 ( Vz) Stahon 1 Fname [am[2| _ ~ S Iation2 (m 27 [man 22
+6 6
+$ fahon ?
+[nm 3
+[nomx 3,2
+staytion y
+[hnama 4LI Collision domain
+fnam4l (ollision d6main
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 65 ===
+======================================================================
+2) SloHled Akha; '94 tahn dovdloped fo Impnove tha qTficancy Of puz alohc & Ihe chanc) of ecnision in pazo aloha QZQ high: The time of tho ahazd Channe | j5 divided into discrte time Alots called ^lots . Sendina of data is @llowed 177 0nly at tha begining of thve nlols. Ifa ^tation misse^ 0 u tha aUowed Hime it mut Wat fen fh next nlot; This Fuduce tho pnobobility of collision: A collrde withc ,  ' ' (   . Staut end ' 2! '1 ,/24 D 7J 1 kkic ~3 3 '] (>T,0  aFu'| T.t(;" xrit Alcyt A (nd Wrdsif " '06} pcfwp , 6 ,W )rd-1V' , Kl 3itnf 1  Mazt ' 1C' end `a X 6|F " F Mwynl; t-Tfn Jor 0 - E+Ttn 0;  ( | W/ vulnenable Him | ! On? Tfn Dmna  '  >xkct 0 fkimV |} Vllnerzable Hre = Lool TFr k: 'J(F^ f;:1  Thnoughput = 6e 7iWc Naximum Fhnoughput: = 0.368 67= 4 , 7 ti'rix) ,
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 66 ===
+======================================================================
+1 x` Fnamc / '2
+Station 1 Ifnamu I'1
+~7^
+6
+Slation 2 Ji~i 1 ~a Fndm2'1
+'" Framt 2,2
+1 1 S fah'on % ` ~1 ~ ` ' e [nami 31" 7 . fnam 3'2 e 7 7 TFl- -  'T be Station (| 1 1,>_' 3 mam4 1] 0 Jmam4!L ~ [:J w | Sof 1 Slot2 e Slc+3 Slo+y' | Slot 5 Slol 6 J ` 11`;{1": : . Collision duvation Dihlezonca betluqon peu_aloha and aloHed &loha: Basi's Puza aloha SloHed Albha time Continuou) disenate Kq Aynthnoni ; .n Hme is not tim in glo bally tation 9loba Ily 0y nchnoniaed iynchnonited Thnough put 0 ,12 4 fon 67 =V) 0.31 ton l7 = 1 L Suc cemfu f7 $ = 672 267 5 = (n2 67 : ' skcJn  J':1 Fom The We7 Can Jhe we7 hau to tnonsmission tnansmi} tha waut HlIth data fnom 9', next Hima whenevez the Mlbtnlat, to Alation han fha tnons mit Ihe' 1 F) d alq' + be' '` dua fnam tnansm) tled
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 67 ===
+======================================================================
+CSNa' 3Pq nsislanl: 26S444' In This CSMA , Tnansmi35ln pnoceed) inmedicutely if the (azuer is idla, HowUqve ,if the |! [(awier is bwy thonnpndler (ontinugn to nenog Ihe  ' (azrie7 Until it bacomg) idlq Thna main pnoblem is that , if morv fhan Onq tnansmiHem 67Q rvady h to nend a llision i5 Juanlacd' ' ' / '11 ;.1( (.1~'nt', Non-poruistand: In thin nchema,Ih bnoadcont ebnne | j0 not moni tonqd continuounly: The Kendez polls it c ina mom time intenvaln and thansmitn 4a Whgnever Ihe Ccuvuier in Idle[This dacucue the pnobability of collisions put it io not : .! Qflicient ina (w (wd nihuahon lherunumbcc of collisionn 47 any nmall Tha_ pnoblqmn Lay ns :1 7   {~1>*16}1 CQ - K 7;q If back -ofl timr is tov lorg, the idle Hme of eavue7  i5 UUted In numa Oemne,' 9tmat Occem 'w in lord Citeh dekuys: nyci} / 1 {TIiii?rick  (| T'> 7136 ^. 1| ~ " | 1,j : '1o7} P_peruystonti Even if a nendev findn Ihe eazzier to C pnobbilistic distnibuton to be id , iFwen Whethe7 to tnansmit onnot: If fhe deYevmine ~avuer is idlq then tnansmission ta ke ? placa with q p noba bilityd P and Iha Opnder waito 4'' tith a pnobbility 1-P, .4 'frit) 31try'
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 68 ===
+======================================================================
+ESNA[cp' (SMA| cp nland) fon' eavu e7 Sons2 Mulripla Acccm with Collis ion deteetion, Pyrintant ond Non-perintant (SMA pnotocols Guw dcfinitely an Impnovenint Ovrt fLotia becalua Ihey ennuz Ihct ho   ntatron be gins to hnansmit tohile Ihe cbannel (5 buny. I two Atahonn nanne tha ehanne | ~o be idig_ am bagin tnans miting (m UUtaneouly their ^ig ncln WTl till Collide' ! IJn| '717*T6;i' ") (cifj >  ' 101~i, 1 ~Contention ` `.~i 1', 3b' , to 'ss^ 1' 3/`$ lots F" ~rf?r; !' aim. `^ ; #ii) c ~o7 )  Farm fnamy DID (Fnamk ;jx; Ifiaamc 3''10) >  7v1`1" Inansmission Contenh0n idle 1 period, periud perod F ' 9i, . T02 , 1>) 3n 1} , ~~: 6 At the point J, & < ntahon bo fininhed G tmnsmi tlim ils fnama Any ntayzon havirq G C fname to Oend 6 mauy No C atlempt todo no. LA X,} G If twd on mona ntations dacide to tnnsmit Nim Ultanebwnlv thera will bea Collfsion, 1 (ontention period: 9tis the minimum Hme & bost mwt tnansmit uch Jhct it (an be ennuwd Thod ho Olhe1 packets h been ~nonsmilin 1
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 69 ===
+======================================================================
+CollisTonn C On be detected b7 look in athq pole7 0n puua bidth Of tlq noteived ^igmcu and compauln it t0 Ihe Inansmftlad 1ignlI . fflez a tation deteyto 0 Colliston, I+ abonts its tnonsmission wautn 0 nondom period Of tima and +kn tnie 9 aqcn; amumirg !hctno other Atction hc Ota~ted tnansmission   Indha_ nama timo  Jn WL"  t . 4) CsMlca: CShA (< A 0n Qazuer 52ns21 Myxltiple Acce m with collrsion C voidance is pnotoco| f het operalq) (n the Dala link (ajer of tl 051mode/ Herwa (avuer nanain in wad ( bt nodc? & tlempl to avoid (ollisions by 6nly a fe7 the (honnel beginning tnansmission (a nenned to be idle 9l is impo ntont fon Ih Witlem netwonksi loheio (SHA | cD isinot  possible duq to winalem tnans mllter deennim Ihein natrveru) duzing packet tnansmi}5ion. (SNA/CA in un rliabla due t Ihe hidden node pnoble m and exposed teminal Ipnoblam: Soluti'0n is pezlcts exchange
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 70 ===
+======================================================================
+VLAN ; Sxi-che) donbt contno | bnead €Cnt domnaihs . 'Hotocve1L If 0 VLAN Ts" confi g Uud (na hwitch i+hall have itnxbcn b noad cct domain; VLAN is 4 logical dnoup Df netwoonk Aqvitan loicetod in an drffennt physiccl LAn Aagmentn . Htotoeverr 4 thay CUQ logf corl |y tnated an'it' 4h F W€n7 loraled on & a ingla Aqgmant:  on ko.  TP%i of >LAn: 1 ' 5'^ Mok ` 'ial` 1) Defadt VLAN' At the Inila) bootup 0 |:n ^witchral1 awitch poretn betme 4 membe7 ofIh dq fauubt VLAN , which make) fhmau paut 0 F the nGme bnoadco+ dofan, Al- ` T)i',irn?ra: [n'in:i 2) Datgv VLAN' ' A data VLAN ' 4hat can also br_ 0 nreruzod Fo 0n Wer /VLAN , ! 'w~ni n! 3) Native VLAN C slii'' '] >4;;1 VlAN ~a , 4) Nanagemeat Mninn ~6 5Yvoiso VLN:  3 8 Fic('Cn k717a 1Tn 7k 8 MNiw 'i"j V L 641 0 {: |'' ; J8 8 {€' |o>]   
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 71 ===
+======================================================================
+Difloronaa ba fzueen ^Tacti c and dyanic VLAN; sxati c VLAN 1' Dypamic VLAN (rt ad  manually erated ,wing a noflwcua_ qanx tc onfi AL Drfficuy fo(onfiqu7a Mota ^eUU7Q Iet nqluq i fi". :) 1''; lem ovezhecd Nona ' Ovezhaadll y '! ' pnovjde nimple luud pnovid2) HeRPI> flexibility t aign @ VLAn to  ! @) well w mobility fon the_ a pont ] end Wet'13 li) L"l fceh yk (i;AfUi:6;ila '0' , oijoi 1/ 1 |` Wdfyla) 1 ,: T "' i Van tunkic: VTP is 0 ciseo pnoprue tazy pnotoro| Ihat In wed to exchcinge VLAN infonmatic VLPNs Can'+ bq d & ribed +o Withouyt Dhontioninq truunks: VLAN truunking onabl?? thq movemant Df tnaftic tv diHlerwant pcukb of the netcoonk konfi Juzad : C a VLAN:nond   1n t  ' | .. ' ! s 
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 72 ===
+======================================================================
+D i ffenneebetreon Collision domein and bnoad cont,domcun? n | ~i;j: ', `' Collision yil bnoadccut . i  domain    domcin Moitche) wjl| braa k Al)lchen Wil never bnaak Collsion domcln /  bncadeant dqmaln in 0 netwonk ^ection a type of domain wohich Tlow tftv k Iht a | Hocs tna fti c My' ta" Miolo fvn ezd Gmdk aIl OvR7 fhe_netwonk JTL _| buclcuru7d ? .' 10 17! % ^ 4. bnoadccu+ domain Collision domain Nefe ru) huaferul c (ogica/oet to a net 0 f dev icen in 6f' neachable (omputer Which pac ket 3 , ~coll fsjun ` YW Ayntems' wufthbut Could OC(U Ea~lv: o| 6,0v winjia nouct& 1JFi  04 px/iw: * xJ 4'(o; 4 Fve 1U4 0n a noute7 All porton' @ behich pont ikJ paadte n 1 Awitcb 0n,0 hub In Cuw the 0 2 Iho 00m bmad (cut bnoad cunt'domarn` ` fil '" . | domain
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 73 ===
+======================================================================
+; P. ,!:
+Tcken uin; ToKen rung "5 0 communirahon h ! |pnctosa  for Icca| 470 nctluonk Tha (onnectn 3{;)'1 dcvyc n cin 0 ata7 on rim topolcgy: In This, : Iich ( omputer i0 connected IinKed to the Compute7 nexh to (4 to fonm ' closed rirg . A tokon Yo & uniqua Oeruie) Of bitn 4bcc tna ve | .1 1 1' aoun a tc kcon rina netcuonk. Tokons (onsists '12( 0f a ntaztand and d/imiter fhat dncriben Iha baginnin and andimg ofa fnaima 'Th idqa for a token rinq netwonK is that atoken is` Unculatir intha rinq Gnd @hicheve7' noda Captan Ihx token ean tnansmft th datc {  | ] EDoI' Fxbez Distni buted Dcuta Intenface is a token_ pmynq accem method FDDI  WJ?) a rumg topolog; 3 F ] "|an4 tokon pamica fon Plocrnq fnamen on Fhe ii 0 nx 11lyocovery In on FDDr rung; each host bholdh Tha #ni, token fon4 prdetezmined amount ot time and 3 / Cdn tnans mft an mony fname) a Itcon pnoduc duun Ihis Hme . Chen th time intenwal expine) , tho hostmuntrleae thq' tokcen:ronv)la! .3 4,,1 ":V!Ji 0:::" 6i '# .AAfw',
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 74 ===
+======================================================================
+Ghapte7-0b Nddwonk Ioye7 ~etceonk layyoz T5 Iha Ond Iaye7 Of 1cP / f mcde | fhcy dqal wifh $ho hansmission Df dcta fnomonc host F anothe7 host; Jt is noponsible fon noltim fhe packet #hnough houte Gnd ma Ppinq dillernt addrm irg nc hemU) ' and pmtocals, Hia '` ;, ~ni:) 1 ' o' The fnchon 0f 4ho netwonkc Iay 207 @wrgiven brlo YyY detumin) which nbute ( 'oli table Jom :` Ablac t dtinacton: +^ 0:ir ` 7) de hine Ih logica| addrem 0 N IPaddrn' 3 3) Dxnponhible -foniencdpnulatlr data: Jn! 'in ~ ; 7f ) (hsl }rVl:wdnn'
+"`` ~} Ar[ V;} IotV! okf : '4i] :r} Datognom oubee' Therw @w two clam&n Of X-VIcen the netwonkc 'laye7 La n pnovi de 'to its weru; lf connechon Iem nrzvic in bffehued, pocket^ Cuw injected Into Vho oubnet ind} vidually and nouted indo pendentlv' 0 feoch bthez; N0 advonc netu p /o nre ded , Io thio' (ontext, packelnaz frwcw ntv (a(led &&1 datagna m Gnd the ubnet in ca led 0 datagmm: nubnet
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 75 ===
+======================================================================
+Vintyai GinyLF AUbnet TonnacrTon bru 2 nted Aenvi c in led, 0 path fnom ^OU6 noute7 to Xa dontnctibn houte7 mwl bq etabliohed befong ony data packets (an be ^ent: This (onnaction) in Called Vintucu = @nct and Ihe nubnet fo Ca(led vintual - ucit ^ubnet:  . DiHtenonce Jetweon datg 4nam ^ubnct ahd L; '! vintuat_cincuit aubnet 7| 1,`17'1^ 4` ' XsSUQ paqnam nubnet VinhuaI -Uncut qubnyt eaII netup NoFnRaded ( <^ | rquurd Ixxarum ' | Each packet contains Each pac ket Cn Vfn  th fuli AbUc Cind (ontainn'4 obont At 64) Yeyn| duah'nahon addnam VC number Stot & 1 7 Routeru) 40 nothold " Each VC naqun) infonmhon atate Infonmation noute7 table npce 'V)' abut Connechons pe7 conneehton Roltira  ` Eoch paclcet (s nouted Qoutev chosen Indq pe ndently when VC / ntup, allpckets tollowit 4 , 0 Exfect of Non , exkpt forr ' 1 AI1 Vc$ Ihat pamed noxte7 ") packets lont dzirg thnough' Jhe fai led fa Icz) , lih (nanh , ,}. Kor nolten (U7Q [ ~ 1w>.2 9fTN1 6 :> tevminated 'Wilvi TFv> 4' ~wiv):}
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 76 ===
+======================================================================
+Qua!ihy ot | pili'uet Fony T1 nervi& ` ` 3ra3bk 0^  nenolzcn n;': 3 i>lallocCeted Tn aducinw LLZALlfon eacbVS :) Conge tion ~ftticet; ),77 Eony Tfenough Contcl N0ut) (n be '1nt) U'c ')]^ fallocated in Gduanc 6& / ':jw .~  fon &ach Vc
+77
+""
+c
+Qoungalgaryithm! RouHing olgoni-hm docideo in Whixh outpu Iin Cn incomir pcketabould br_ tnsmi Hed on'! ' vV ', Twg ~JRaV majon classo 0(nortin 779, W; V) Nonadaptive Nonad aptve algorithm doe not J bane Ihein noutinq dqcsion onony manuumenf 0 i7 @timaten oflie ilnindntttppolagy and tattic Innteod, the & ho fc& 0f4ha noute tv We ,to get o Fom i to j i eom puted in @dvo ncg , 0 fflina 3| ^ Gnd dolnloadad to th nouteru) whon #ho_ ?f"inetwonic (s bootod This i 4lso called ntatic nouting rt+n: kr,nq :1ni '5~y1 l2) Idaptiva' flda ptive algoruthmo chonge thein houhnq' dqy& s f0n t tz flact ( hangg io $he >- topolog ] ond ^om Hmo) ( hong e) In h tnattia '0 well: Thene dynomic noutim algorithms dHe in wher Ahey grt thein infonmaon,
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 77 ===
+======================================================================
+when Thcy cha nge thc nolte) ond what Imetri € X wed Ifon opHimiaton. ~ '0 ; .' ! Dible >enco_belccan alatic nouting and dynamic nouh Basis Slat'( noutim DYDami c noutin (on figunation mnual " Tudomatc Routed Iabla Qouting location Rpuhing locahrons ~1 buyIdinq CU7Q hand -txped ana dynam ically 1 fille d inth tabl? LL Wen dehned Qout2) Cz updated Routes acconding to c banga :0 SC ;`:) )(1 ^ L` ' ~)(, [ io topo(697 Routina  ^ DoQ not ( mploy U)E) (omplex ")JaiacruKhm) 1 Qomplex noutim noutim aigcruiths algonithms 7 to penfonm noutin ope7ations Taag_rtw orko Impbm onfed_in Inmllaetuonk? link fciluc link fauliw dow) Link fa llz obs tructs the_ nol afleet thr nhoutim tnouhinq Iem RUlr duu to satuity [Fighlz neuzed nprirq bnoadtan} ar mllticcto tnanoutin? Routing pnotocolo Pactaxts pnotocoln &w wed Quch @ QLe , ElGRe gq
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 78 ===
+======================================================================
+Addihoncl N o U7CQ_2
+No t Ic quir d si ic)
+Nee dh @d d rhoncu  Tnuicn to ^twiz the "nfonmaction L
+`,! 1 '
+::19/0,?
+1{ ?
+ogtima Uty pniociele! Optimelitd pninciplc ^laten }hct (f noutz7 Jis on Jhe oph'mal path fnom i to },Thon j tv k "5 &|so an bptimal path This is knowh C) Dphmalit Prineiple :, 7 {,4' | ' wW ''J` 1 {N 7 Sink tnea ! Th oet 0 F ophmcl noutes mom al/ Ao whce to a given: dutnahon Fvnm & trce ndo ted C tK duHnch'on _ whith " known 10 'Sink tnee ~n >ih
+{1; Mo, [' T*x '1 >
+( J'3 >" ) ]lr; ; 1;;
+Kin:y JI:" 0' '
+V)
+flct; 
+0 # 
+=a
+'
+) 1 ''
+| 6l : 'n;M .'f ( K nn~ow o
+mJ '11}
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 79 ===
+======================================================================
+(ne Dyikatna a alq orUthm f0r finding thr nhontet pl fnom A t6 D fcn Iha followuina nekbonk ( $ e2 lUw-1).Shoco all Ateps 0f calulation 19113 @)z (w,-) 3 3 2 2 (N,-) (c,- ) (Q, - ) 2 6 4 (w,-) (C, _ ) {6;; V (2,A) 7 (c, -) 3 2 3 1 2 E DX * - ) 6,-) (c -) 2 2 6
+(o-)
+(G,9) 2,99)
+'4' /
+(
+7
+(9iB)
+3
+3
+(7
+(  ~)
+(ci-)
+(YB))
+Ca7
+(c,)
+(G, 9 )
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 80 ===
+======================================================================
+(2ia)
+4` (9B )  ' ; ` 2 `"` Pj' 3 7641} 3 LL 74,B2 (GE ) (c , -)
+" 2
+2
+4
+(w,-)
+. |
+(6/E ) (2a) 7
+(910) 3
+2
+3
+2
+(4,B)
+(GE)
+(c, ~ )
+(SE)
+(9,6 )
+(29)
+7
+(91B) 3
+2
+2
+(418) 7 1.) Y
+(6E)  (c-) 2 2 ''18
+(5,E) (29,)
+(g;F)
+4(910)
+3
+2
+(erE)
+(Io,h)) ''1
+(UB)
+2
+U
+(51E)
+(g F)
+Scanned with CamScanner
+Scanned with CamScanner
+2
+
+======================================================================
+=== PAGE 81 ===
+======================================================================
+Distancc Zocton holtimg
+~11 %
+B)
+12 ~;,
+10
+ToA H k 4' ` Lina {1 24 20 21 T 8 ' IA (2 31 ' 36 28 20 LA 5' 1 25 9 ` (8 19 36 28 1 > 0 40 2 8 24 20 (4 7 30 22 H 2 3 3/. 20 (9 40 TS 31 3 | : 1 31 (A R 20 I9 1 12 21 8 14 22 1o [ 7 ~ 24 lo 22 2 0 29 33 9 k K' JA J1 (5i k 1'56 ` dglc4y dalay Kiai 1&  is is lay Is is   8 Io 12 6  .       5       .
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 82 ===
+======================================================================
+20Y. 4(b)
+'0" i; :' ( ~3` ^. |
+'
+I 21 26 36 24 22 40 31 [g
+24 20 0 A 5i` 22 A 12 " 6 36 31 11 "0 (9 FQ C 25 ^ 70 (8 8 I9. J 2 14 2 36 44 A 23 8 (9 I8 ( 9 18 20 6 3L 26 1 13 31 1 3 ; 2 26 0 8 22 [ 24 22 22 10 16 29 33 9 7 13 C ; EA EC EJ EI dalay. 6 ` ; delay delay delay 10 0 6 10 "; AC N J~` 1~: Kooi  ' `i 9 0 9'
+
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 83 ===
+======================================================================
+Count4o-inlinity ppoblam: ,' 'i-ixfyk: 'n`! :1 . "m 6 4` Ini tially ia~} 1 Alfle7 1 exchange  AHez 2 kxchnge 1in1 ~i1 1242 | L   2 . Aflen 3 exthanc ^ [ ' !"wl 3 - ~VS 1 2 3 4" Aften Yexcbanga ~1 ` kj .` (a) : ' 0 { |7 70 4o Iaa) @0 )"";J' !  (oil )l;^ ( v1 3 ' ! 4 Iniholly 4 Afle7 1exchange (31; FcJ 3 '- 1 '0.4 Afle7 2excbarg< ("atq') 5  ' 4 Afle7 3 exchangc  nr` H K 7:E 5 . 6 ) Affan7 4 exchangc Kn 19q' 1 6 Afe7 5 (Xchanga 'mci 6 + 8 Afle7 6 Axchangei+i'cr? Wc L vo  1  . 'i'0i ^   . (b) #ov)| a: '>31 ^0 (nom tig wz (b), nuddenly A 9or) down, mth Iink between A and 1 / lt 50 , B doen not heqz any thing fnom A But C 1c45 ( Dont Wo Tuy ". [ have 7 path A length 0f 2 , So, 1 #hinks Ihcet It tan Connect to A vla C' a >i )f17'9,/ On th nacond excha nge , ( noticen Iho nme think; In this Way , @1) noetemu wonk their wad Upto infinily; This 1s knolon C (punt-tb-infin ftd pnoblem
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 84 ===
+======================================================================
+Distinguish betwoecn dislance vecton nouting | Gnd Vixk ntctz noutim pnotoco | 1 Distanca vecten noutim Izink state noutirg Bosis Algonithm bellmcin fond Dijkotna 6 Netwonk viel Topolr?Ihinfaighgtin] 8rpletaccbonntz fnom reigh bor 6n == topology ea Qoin+ cf viee IDant payth 1ced on the Iaant Baed on tbq E calclction numbe7 of UE}t hops kost uplcte) Full noutima Iable linkalate update) U pdccte n {61 peruiedi c uppdaten Truiggerud update fnoquncy' Yy);' 7") 4 Cpu and c low utliaation Inte naiva mmony 0 'i;^<  Simplicily ." | High C < hoqun) 0 tmined netwon Ic udminishnad= {c ) Cfimngana   |   Nodcits . a ~| fcvt; 7 Updcuen '':i On bnoadcant i,1S on multicat N6 imc' 01 (11 Hienazchlcal 1'an ntrudtuz'i~' F > (11 (hc J3l V 1 , Intenmediate No 1'4'0 Yen'3 ' Inodm k :> ` '3fil} 62"#' :` 17'1~ ;'' J" <' { : `7i M3; ' LC fie 1'Cij' <^ 0`r 2 >iar .1 !'77i
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 85 ===
+======================================================================
+Diffenonce be twecn Intnadomain @nd_inteadomn heutinx' ' '* : ' |' ' 1MvM1 1 ^' ': 1 >.; 3; y  171 Intnado main,norting Ioterdomcin noctin Rocim algo ruthm uSbriks Rouing algorithm Wocnks within and beteen boly Uithin Jhe domain do mcun : 1o Pnotocoln wad hera io Pno tecoln Led hene inte'riion -) ` F kncwn C exterion - Known 0 pnotocol mhcd "gatalay Pnotoco| 9cute cyy 4^~oc kar ;x ';: plccc Routim take) place ) Rottdm taKe) @n Citono mol) beturn the cuctonomouu within netwonkn   3n  netioftk'' /ric 01 Vrl , Kof br* , Vn) . 'sl tn)5in Wit Rip; OspF ,; , 6 1in OJ BGP;a wh Ian Inhnadomin IntedcmainuocHikit oouhizh / (gno Fw ) pnotocol amume pnotocoln dhc AS The Internct (0ntcnn '(ntennetoutnide 46 312'17 Jha collechiion bf Intezconne cted AS, [' m 913in>rii i; 1l | 'oi ' {7i1'1)1 Jimol 1'1 . hl @uvl Ti); Jt;f i0'| ba 4} k:hsh) o 4v'1i; (Jno:' ) u)| | ~~Mc >ll!l cvili ,. WX M'xn 6hn Il, "0 I2 } af h) F Ww) | 8$ } 1 Adirij !1
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 86 ===
+======================================================================
+RIP kc= lting infonmction js a dy namic pnctocol nolitinq pnotoco | luhich Ue ) hc p (ount a 4 nouhnq mctni c t find Jhe b221 path betwee n Ih nclnce and the dutinch'on nctwoonk. RIP ha & AD va lucd (20 a nd wonks on Ih ' pplicahior Icyye7 of 0S1model. Rip lr) pont numbe 520,
+'7"' ~^? pGe; Borde7 (tate way pnoto (ol jo 0 nolti pnctocdi wed rfooriakion to tnans te7 data and hetuc n di Henert host &tetucys the intennet Jn 67 lutonomotu aY ntema B61P is q path vector pnotoqo | PVP); whirh maintain paths to diff enont hosts. netwonlc and &adte no uteru Jruod,od - Cind detenmin Ihe nowting dusion 6n 4hat: It' do81 no + I6P me fru fon noutira decisfom, butonly decidon th? noute boned 0n 2 . OC'' 9,!., ) pi   path inq tucfikrpolicien and hle neto bot?Y-J;hj ElGPP Enhonced interuon EotHHE? gatewcyy nox(ra pnotoco |l i5 0 dynamic nowtinq pnotoco| Ig wed to tind thq bent pdh between any Iayye7 3 dq vicn to delive7 the packet Fl6Rp wonkn on the netwonk laye7 of +h 0S| model and we)port numben 88 .
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 87 ===
+======================================================================
+OSPE; openThonte)t  path {'runt io 0 linK Mlate noltz'> pnotocol which io UU ed t find tha benk 1 1 pauh betiuean fhq ^blrce Gnd +hadentnatibn nolter 3- xnin] its blon' ahontesl- path fmt;h: :;  J 1 '; :1 3,711: 4 :i"h` EGP : Extenion (natetuayy Pnolecol 'is & pnotocol for exchanjira nocting infonmation betwean tto neighbour' &ate 2 wCH hosts in q netwonk bf Alitonomou) ayatema: 9t Is Com monly Wed betwean hosts on Ihe intevnt to exchange Jablq_ (nfonmcution; Tha noutim Jable contann a (ist cf Inocn no uteru, Ih Oddtamo) they Can neach ;( and a cost metnic aociated wlth the pacthto ~Qach noutez ^bthcd th bet  avauloble noute is xi ehosen:' ECP mechani0mn CUq : ' Acquie nzighboru, monitun naighboru , exchonge data a1 '` uplcte menogea' 1 yn ~ 16,1.Ttn.,1`77 c - M^ ~n J > 1 /1m3:h;io63,11?1/ JGP Xntenuior; (atewdy Pnotocol Vo a pabtorol tor RYhangina infonmaHion betwoecn &ateunys loithin 1 >  40 autonomow) netconr, The noutim infonmatior Can than be wed by tha (P orothc7 netwonk pnotoco/ t0 apecity hot to no lte  tnansm)s sions .
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 88 ===
+======================================================================
+Congelon' T6o many pac Keto QZ pnne nl (n fhe nclwonk Calucs packel deky a nd loss I hat dgqnadeh pe7 fonmance , 4hin nituction in callad (€ ngetron. Thc nctionlc and tnanspond Icyyer F) ponsi ble for7 handinq (ongention hi :: 6 13 jdea | (apacitd of` "`1 1 ,97J0:1 hc ncttnk 1) * .J De inabl e 4 : ` Fcn ponnr ' do ! 1 I :O^ 4V !` L' ('1 , 0= (0 ngention ~DTndloy ` K toi onset of <1 (ollapoe 0r;nt)* KConge1 Ition ` ,to' 71o` !w 79roffend Icad (packet /oec) Above' fi9 Lz 'hows the Concapt of conganton (n ndtcorK; bhen th num bex of packats a7q dumped int Jhe nubnet br tho hosts is Within it cavujiny capa Uty ' thc numbr7 0f delvered i5 Pnopontonal tb thq numben nent: Whan traftic Incrwane Iov ta7 , the nouten Q1 no longev able to (opr and 'brgin to loss packak, A4 high 'tnatfic Pevfonmonco ccllapse sc  (omplete/7 and no pockets buill be delivened This is  called congoton: 'IrTm Tr ^ 1 vy| V 7/  Kn9))  . `
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 89 ===
+======================================================================
+Congr4tion factor; ."/ (~13 ` 71 1|j  ~h YXy lnuflicient mmony ;; ' | 'v1 21 `(. k) nfinite amount of mamory: ! Jon' .; Stcu pnoamorw, ~.1' '`' 1` ~:))`m'1 lok bandtuidth linen. 5Y Kismatch betcueen pats = of tha ~yntem :O " ;Af ^ 1 i1'.^ ^( ( ; cf1n; Vw ,! Diferanca_betuuqon eon &1t00 contnoL and flw_Conto"
+"H Conge)hon ccnto)__~kyy fiow_contno)' (~ Congation Occ7 whon To conho/ Ts an issua Th (1w mono patketn a7n:y: OcCU7 at Rverul lqvel pnonent in th ubnat (onsiderin hvw to kqcp fant This pnoblem Iqad) to nqmc7 hom nlow I7ceive dognade) penfonm Cinte with data . ' 'oa daln With capacih 'ofdataldqawn wilh' tha nat? fdalci "'*o 1;il 6Acn: hnanste7 ,``imn ! ) ~J(n oi pointl-point imus_ / C7lobal imua ; JC ^ '71x//373 3 Gio !ls:^ Congexhion conhot ( Chonenally , 2 tup) of pppncocha Fori ( ontnollina (ordehion' ` td 10WM11' 1) open ILup cOrtnai' open: Itvp rolutions attempt +
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 90 ===
+======================================================================
++br nolve Ihc pnoblem by gcod  denlgn to mci lc & Acuza_ Thcct Pno blqm dor not occu7 in thc firt Plcc . Onco Ih ~yntem ( Up and nunning' midcowue ( 0nchonn tu not made M i: n V; ; 2 ) (losed loo p contncl: c lone d Itvp nolutibno az bovn &d 3 on th conapt 0f a fedbock Iovp. 9+ hov 3 pauzbo ; 1)Nonilon Ihc ayntem to deted wuhen and Wher (orguhon '1')m OccU | 2) pam this infon mahon t0 placco lheza achin 3 (on: be taken- / 0),{') {19;l80 3) fdju # yntem bpenatton to (oruwat thq pnoblem' J 0  3627;) Voncl } "i 10ic >0'| 171 ,) {o ~un /; ' 'X cisl ('Wc/ JCo : ic '   Knk ah, 977/ ,/019q onf Congrnton (ontnol in vintual cincui} nubred : Aamissicn_Contnol' nugganted that onre (orgestion han bee n detected , no mbnq vintuau &nwuh QU7 oetup until Jho pnobla m hc) Jone & LcH Altennchi"ve_appnaact: 'a Ilow ne w vintudy Un duubz) bu (az tully noute all nq wo viritual Uncuin au7ound pno blem Qqan , 1'`
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 91 ===
+======================================================================
+<71'.1^ f
+:i '319' corge)tion i1
+' ~:  ` 1` ; . , 61
+
+(1'j
+1~ D
+' ' ` '.`  / ` '^ " `V ) -
+31
+^!' 711 0 ' :cri : ; ( M;' F: 0 Congetion 1ilns1Vixtyeut Anothe7 ntnateg Y is to nagotiate ar an agruaomont be teuee n the host and 'ubnet Whan Wvintual @'nuih i netup: Thin aanee ment ^pecifie Ih voluma' and ^ hape of the tna ftic , quauity of Aqinvice nequned Ond other paameteru, Io Krap itn pait 0f tha agnamant;' the aubnet W)ll tdpically Tenve hol7ten along the path when the Uruut i^ netup: 'Thee Nou7cen (an Tnclude table and bufen apace in Ihq noutem and band wjdth On $h linen, In thin locy, (ongentionis unlikely to occku On Ih new vintual unculh bec Cuvx all the necmatyl: F1OUUC)) Quw ! q@utonteed to be : 1a vailable " ":v nA.fnn ; (  19/+1 200)9 ~ {()l, ! F'. Vi , "`i>1 ' F1m,) ': v17/):; O" w cIns 1? nak; :fn2i
+Scanned with CamScanner
+Scanned with CamScanner
+` : '
+
+======================================================================
+=== PAGE 92 ===
+======================================================================
+Ccnaexlicn contnc | 1n drog nom aubne : Eack noude7 (cn monilon Ih uili 2ation bf ito oypul xihe) cnd ofhen Nenou7ce) for exampla , X (an asso eice lith each line 0 ral vaioble U, luhose ialti bettuccn 0.0 ond 1'0' , rflqcts the haccn ltiliaation 0f 4hat line. To maintain q 9cod &Hmcta afu 0 impla: of 4ho inslantaneOU linc  uli liaatron {(0 0ni1)1 Cn bg made peniodicoll) 7 ) ond  U Updatad accondinq to ,  ' 'tc . |7 '11 Unalu = 'G'Uol + (I-0)f ^ ;J {1> .: Whpne 0 = dctenming) bow fcnt tbe noite .f' .~;:Tf fongeln; Fcnt histony; : OTa |: Wheneve7 ` Ul move) c bove Fhe tbnhold 1   Joth outp" ut: Iine enteru & WCvni ntats 1:; ;X ^Each nwly azuvin packcel (s checked tv 1y '^ ` 'ee " ff fls output |ne:1 s in wcnin ntadte 13` :fiis; nom achon is takon ^uchan- 1w ;: Y M 'w .~ii ~h ; ~kin) | Vs! Woning _bit; Wheninendehnend) packet to 5 Ya cel' ve7 fhnough noutel i f then'is 'any' eongntion pnanent 1 then nolte7 will Placq 1 o on wanning bit , Receiven w ill undeztam tht therro is 0 congenton: 9tnemdn back an acknaloledgement
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 93 ===
+======================================================================
+to Iha nenden thct (ongution pnanent, alow dotn tnonsfeni ncte . By this Hme, many 'pocketn Cza paumed 1 hnough }ha noutaz . Tnblve; this pnoblom, 1 cholce packotmochanism aziiven -
+boka packets' Routen Can moniton the Ievel cf Kon a7ound #hm iand whan ths corgutionis Conge) 4hey Can nend choke packets to the ondez pnonent, Ahat myy Inloto down " ft higb npeed Ove 7 lond nol a8 much belpful,.be ccucue i+ wlll dis tanca , it(s tme to nem chore back to tho fake t7 much nendez . S0' hqna comc) Hp-by -Hp ( hoko packets terhni qun 101643  ''= chokg_puckets: Jimila7 to cholce packets, Lp-bx Xtop bukin fhis #he (hoke packet aflects each and inter mdiate noden Inoutev hnough which Qveruy ' it pmg bY' : n| 6 ' 11
+  .. 4.  ' '
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 94 ===
+======================================================================
+
+`' ' ('' ' ` '' .,  | 13 B h :m; A a 4' 1.1 ".!J( Heovy F E {ow B '`(' , ^ "BL 61-x^
+0
+A D choka D cheke ~: P1` 1* ^ ( " F: ;  |`1~i'. ~v8a B L ko"CO B 71 > |`f A ;7 3Xp A  ;'7| D " ( ` ' thke Chore .~74 2 F Ac"'h E 2f 6 ;' '~1 :"~ B 4i 4:131 B 5n',: A kchcke " D A k hoke ~Zp 1 93}! F coc7 F 4! 4"!E V7 B Yh / A D Reduud fiw E B >j D DEka^ #Wn-l: A Flow is nhll 7)AE at0 mox (mum nate ' : A; "B 8 /.*117 1/Aivnztni |41) ; 1 9  : |"( | ']1i Flowu is rdu u d  4. `  . . . .     .     ' .
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 95 ===
+======================================================================
+Intennafcoori kcirgi A collection 0f inten(omected newonlo Cza  Called inteznatwonking . Two ntylq ) of inrencttpnkcinq CxZ possiblq: 0 connection-onientac Cen ccutencted 0f vinual cincit ^ubnetn and 0 1 ; datcanam ntebnst intennet ntyle 0n7 (onnrctionlev 47 ] (nten nctwonkicd' P > 6 ' > Conneaton-crented inteznctoenking: Inthis '/ @ppnoach, #he nubnctnr Iha tho dohnation jo hmote an buHlo a vintual eincyt to the nouter  ' nqaz t #he dH'mtion netwonk Theo it constucts a vintual erncuct Gnom Ihcyt noue7h 6n extenncl 3) gatoucy. This gatec wy rocond) th existence oftha Yn /) vintuc | Uncih) in ito table) and pnoceeds Fo build anothe7 vintual uncuit to a nouten In Ih next pt nubnet_ This pnocm €untinuo) unhl Iho dntnahon Jf ho s+ hcu bean 'hoached' ";~ Mij`1 Sia 1) } ~7V ) ;: 3oy. K 5' Multienotoco| 4' ( Gpoto' JWHi! 1! nbute7 Qoutez oV '@x5 3T7' , AT 30 |nnaho` ~1 F'pu) ! M {^05i '*^ cc ' V"! T7} nn J :7; 112 Host end -t-end Conctencted vintudl = cinulh
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 96 ===
+======================================================================
+6
+Aduanla9a 6 Y) Bu flerh €n bQ nenezved inadvancee 6 1,0.. 4: 2) Saguo ncing (0n ba qelon Feod '::1. 3) $ bont hoadez ecin he we & 3 `17:v; Tnoublen € Cled bY dclayed duplicata ) pockets (an be 0 vo ided Disad ~;';L | vandagu )tablq npoc rquinad inthe 0 | !f _Jf " fon &ach open connechon: 1 2) No altehnata no cting to *u vo id J~ eongeted cvucd-1", 2'7111 ! ;;I~" 5.. 3) Vlunea bilihd to noute7 faileuw) ~ . n'n7 ' , along ~t he path, ~to , Vxtziv ; > ilicult to im Plemont ifonq of {6)))17f tho ntwon KD kn^ Invo lved i0'an unneliable datagnam Inqtwonk 1~ TJat/| ` ` 1j17i; Tm,sfaei F>}+y):} | fo moquraIha Ihaz apt,ouktnog doxn 0446ngi3h iTorta' 'onq Connection: to tnav eme the name ^eq lnce 0f gade ways- In 4ha followln figuza, datagnma Knom bost 1 tv host2 CUZ" 0 holon ta kinj' diteznt noute) fhnough the intennetwonk A nouting dea' si6n 1o mad ^e pazate)y foni eoch pa c ket , pOJ5ib17 dependim on Ihe tno ftic at th mimnt Ih_ pocket i5 nent '7;)In)(i) '667': !Antn J"
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 97 ===
+======================================================================
+5
+
+Packets tnavel 'ndividually and can takodifle7n} nu?" | AD D
+nout 2T
+14  12 I-ost " '. > ' !) ci" ^. Tc , Multipnotoco| 3 .  6 | T 717 } '' > : ' ' noufer "1! Advantaga) Highen ba nd width. , 'n 2)Xcr potentiol for (orygeaton. ! 3) Poblb)tnem inth tate 0fnoute7 tai lwu) =  AYXorgarheadanu neaded: ,1'.7 {  il "{1 '6,1jt;;) 74 1'! ` 1; 5) &anbe uned 0v27 ubnetn Fhat donot 9n1innnl %1 : we vinludu &ncib inaide ! ~S~;i) 1. n>no .. 1 DiSadvantagQ)' !)io quzantea that the packeto a fhe detnahon (n onder QvQ 1 ,6; TJnUf  Callien neiziol) pnobikms itthe i'> "vf>fic 2PGTniwonkic ntnategy is baned 0h CF% 0~ vintual Uncetn  '1)<1 Tunnelnq: lohan diflerenl netwonkn CzQ pra) ent behyzeon Jd namo td pen 6f0u7c nd detintion hysts , thon iti (alled Tunne lict | Tilila V Of' 1 , '7coi} ,ci >")vf, ) ' `122)/a!
+Scanned with CamScanner
+Scanned with CamScanner
+4 ' AOO
+
+======================================================================
+=== PAGE 98 ===
+======================================================================
+(a7
+iiiTL Paus
+IDT london
+Rci lnocd' ( awiage
+ZITITITIIIMMI Rai | nood twck
+Fnciqme ntation : Each nelionk impo )U) nom moximun ^j-e on ito packets. Thooq limito have vauols CCU)en' Iike - ' n;h;" {1 'on` 1) Wazdwcz " 04n:y'r3V(~ jy 2Ypenahing Ayntem 'udlo ! 3 ) Pnotoccln ` ! "n) ?Cn | W) Compilanc With noma intennhonal ntandand 5) Deain # neduce e tuon-induud NQ mnonsmissions tb o0ma In6 6 ) peina to pna ve nt one packet fnom ha ~#he channel tvub '`  for,occwpyi C 'ttot > Iora 7 !T ^ Thw the netwonk danl9 neiz) Cr not fne t0 ehos & any '| maximum pac kc e1 ni-8 thexl cjsh. An obvlow pnoblem appecz) whon 0 Iang r pac ket wonts h mnave|  thnough a ne twonlc   whose L Maximum paclcet 0i2e.is t nmall The ooly ^o lution tv thio 'pnoblem 15 t' allow gatee lays to bmak UP packet int fAF3e) fnagmonto 1
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 99 ===
+======================================================================
+nond  g %ch fnogmcntn an& Apnto nterinct packet; Thin ^blition is Knoln C fno9" mntatior of pckets,
+Tlpo ntnateqie n fohz necombining' 1)Tonnspaunt tcAmontation; Inthis,dhe amau - packet netwonk han Gjadocucys 4ha inte7faca + { othu7 nctwonks. lohen an overui xad packet avUvesat Q 8atelcy tha 8ate way bnaars itup int fnagmant: ' ` Each tncamant is addrma to Ihq Oama Qxitgatelay, whena tho Pietn QU7Q na( om binad AT in &n exampla 0f tnanspananf tncqmanlatjon Netwonk 1 2i4|  "2 i-Network 2 'T  / Io !0q 'o Packet Dn C7 ) Ze 072  D) @k'~@y Tf} 613' ;2> ` 614 nqam emble) (13 0 tnagmato Naamlm bl ; :j* 'ch IJHh":J: ( >; fnagmenti again @ langr 3'-y' pac Iet ~n` 71 fnog mnto 1 _ again # 2) Nontnanspazead hnagmootation: In #his appnoach, Onca a pac Icet habeen Tfnagmantod , each fnagmont is tnaated 0n #hnough It were @n Otiginal packet Aii tnagmanto Cza pCned thnough Hha exilgatetay Q ahown beloum Recombinaton only ocnat {he detincton host: IP wonks in this Way'
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 100 ===
+======================================================================
+1 . 10; ~ + - :11 L" Packet
+" * ` ~ . 1".,~': - ) 7: .. 'J/s 1' | (n) 16n1 8 n 3x 83 1613 614 3 R  p n ~O , w (7 fncg ma nto 9''^ Tha tnag mc nto 'QZQ not '1 L't 079 ' Q pCcket ` 1', namum bled untilthe '0.173  .#Ff m:1y' Fnal deHnatjon (abosh (waari :rc "  Jd ;s @achad Lil 1 ^ Pnoblem amoci cted cifh fnagmantaton' Tans paznt_fragmen Jation: <1 >,' i) The exit gad eway' mit know when Itho CV heca' Ved aIl th piece)',1l 4 I) Pil packets mul exit via the ^am gatalr: 1u) The ouenhead" Xi [ < Nontnanspart tnagmantathon; 40' 1) Requine eveny host to be able to do nam embly , I) Total ovenhaad incnoauen when Iazge packeto QZ fnagme nted_ ' 1 Knn" () Muttlple exit gate uuys ean be Wed and " ' highui penfonmanc Can bx dchi <ved: Kt ii) '#d/p'ul' (soq ;on fnoVlCRn 1,] ~J") !(/ 0)' ';i {-));  'vfl ''H` ' Vo `ii; C' MnJu; " .x :;ffyii,;6 '
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 101 ===
+======================================================================
+Numbnin| incmontation: ono way 6jnum Berinq tha fnagmantn is f6 kQ a tnea If packet 0 mut b Aplit up, the platan 479 Qalled 0'0, 0'|10,2 qtc , If Ihee fnagmont thomnelven met be fnagrnted latez 0n #he pie ca 2 C7 numbenad 0.0'0, 0 '0: I, 0 '0.2, 0.|'6 , 0,2,0, 0. 21 etc ' ' 1 ' 1 1 , 'v VXtol : n ifn 2#o |a [B D E F CrTHT/7  N~x;: .jn ;,1 > . 1ri 'cf)(  11>1'4 In '^ 21 A 13 ID ETFTG/Al vish 1J
+22'f171C 7; |`31 27/5-/6 FlklHl 21/2/(1p]
+7 , :1): #loll 210 0 al 1 Dlel
+6w0 :1.I :fy $
+rxbrmh'| (1/2 (xfvn Jv) 4J|afui, |  1" (Tf :,7}" 0 6or) {vhtcW
+1''Ti; ion
+:<jn :lr6  osir'{ w" :apltk 'tovf} V ^  1y')cfi 7) G0 {1oiiArnii  13) ' "J1 !0 6'1;"f I (  .:1 >)'` 4i7{101 ,00714;';x 4 ;/; 1ri ;1} :0J6ljnnhvl" WM]si ~1 *(' .41 .`  ` };
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 102 ===
+======================================================================
+Lp Arm: ^ ' 1` '1 : ! Any,nte rinat pnotoco) addmn G bbr vi ated a lx addncx, Va a 6/ | unial 32 bif QA4E22 binazy numben amigned %o a host and wed fo n 'all (ommunicatien withthe,host; . : ;:'` x1 k. Distinqerah betwee n (Pvy and IPv 6 ; IPv4 IPv6 Avd Ne1 ^i+ "5 32 bit_ 12sbitn Mppont nmall numbex Ic7g &n number ofaddmm_ Headin contains13fie [d) 8 6ie Idn ab1e t0 ( cLuu F241 laige7 N6 pnctocol e Iem nQCUU Highly ne UUZd G Divide into pubhie 7 No dvioion Cnd pnivate LP ~" No extension head7 6 exte nsion headez Dedmal numbe io Itexa d Umal wed in Npianen HirA IPaddnn L biodeoh gtnwobyt [aado} lenathz 40 (nfiquction Contauatzon_ Aupports v LSN [ognn tnuppont VNL Notiifabie  Fon mobile" 1 Uu table fon mobile netwonby nhaonke Ips ec i5 not (ompul) oru| PSec Is Compubnoryy
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 103 ===
+======================================================================
+Distinquish bfiuec n (lassfu ( C1nd classim TP addnomir classfiu IP Classlam Ip addna ni o add ncmim An IP addncm allocahon On T0 addr h allotahon mefhod #hatin dcignad t0 mcthod that allbcaten IP Nc placc clamnfu nddnami addname) accondim tv fiva tv minimi?e the majon clas5en napid 7~:  ' ) Mi exhcuuhon Of IP'addram [ 'LW Non pnactical and WJa tul la pnactical_Gnd_uehy 10 and hos} Ip Ther is no bounaazuy Netzonlc on 6change) dcpendeha on #he ~ntwonic (D and host ID elanen ~halj,i'1 6 N ') UJ)' Jnnn Distnqush between_public IP and privcete_IP Gdd hem' Public IP_@ddnan Private (p addmen LL lccnnected witb a: LAn kennacted with tha intennct netcoonk publicly ragistencd wlth (s nct naqlste rod with ne hwonk Infon malion ntwonk infunmhation k&ntert ' ' ; ;i eantenLuai (noquinan noutev J (onnact Noquui Na) mcdc n fo G netwonk with 0 nouten (onnect wfth Assigned b1 Isp fssigned by le7 0n noute7
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 104 ===
+======================================================================
+ * Df f enane bet(Uecn ^ubnehia and nupr Naltim !
+1 SubneHing Supeinettin 0 pnoccn of dividic a pnoce m of combioin Rctwoonk ints 0' th& nmal) netwonkn into Aubnetw on kn  ~! la7ge nettoorik   ,1 ': wM? Fh }::,fv:n; 1 >c `J~ 0 : v The numbe7 0f bits Df Tho numbe7 of bitn 0f netwon k addnamen i0 host addnme) Is Incnaed , inj | %uia| incnaanad ova 'io; *37 "' ";1 M I, |i ! ! o. 2( Mank bitn a7 moved n) Mcuk bito CUz moved towando right of detaultf towa7d) leti of dfclt  0 E |ta 9/ ;ildi Issnshes] tio impla m &ted winq F" ) Syupienskixpedc implem I: VLsN , (olonnjo| {"1 win  . Cidr ,1}' Nti) !. 70'2'  1 #i|Tho objective into /i6. Tho object've iotp hduce tha add renil MNimplity and fanlen the deple cton, ,:/,169 nouhn pnocyn, 3 ,-31.)CI < >Tiepw' )317)7 d 0 c Cohon 'n:;i `71 Miyhn 0 Atia) 1,31C1}' 53( :) Ka 6oice D | rc/ Fpio1  . .
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 105 ===
+======================================================================
+[201J.&ra ) 10'20 . 30 - 0 /24 4 ' 1<1 ^( C Inondc 7 Jo (natq at lecst 10 Lqable nubnctn 1 24 _ -2 = I6 - 2 =/4 lq nead to borow 4 bito fnom host bito QU) newonk bito Asa nult 1y V cld nubnctn woill be crated Q VQry ^ubnet' (ntains 24 - 2 =,l6-2 =IU V alid  : |1 host / IP  '''| `'( ' ` Nelcoon k addnan @nocidccutaddram Subne Imak Io . 2o 30 2316 10'20.30. 3 | F` > 255255,255.240 I0 . 2o 30 - 632 Io: 20 30' 4 } ' 'y 03i!255 251.255:240 I0. 20 , 30 . 48 1o: 20. 30* 62 / j;/ ' 7255.265.255.240 [0 .20 . 30 . 6 4 [0: 20. 30. 7g 255: 255.265-240 Io' 20 , 30- g0 (0, 20, 30-95 255 255, L5S: 240 (6.20 . 3d. 96 o: 20. 30./ '265-255,255: 240 lo. 20. 30 - //2 lo. 20.30. 1271P) 255' 255.255.240 Io.2o. 30.128 10,20.30 /43 < 2 | 155' 255 155. L40 Io. 20. 30.144 (0 20: 30: 159 255. 255'25T; 240 1o. 2o. 30 . IG 0 10.20.30./95 255-255.255. 24D Io. 26.30. 116 (0' 20. 30./91 255 255'255: 240 Io: 2o 30. |92 Id, 20.30*203 255: 255.155: 24d i0: (8,20 . 30 208 Io 20. 30.22 3 255: 255.155:. 240 16'2o.30 . 224 10, 20 30.239 255: 255.255240 LL 10703640
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 106 ===
+======================================================================
+1) Ic.20.30. 34 1'1` ` . { `` 1": ": ' (1) Io .20. 30' 48 ` , ^ `' '`n ' !  | . 4' IV) 255, 2 55' 265.240 ' : : V) 16.20,30. 63 'i ' ' ; ; :~0^ 8 "ain,.. 0 n^ ' (' ` ~ 0 19X6 b16 ) Ip Addnen =1192'168'/2/'12| /21: E Subnet mak 0 265.255' 24g'0 F () (92. Ig g- 126.0^ :oor' 7' ilf ^ '',na01 | A { k(ii) 1cz' 168. 123 265 >. > ~'A a ` KGii) valid host 2"_2 11 ~V , xj 7 ~ ( (v) 192' 162. 120. | .Sr 0/ JU .6f.n .| "cAf (v) 192,/68 12t+ 2546.1 19) 07 . )(.^} 73| J>. Jf'c) 'J (. 2018' 57b} Ip Addren (63' I91  126.026-/ 21 9 Xt) 16 3. Ig1, 120.67+' 6 03 ,AA() 1+'163,191; 427: 255 Xc )/ 3.4 77 ] (_) 72 255.255. 248'0 ( J VMi 'f 72 | (iv) 16 3' 191, 120 . |  )(.j JJi 9f.30)  74 . FJ( Qa^ W"v" 0(. a 3^ ,^6 201(0) 7d ( IP Add nem.= | 00+|U0, 1CO, 0 (24  onder h 84; (naate at leant 30 weoble IP addram luq need to net 5 bita @ 729|41 host bit and 34 >.a boruow 3 bfto a netwonk U4 ' b ih ~i; ^2
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 107 ===
+======================================================================
+1) Numben of nubnet = 22 _ 2 = 8-2 = 6 VQ . 'r. 11 :w "' ~ :` v '4~ , ^ul Netwonk @noad cat Subnet k .. '' addtn addncm mmak  . Iov (6  Iw 32 |io Itn: Iw: 63 72+ <`.` lou lob Itu '64] (D: |6 | 0.95 12 (67 A|Wu:(6u.96 Iw' (68: 180 127/6.027- I1l 0U'|6: |d,128 (6: I6U 'Itv'159 TT2t Cn| ^ (do '|6+16 (60 Id: (&. [D.I9| M; (2: L"sS '1'or'. T0` loo |w. (u:192 100: Itw.b. 224 12 ~i"~' ~C~i' ";#! : 1) I6v : I6U.100. 222 |21 Il) [8 +8 +' /2 1 S..J!:.' J; {"C .0 (Iv) Tota/ uoeable IP add hem affen nubneHin 6x 25 6x2 = I80 Fai 2fi ,W. J: `(^ (i1  . Fou 9? ( /1 201y 5(b) 192.|68. 123' 122 ( 2| 192' |6%. 120 . 0 6" > Ae [wsl: (ii) 192,I68, 12+,255 v1 1f} otnn' o[)oona { (I) 2//52 'ric' )| (^ 't7 : K: < yJd (tv) 192'168.12041 .1 !c: '~/.7 { `n"n (V) 192,'(68, 127'254 Nfon;; 
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 108 ===
+======================================================================
+[oj9 2b) 210'2(0 2 /0. 0 / 24 ';M01 ,.1 " (i) Y ondcz to cncate 15 Waable IP addrome n Ce nec d to bonot 3 host bitn @ netionk bito. ,Vcld Otlbnet 2 3 2 = 6~2 = 6 vald IP-addnem each nubnet = 25_2 = 30 6 1 d'^ 'l 6 Netwnk Onoadcat Subnet 0 addnev addnm mmniy | ZlO 210' 210 . 3 2 2 (0, 2|0 2/0 , 63 23 7 2I0'210'210  64 210' 2|0.2/0.95 123 210' 2lb '2l0.96 2i0, 2(o- 210,127 'J3 127 2Id: 2I0 ' 2lo- 128 21c 2lb: 2/0.159 121 7' ' (' 210.2/0 '2l0.|60 210' 2/6, 210 ' (9| 1+ 5 ~(| 2l0 , 2I0.2/0.I92 /210 2lo  210 223' N2+' "0 v (vj 1/) 210 '2/0 . 210' 192 /27 J; 1 : Iv) 216 2i0. 2/0 . 66 1'1 127.rla"l fca ` Ezdeto czata aiiemt 6 nubncto ,ue: nead t | Soruow 3 host bito @) netwonkc bifo. As & heut, 2 5 _ 2 = 30 weable IP a ddtkm wfll br (rated 4' ` FnSJlc (.  
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 109 ===
+======================================================================
+Ne lconk 13noadcont Subnot " addrom addm m mak (' ' 1n2, I6z. 30 . 3 2 192'|68 30.63 127 ~' (1' 52'162.30*641 192 |62- 30.95 127 1 : Ll. ' 192,162.30.96 192 'I63: 30*127 T27 7 . 1 192168.30-/22 192,168.30.159 123  1 ( 192,l6g. 30I60 192 16g.30,/9 | 123 (92I67.30*/92 192,16 %.30. 223 127 Jc i`1 ' ' 3 04 . ^ . 1V ^ (_) 192'/6 & ' 30.95 /23_ ^ f   nnl y  (~dc 7' '9   (Ci) (23 7^ " ' Jf:(-J. 0 | 89  (jij  |9 2.16 8.30-16/ | 23 VJl : f -4t 1 [ 1 L' (IV) 192.I68: 30'158/27 {ni   1 192.| 68.35,0/24 ` Wnr KrNn 'JiJG F20/4,Xd) 60 wable IP addiem Wzandc7 to €rcate at leaunt bonzow 2 ' host bftn d hctwuonk bito_ we necd' to na ?llt 2 2 _ 2 ' =2 Vald nubnet Will b As a  . 'Crated<' Ff; !!.y "6! 7 Netcon I<. @noad ccF] Subnet ;"3 c) Addnn mak Addtam ^.. 192,168.35,1274 126 Jv' 168.35, 64 54 j0! [i9nIez.35128 92163-35.19| 4126 fV;l 50 / < " " {6
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 110 ===
+======================================================================
+W) 192' I6e: 35,(96 (26 | - ' 'v. Iu) 126 ' : | | 4: < `| | ^| | Iv) Tolol no. 0f wa ble IP add tcma ) ufler Aubne Hing' 2 6 2 ; 2X ~Al. ' 2x.2 6'{I)v::01 124 "' . 7` 17c; ' 1 w.0{ 20IA.bla) ~;0`n'"1 {yo|
+Ri
+2 5 2 5_2 = 36 192 168 20 "02+ 1152'(62.20,31/23 Rx 20 25-2=30 192 l6g . 2o 02/27-,I52l63 . 26 ; 62/27 R3 16 25_2-30 192+168.20,44/17,, 192'Isg: 20.95/27 P2 12 24-2=/4 192'16 &: 2b. 96/28 , /92'162,20-112/ 28 
+(2015.gla) x2'I67: 20 ' 6/24' ,,1."' Finwci '4' ' 6/ ` 3 howlm :t)ocll 04 `") 0 25-2=30;, [920/68,20,0/2+,4192.168: 20'31/27 Ri' Y ,J 25 ' 25_2-30 192l6€+20+32/27 - 19246.20: 63/27 20 2b_2 = 30 192,16€ . 20.64/21 -192I6z: 20.95/2 7 2/ R3 15  .25_2= 30 j92'68: 16,96 |17-192+/68'20. /21/27 Ri 0 ' 2 22-2 5.2 192,16 8,20:128 /z8 - (9,2*|6g' 20'131 /z0 W AN L 22-2-2/ 192' | 68:,20'132 h8 ~192*/62: 20- 135 /38 wan?2 2 NAN 3 2 22_2 = 2 192'16 €: 26'136 (20 -|92'16g. 20-|3901
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 111 ===
+======================================================================
+Di ffenwnce balwuean locica addrm and Physical oddram' Xasis Iogical_@ddnem__ i phySi ca) add hm Dasic Gt is {ha vintual addrm Physicl addnam is4 Tocation in memorz uni} Geneaced by ( pu ,)i | addna  nsl 6f all logical Isetofall physical addria Tr Senenated {? addncn ma ped to npc 67 € pU in nefenence 1 ? Iha corwn pondina is IIcgical addrumefJio toa pnognam hfenned c `i^!1ih Cferzzad 0o  loqicol add nm Physical addnam  ' npac apacq lwne7 can'view the '"l~ Junez can n2ve7 view vis ibilihy 6col Iogical addram of ! 03'1 the physitaladdram C pngnam , lofa Pncgncim 08 U2) the wx7 Can not diructly Accem W 17 add nn tu hhl: Jaccemn physical Yai| Iogicc) accem physita) laddrn [ l'stns; addnm , , ~" fil micsy (nenenabhon Igenenatedby (pu`, , gqnet nated bJ MMU' U: F(ivh A) 3nsd 753'akl 01 00ile6 , bonJ 0' 1,!;i} xb iWp~ | 1:ili 5il 17,31 4him1 'Mfho3 6nn 2;['J 0 )}Ji ;b2( 'J 'aclcl jll 11T))ng): 16,n 6 7!fn >f .16pn1h7) r ~iFm33n7 "M}ifsici
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 112 ===
+======================================================================
+111 - Main fealitz oftPv6 : '* "1 Y laugeraddram npke ' :'"rci ^ !  1 ^ 2) 'Simpli fed heade7 fonmcut :i.2 3Y 9tleni O phonal upporct ' ( 'i , Sq Linad vemion; i ` <n ~nh ) ?ia~tt" )^. . 0| 5) uality ofewvit` / v ;' ~ Rco j 78Cihf; ka 4 IPv6 hqadez_fonmcti ~~; |savna i4fi nhkaoj; `' 7,` 3o . 3i')a vemion lTnaftic clam Flocu Iabte | 37h6r 7) Payloadi length Next hoadez 2 'Hop limit Obna n Souzca addrm (l byten) Wsuubin Xosea' 7'UJf} 7T7)T Den tination addncm(Ib byten) LL
+veruion tield: Tha veruibn field Containn which Jf| (tt,y1} verion 0f the pnototol-th datca5 nam Ibattic tuld : i64lond /& dstitqusb batwa betawen pockebs with Na Hma  deli veny nequ nemente flow label: wed t allow & nbWite and detincti0n tv0 netup 9 pneud 0 Connecton with pudiculaz pnopertie) Cmd noqunmenk ,
+| Scanned with CamScanner Scanned with CamScanner
+
+======================================================================
+=== PAGE 113 ===
+======================================================================
+"'; Payload ength: Ialln hotu many byte) fllol +he 4o byte heade7 0f IPv 6 main haadez :: Next headez: telln Which of +ha 6 extension: badoru ~" 'cn ;Idzed { ^ '.111731; 1 Hoplimit: is wed t keap packels mnom living  fon ?vez Sou Zeand deotination: addnan pnoviden 16 byten of ^buzce and dntionahjon field {i : 1:1 ^  Exxenalon headez Decription Aop-by -Hop cphons Miscellangol) Infonmaion fon nouteru)  1'01 {'1 De)tination ophons Alditional infon mation fon the den hncti'on Routing 6` 0) lcos2 list ot noutel) tovisit fnqg F nentation' Nanagement ofdatuqnam 39 RnagF mantn '7x+0 futhticalion verutication 0f 4h nenderu identit 2 /' Encny Ptad neuwutx Infonmation about the 1 pay load encnypted €onte ntn . 3 :n i0.)/?" ;X: )" 10"22.)3111!{ 10/ )3) / ! 7 < ` ' : ` V:J 3 # ) ?0no? Morj <'| *o 0 7 vi <) 6hri 2d 18 : 112 6avn; 37 8 6nr {w'6.rh 4vc/ M>1 1 ) . |"' ~C T'k 1^ p;itinitsru} #nWt
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 114 ===
+======================================================================
+(DRy CDr land ) fon clamlem Intez ' Domain [Raami; The mc'n advan Iage) of (idr Ove  Ip add namim CU ; (IDR (anb Q wed t0 e Hlectively mo ncige Ihe cvailabla IPaddnam ^pala 8 br Can naduk the numbeof noutiiq Jabla enffiie: ` 'o 'n| ^': / i~1^ 1) ` > P3"` 207.6$6)1 192.|6r.35.1,/24 0 " Yep 1 : 192 /6 = |2(c) mod i0 i ~:1 192 in HEX ~Co `11^ ~' 4"' 'c i i j 71 " AJep2: 162/16 = Io (A) mode % "ynno ic)u [9[6% In HEX = A8 :. ntep 7 Lm AE D, ^tep 4: 1/16 24 Jlim 1 <Vff; 1 In Hex 701,3'!oxiinylfi 6 `Soth: &auvalent |Pv 6 ; = ::(00%; 2301 O" | 1Tust hsc "M7 / 2 Atnsfoy  /t7)  6oolo 5 2016 . 4a) 197, 228,/3,56 T1000101, ||00i00.000 |ooo  C0 ||| 670 The wholq Qange (23.0.0'0 - (27= 255.255.255 Is nonenved and Canlt be nouted 0n fhq interinet . 127.0. 6' ) is Ih loopback addnam and 1n Wed to 1ut Ih functionaltd of Th T(P/IP pnotocol
+L Scanned with CamScanner Scanned with CamScanner
+
+======================================================================
+=== PAGE 115 ===
+======================================================================
+`:0!"| ':: ~ . Hieychicalnouting ; i5 a imethod of nouding in nexwonk Fha In baned on hie-chical addring Y Which thz nxatem (0 oraanized in multipl_ Ievela with neveital Anbup loops (onnected Withona anothe7 atxach |evel 13/1 ;; |S" 1;1xin"'1>irij' Advantagey' 'w alc;;  ,1 Reduce ) 1o unnecemazy noutim packets; 2 ) Xtybnid nouting rduca); a tage of bondwfdth; minimi229 (onmol tnaltic and deciacu e (ollision . ~nmolle7 ta bie and nmalle menagen , 3X Scalabla domain (an nun on 'itn wn nbhi Pna tcol 4) Rach 4' '^ ' MmM Disadon taga ! fjorakr i n) ' bDplaxiky tccuv due t nelqction ond mainte nanca ^ -WYC (fclutez hada :J`r 7c9JUn Jit 2) Nobility is dfticut: {121l!; noutel' 36, average Path Iength incnoaue; 3) Yub dptima( ' :1 nolte: 0 defaillt noute 'is a netwonr noute Pefault ' nolite7 Chon no other knocn ndutc wed by a Ip Packets dutination) addrem- 1 exishs fon 0 qiven . 2:1 1",/ m .W5?n 17  ` Mxi i,; i:; F ,1d ~inn {' i~ ) w" ` Xn~tNmn1 hixnMp` : 1!0 nm:i 14iinyrin)alb ha'"
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 116 ===
+======================================================================
+(haptez -06 Tnanspont Iayer 0o13 , 20b)1 6 Distinquish betwe n Tcp and UDp; Ant 77777 'v '~:y1 Y "" tcp ' > UDp 13 6 ; }! ' Tnonsmi ssion (bnhno | Wen datog nam prottrol 0 nototo | 6c{1 ''oj' 1 )i; (onnechon orenfed Connechonlem T:tiabkq5 Noriabya abint'/ ! | ^rg Lancin8 " : ^rcj Ac Icnbw ledqement '1( ;1 No acknouoledgemenh ') . ^rqinianci" Y 4"' '>;' inict Alowen Ihan UDP '. ( 17 fanten than TUP $ HHeovd weight Cf rr Light tueight Mbra nrczed Ien ngluud led in inteinet wed in LAN "' e Q^UQ) acutates osh ~k Doe) nt enlui ^ Uccenive delive /74 Auceen |ve deU 6f packetn W ver/ of packetn.w : 07;/ r' 7" f , '; 00h11 crnil/d} Cs 2 03. 6lW) TCP (onnection Ktblish;, A Jhree-Way honyahake i 0 method wed ina TP /P nctwonk 4 Aadra ar Jf Gcdimnabetotep mlihodhobatl ient 8d ntep NeqUln both Iha eldent an 007 VUU t exchonge SYN and Ack (acknowledge) pckets beforu actual data ( ommunication begins. A Jhnqo_ Wau] Scanned with CamScanner Scanned with CamScanner
+
+======================================================================
+=== PAGE 117 ===
+======================================================================
+isalsc knoln a Ci TCp hand nhaKe Thnea uryy handnhc ke 15 primuuly Wed to (ratea TCp Aocket (onnketion: 91(onkcing in the tollowing Lucy: 1. > ` ' : )vlo..1;' 4) . " |C 1 :" :: Itost1 Host 2 Host1 Host2 SYN(SEQ=X ) SYN( SEQ- Y) ! '' syN (SEQ= Y, syn(sEqeYF Ack: Y+i) syn(seq; % Ack-Yti) .- ` ( . ' ; 71' n (Eq = x+1 4 | t ` SYN SE6 AcK-Yf0) Xfck=Yti) La 2 (o: 4 fv ~}3 Hc; | < k ; 974:1'1 1 );= ~MoLL 0 A elient nendn 4i SYN Aetta data pockcet 0venan WIp&1 netwonk to & n27ve7 0n the nam 7 on a0 eX tennal netunIc,to eheck If fhe nenven 1o J/ open fwn new (onnechons. (lientn net fhe aqgment ~ ^equenc nUm be7 t 4 hmdom 8Z valuq f~ (,r1 ,f 3ocl ,! t.J) Un + Dni6i 7n" 2 the ne7ve7 mwt open ports that (an Acccpt and initiate Nw conn ect7ons: W hen the envek nceiven th S YN packet fnom Ihe cuent nodc , itno pondn and netunn '0 confinmation j ce( pl th Ack packet or SNN /Ack packet: Acknocledgemt, number in ^et t At4, the Aqquance numben fon that ^uver7 in h D'
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 118 ===
+======================================================================
+The ( lent nodc Na cei ven #hq   SYN /A6k Fnom thc pondn With 0n Ack ne-ve7 and I7 pa c ket; ac kno |edge mant numbe7 to @+1. Upon €0mpletion of this pnocm, tha conneton In ( Naceted and the host and thq 0 &7VU7 (an (' ` | (ommunikate 4'; !
+:' .1; = e TcP eonnection G= ebliah 0 IeCuq ' Tho connection-e tenmination phae Wen 0 folz-Way handhke lith eCch nide of the (on nection Je7m ination independent/y' whan C0 rnd point Wishan to ntop "ts ha lt ofIha (onnechon it tnansmitn Fin packet, 0the7 ackcnocoledgement withan Ack, So;' txpiccu 'tec ~down neq uu'0 ) a pain' o f FIN lond Ack nagmgntn Fno m Qa ch end po/nt f (fen U,  1 both Fin(ack 6Q T > lX ( hange) &z conclude = d,dha | ard whith nent the firut FiN be forw naceiving one wcils fon a hmeout befor finally {1 , losica tho connech'on, durng Which tImq tle lotal O V}` portis unavalabla + foru nqw Connections, this pn ventn (bnfwjon duke to delayed pc being delfveru d duuca ^uba equnt ronnechions  - ~xrm:ti >513ln): 4 .11/s| r 0i ,aehrm)) 0Xci ;))vc)
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 119 ===
+======================================================================
+Upp fnama fonmat: 32 bits 4. ; | 5 Cl7 € pert; De 2 Fnation, Pont 1` : Ienqth_ € hecknum 'C` pont:-F i dnti fd 16 bils Solce pont ond dhnahon_ Tn.rlv! end pointo of Ihe connecton langth : I6 bils field npeci fie ) tho Ianglh of tho hqad7 '1'" Y : 4' ;1'a01 : 3| ` ' @ind dca heckum: 16 bits fteId allown packet intagnitl Su^ | | ' Che c k inx < '^!t; OL! L ; fonmcet;"  In 71 .,i.t ` ` TCp fnome 'i) / : 'N :' 32 bits LiL? Sounce Pont Detination Por Sequanc Numbe7 *1 ( ' Ack nowladg= Q mo nt Numbe7  /` Dda Renetved Flagn window 74): 6finet (Nliding_wimxlolu) 6' 2 15 ( hecknum  ! A Ungent pinte7 2 plions ~i:1>` Paddiry Daa ' U'  || 4 ! ( .t F>'7777777777  .1'^ 1812"M^ 0 / Ef1 . '14 '1,1 7 ' 1 X1'1 4 . . tJh1,l Vo : 6,13#:` 
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 120 ===
+======================================================================
+Souc and Dtination Porut_field)1 16 6i+ each identify Ihe end poinin 0f the connechon, Sequanu Numbea Hield)' 32 bita npaci'fic) Jhc number amigned to The fimt byte of dca inthe &n nt {(1 j mamage:  . '1 ^' `0 1' ' : 1` '; > :; Qcknow ledgemant_ Numbe7i 32 bila contains 4hq { .31 f' Valu of tha next nequana number thout fhe ^ender ( 0 ftha neg ment in expectina to Toce( ve , if thq Aek Contno) bif 'in aet i : aff] 9i '{ni)av''| Data oflngt field: VaUlabla langh field tella huw many 32 bito QUZQ (ontaned In the TCP headez 'n` Reerived_fiold; 6 bitn Y| mwt bz 2070 . This 13 for futzuza UQ ~)f:~nn 7)C)v' Cicg_fietd4: 6 bit ontains 1 he vauzOU) ftago: UR6 ; indicade Ahcd ^omw WIg ent dad & hav been plbog Ack : Indicatef fhay- th acknotledgemnt J1 (amni  numbe7 1q Valid 0SH ! 'dea ^hould be pamed t thq 0 Pplicahon W ^bvn t) possible "161` Rst nuet Ihe (onn &ction ~SYN ! Synchnonir ^eql nc numberu l initiate L C Connection FIN } means tha th nende7 0F 1he fiag ha fininhed ^ endir data
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 121 ===
+======================================================================
+Windal' ( hd fcaten #h ^i7e Of -h nrnde7 Ieteive windDW; chochum: inditalt? Cohenc Iha haarle7 Wcn damgad  LIgen) pointcz' points to tha firut urg ent d ata Options' vaziable Iqnglh field That npecifie) va zibun T(Po ptid ata ' vaioble lenglh field' contain uppe7 -layye7 info: .'^  ' ` 1 '. ` | 'r: ` . , Tmnseor lader: Tha main function of the tnans pont layeti ioto tmnsfez lhe packet fmom nolle to daitinction Qnuzim Fhcet Tha pucket nrnt hn not bran de tnoyed (modiFied amd lo st: (omjn t technical enpect 0 f tncnspont Iayey jJ Penfonm fo Ilowing C function: 1m:"r~;1 2 4 a @0 fiox contnol' Thp tnce nspont Iayyer 'in rponsi ble t Ina ke nlw Yhat Ihe hacte of tnansmission of data Wlth which Ahe 0ender i5 monsmiling mUt ba_ Iem Ihan 007 Qqua t Iha hcte ofidata N cu'ven7 (an nuppont; ` 1's ~kVn'1':" 1 |")i Eqon cogtol: No wonden thad packetn get lost @nd demhno Yed duunA tnansmission bet i# is Ihq napponsib iIfly bf transpont lagev to enaua Whonever Oomethinq like Ihvt happena packets mwt bz hehansm) Ned on chacked acanst data (ruuption tochniqun Mlce chec Knum tb malce 1lU that
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 122 ===
+======================================================================
+pcc k&4 1 ccived In nct tampe ncd ' Keamonlaticn an ncaembling: 0 memaige i5 ividad into ^emgntn, eoch ^ogmentcanladng 0aCUncc numbemu ,which & nabla This Iay e7 in ram &mblinq Tha m Mamage is Na Cxombled nagr (onz cit upon Czu" vaul ad fh dtination and Nq placc ) pa € (Cc tn which lueiz lost in tmns mission. L"`  4: ~'' 1 ,` 1 '<3  :, 1.1' | ~'` ICP congusticn Conmol: eongen tion is on Impon tant Xmu {hcy can ause (0 pac (cet nwitched nctwonks: Iead 1 to the loss Df pa c kets in hnanslt (ongation So, itis necnayy to €ontno) fhe (ongetion in Va netwon k' 91 Js not possible t avojd Co ng etion 0) h (empletely {7. |31 W!f>o 1 i `. , | Ka '0 '';1 :, |0 phce: , incrument nlaztn nlowly io Slow ntat expone n tial-to #hronhold phase : Afler #hrhing i5 (0ng22t00 avidoncq Nqached inuv mnt b7 1 . i3' :<.1:.1 'f;' . , 1 phae : 5emergoanbatkc to Congeation tetection Atep 1 0n Atep2 7 '"01 'WTni" 6,' : Jiv %`1 ( ! : ' J:A1 "712'1 kcc(( ~i;|ii' lw o6 Naanp^ inl n` i~a1' 1 fi.5J'; ~* ' {1}' ! >f s >W1 cuninf'
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 123 ===
+======================================================================
+(hapte7 -01 Qppli caion Iccype7 DNS : DNs 0n7 Domaln Name SyStom 13 a hienachiccl ndminq ncheme which / (Ued in intennet {ohan a luob addnm (5 typad on bnose7 if actually nend ) a bncad cant mamage ho ils bwn ndwonk &kinq loho knou Iho IP addram ( Cor) pondinat to; fha we b addmom The loca/ DNS nenven napli8) back th ansce loith #ho ip addnem of Ihe (orur?pondina Web addram wing which Ihe host nend tha actYal ruquent ttha Aewveru Whxr hq wonted b ( ommunicate 3  ( WV (' .Ij ' ,13 7'1;'1|0 4' (w Hoc_& ru)olvez_loke Upa_rmota noma in <igbt Xeps ?'"' '1 `|'1 ToVo. p. Jff 1 7; ! ^ Vnv 0 Ic VU (5 edu Yale '// Ya lq &S orugintoni nama /' |nam nama  ' name 0e7ve7 ^enve7 ^enva7 nenve7 flits t$: (5.VUml adu - Ya leedy 7r7ve7, (Sya le,ed vWmnl net
+To map a nome onto an IP addmum,  an applitation cal a Iibnay pnocduu caled th pncgnam henolvez Inthe obove tiquze,a nolve 0n Aits, cs,vuil wants to lcnow th IP addmam of 4he host inia . ($ , Yalk edu =
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 124 ===
+======================================================================
+6 ` .; 6 1' .'. 76 I)it nendh a quevy to Th 0e7vez 6 localname (S. VU,nl; This queny conlcm fh domcin nomd Apughtp thc tdpe In) and thc clcmn(IN) ' Ie1 w ^ wpponq Ihe local nome 0e7ve7 ha neve7 ba d G quczy fon Ihis domain, befvn on Inoln nolhina abolt 1t, inend) C bpp Packek to 1hc nerev fvni edu 9iven jn its databane , {du-nezve7.net 91Is unlikoly That Ihin ne7ve  Icnotos Thr addrom 0f   india: es.ed-yalo . edu . @nd pnobo bly donbt knok (5.yalq: edu. eithe7, but i+ met Icnow all 0f fs childron- $ 0 1 f} fonta7d) fhe TGuent t the nam n27v27 Fvn Ya lq . edu (ntrp3) Intn, thls one fv nw Cnd 1 Ihc nq Uenf to ($. Ycelg . edu (atep 4) which mwt have thq aythunitativ < rou7c ncondn _ e Sinc Qach naq uent hom 0 &lient to 4'^eue7 / #he heouunce   mcond 'Neq Unted Wonks in its 6; ( baH bock thnouigh ntepn 5 and %' . 16 LU) ` 'T"i 719 |0n' ^ onk 1| `))'csn ~"6t Qv 4^on .c' "#M; 1; . V0:: g: , X'; 1 ^ ';c` ^ : 1 1 .
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 125 ===
+======================================================================
+HlP, H1 Or |l 4 pev Toxl Tncinsfe7 Pnotoc01 . 9f io lod {hnoucihoul The inlernet . 91 npecifien whrit ctent may nend to nenvrru) and what Yaaqa ) naponne) hcy/ bac k in netun. H1P is qt baed 0n clent neilve 7 modeu, ;' !. { . ':"'1 ` K ' `^  .  ! 4_' 0 f ~4alemn! 71'' ; '10 e DORt Functions emci | 1) Qompojitibn! pnocm 0f czatin] memogen ond 0nswoi  1 ` memage n6 Pcopla 2) Displaying: d (splcy/in8 of incomij Can neadC 4|3) pisposition: what neccipt Klon? after raceiving memage Fn( [ +ells Jh Origina ton Chal happnd to 4) Reponting tan it dal (vezd bTU rjected 2 memag e 5 ) Tansfen_nefem moving manaJpn fnom Jhc nende- to tha  tecaivez,'' ( ` ('#N ~/ | SN; SNTP 0n Simple Mcui | Tnans f27 Pnotocol: g1 is 1~W 9nscIl pnotocol: An email Io  dclveizad bY' havina Ih 'Ablnc maching  Qlablish 0 TCp (onhechon to poil 25 ofIk duhnahion machine . Listonicq tv 4his 'prl is an SnTp ^QnvR7 #hat npeakn SnTp  {4h" "114',0.1 i N, UJ4 | i~bi .. ) ~i {( ') ]   | ,( ') /| Solnta Detnatibni 1cp 25 Aac' pon { (onacticn
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 126 ===
+======================================================================
+WWA : W W W 0h7 W onId woide wqb is 0 n Uchifeclcel (a me Wonk fon actemin linked dotumenin Ihat npnaad Ovr7 million 6 F ma chinen all: 6ve7 Ihe woorld ' "' ` " '' 1> ( S ; / | ^ ' 1w; 71 ' i' " KC4: I(np 0n Intenet Contnol Hemage Pnotouo] an e770n napontz'1 pnotocol wed by noutermu) .7011 to genencte 2770n menagr tv Oblcq IP Cdd mam lhen delivery of IP Packc eto CZQ prvented 4^1 | '1 1 v`n| 7~17 1 DHPP : Dynamic Host Confid lati0n Pnoto (0 | Y on Opplicction lcye7 pnotu (o) Which V Wed tv Pnovide"vi i |n ~L " 0! 1) ^ubnet mck' [n'/:0 '0:[ oJ; 2) Routez addnam i ` 3) DNS Gddram L4) vendon elcvn j denti fie7 C " Dtlcp is b aed on elent DeNVU7 mo del Gnd bv e d on dxcovevy , Offem hquont on ACK "Jja L Fo ontnoynsd moragamant +cf IPad IP addrum (@e 0f addinq new (lenta to netwonk Rrl)e 0f Ip addrm nq confige wation 6f IP addrm Simple n1 1
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 127 ===
+======================================================================
+`>  . 1 .
+pisadvanlage)1 41 '" DIp confticl can oc(t D( 44i ope-ation: DHcP elient nend)_ 0 bnoadcct packet ( DHcp d i5 eove-) t look fon 0 DHcp Oehvert The nenven Noco iven the DHcp Discover packet Ond na 2 pondn boith DHC p 6ffer packet 0ftering IPadd namirq infonmation to DHcp elient: The client bcce pto DHCp 0ffet packet and 1anpond) by bnoadcatimg DHcp Qeq ucntpacket; raque  tina to Igcue the add iom DHeP nerveh appnov) the 'lecz lolth phcp Ack Which eontcim thq 'IP addnemin
+UQL' XQLo7 uni tonm Tou7cR   looctom which ha 3 pa ~ts : 14 1) Tho pnotoco| ~{aNmf.11'T12 :r 2 ) Th DNS name of Tha marhing oni wuhich the page is located 3) Tho loca | name ` 
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 128 ===
+======================================================================
+12019 8 (c )
+M E 67 A B U ( ' I 3 6 ` 7 4 E R ; 2 ? & ' ^ ' ': A N $ F € R F | ':o1 ^ V E L A € ' T A K" ` . 1`  4 .^' ` :A VN M Y $ 0  N  :' X ':; A, -L 5 & & & T KA T The rncryy Pted @pihe- tiext , *'fi :! In^ AFAM DU-SE C YANTFAOI - LNEIL- ESLN ] T: kIkNf P A VAAc-ERTS NT ,i ' iV"1: .) ~f~M~ ~ 1 (1;l;> {~i 2019.147 ' Q u E $ T | 0 N.'14 '( 5: & .1 6 +,2 4 3 / 7; WE L 6 V E 0   U R ( 0  U N T p Y (oln > B ` A N  67 L iA D E , ' ' 111 S H '- -` --: . :Ih enery pted ephe text , 1`Vf " ^ ! DLON - ETA-VYE-crd_ WRB5-Ou6r- VNL 1^!) ..1
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 129 ===
+======================================================================
+[2o19,gY) RSAalqorithmi 1 ''W C . Rsn algonilhm is an auymmctnic (tuploq naph7 Aeyo ru Thm '' ; '. 4' ` :"; '' . 5 ' ''1 12 Selecl Iltuo prime numbe7 p and 9- 41 : . | . '1 ' [!` 2 ) Calulct e 0 = pxq 3) ealculcte 4 (o) = (p-1)x (9-/) liphen text  ' ' , 1  I e-42 mod n 4 ) ehoos e 4 vallq for &' 1:' Plain tex F 5) Calculat e d = & lmod @(n) , x P= (d mod n 6 ) public kay {e} 9) Pnivate key {din} ic;i> 'Jii:1#35 Di fleronc betwean aymmetruic key and public - ke CtuxptouLatem: T;.1 6' hymme tnic publis_-key piHfena nt Key ' for metiic krH Q uymnmc "oc4phon ancryy phion am 0 ingle key encrypti6n and doc n yption decny phon , < font in exeuction nslw In exrcution AES, rcy biffie -Hellman , RSA DESi 3 DESi led   fon bulk datq Wed for auulrz |y tnansmi ssibn excbngin accrat kqys
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 130 ===
+======================================================================
+19 - 8(b)
+Subslitution_Cpher_%ncryyph or 0 Qach le te /7 017 Anoup o1 Iq Her CLZQ 0 b7 Gno |he leH8z 0n7 anoup of leHerv '7  ' Oldent me fhod jo CaU)CU7 Uipher " 0 0 a becomeh D, b become) E 7`w: ~x2 Pleintext will bz lowen letlem > @phet text w f l1 be uppev letlei-u' 5 atlack be comgn 'DW WU DIN } `; !! '4 ,'1' 1` woi | ( ` Tnonspos iton (pheru): "{yv111! C Fo onden 4he leHleru but donot dinguine Vher Cf " ( 2019. Jk) DEs_(Dria Encry_ption aJandoid) : Viock eiphere 70 aw6.1 2) Single" Ic2y fo n oncryption 4nd dac F4yph61 3) € 4 bi} bloc K data i) led vn 01,112 m671: 4)56 bi t koy i0 wed 01.if> ) /  ) 5) (6 no und)' ' 4'^)^ |' ' "^ ^ ] !
+'. '; { 4} } > ' ) . Miiva
+11 `m 02 I: ! icinVo1
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 131 ===
+======================================================================
+64 bi} plcintext ] | 901"1 Ininial pezmulation
+Round
+1in 'I;;1'
+6o1 ' . 56 bit kcay
+Roum
+Pouind I6
+awapping
+tal  '
+Inverue TnTal ? 1l9/,4| Penmutahon  7:1 U: 0{fl~W  64 bit uphentext   fi..|"'  ` #""s
+Ija[a`+] #l*;0'
+2 #1sif.;
+43'1
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 132 ===
+======================================================================
+nes (one nound ): ;'. 'ioi ' .
+G4bit input
+1 i: 1! ' TeHl 3 2 6)F Right 32 bi+ 11 1, {j 1 func( ) 4s bit kqyy 0   Wil
+6 G
+New leff 3 2 bit Jcn) ' Inew Qight 32 bit 70"' function Definition' 32 bi} input fxxf uiqpu,  Expansjon Box
+6  42 bi} key | Is S S perim Uafion Dox 32 bi} Otb buput Scanned with CamScanner Scanned with CamScanner
+
+======================================================================
+=== PAGE 133 ===
+======================================================================
+'7 a 2o1g: CCa)  CUET ~ ( 73 '1 '!1 ;:.1' : | , (i) PF I @= 3 , " ) F ' ' 1~;!: '; ^ (i/n= px9 = IIX 3 = 33 ;; 1 '! : P ); L 4) 2 = (P-VX (G-1) =(l-V) xl3-1) .= 0x 2 = 'm (W) Iet 0 - F' ; ' , '1 : 1f W" Ud = |mod ? ..|, 1; .1,1 #d = | mod 20 , , '"1 1 :'1"6 WwJr! => 4 = 3 ; :m'f i. ' " "C: :.;-61 ) 3 public key (26; 7): . 'Ikrii V)ci-C) {Wo 'Pruv ate key (720,3) ":: '} p| 'j Encny pted va lle ( = M&mod n""/' Fns 7iJ plaintext . ( U   E T rtd C Numbe7 ! "3 21W"5 ;20 'slic k6JY NJ 21 14 26"` 1151 'ntC; <A` Encry pted v( '0i Va (Uq" : 9 165 ,06511f71+,; |: 2 t}bij 2"Jf 'ijuk k 20), Jon 3 7 mod 33 =9 21 ? mod 33 = 21 5 Fm 33 =/Y 267 mod 33 = 26 eipherdtext = TuLz n : . .  `
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 134 ===
+======================================================================
+28. ?c ), AL' ACLor Accem Contnol (in} Vn a et of nulf) / lis t &efined fon (ontnollim Aho necbnk tnatyic and hdueina netwonk alac k . They Quz9 Arfci fically wed bj netwonk admini'otnator Xo filtev tna flic and to pno vide extna ^Q uutd fon Iho netwon k: :i 01 ImpliuY den_in AcL; An impliat dany is LJhen a lUsr 0n 9nolp QU7 not &nanted a Apedtic Pshim ission inJha ^eclzi ty 0e ttinga of an 0 bjed; but Ihey OUZ expliafly dan % ei th7 autd matically 8n a f1e7 evrry; end of eveny   AcL' 'pwld VjJO) J] U 'Txoktlq poY gld ) Digilal_Aicnatu ;' A digital aignatu-o a mahmati'cal techniqua lhat in Wed to I) validate Thq authentiuly and integritf Ofa memage Aofl Coa. ond dig Tlal doumenta; c KJc 6 < ^ - 6 - #8m Fi 411 - 78 63 6 $ 3 3 1: in/i F; ; Kn:)
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 135 ===
+======================================================================
+.
+3561078 2Y 2013.26) ' ' v;, '|;1 M box ' 6^1 45 - Box '1^ Po' : |` '1 '.^;.' :Z { 3 5` _ '. { 1 '`'  ` 8
+Onoduct @pher 1' | ; {An3 F/?S S1 55 754|s9 0 S2 Pz 5L P3 510 Py Pi 53 47 S1 54 5 € S12 Foir)
+W^
+1ol7 510 AeL is necemawy brccuue _} 673} X) limits netw onk tnaff ic to incrcaue ndwonk Xpe7fonm anc 6va ! Honi ACL pnoviden tnaffic flw contol b7 Tytructi Ihe delveryy bf nbuim update), {697osl 3) at can br Yed 0n a8ditional nrcuuhy : Y (ontnols which typr pf tnaHlvc a7 forzwazded blocked by noute U 5) ability + eontnol which CUwa) 0 (lient a(km;
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 136 ===
+======================================================================
+207 g(d ) Cipher ' A eph?r (0 0 chcacte7 ~fon _ chazgcte7 on bi/-fon-bit tnansfonmation , wiyhout Tu& Cd. to Iing lntic nhna ctuza of * mcmaq& fori exampla , rplacing a page of Jext b1 ^ome brt of chanacteru) fonv everxt Chcnocte7 6f th text is mo kim Jh dext  ephez Hena meaning Of tho text is noH 'mpontant; v2ai' Fb )nn 2o/3 Rlb) Inbouhd AcL ' 0  packets ente7, tho houter 7nte-tace with actem &nup Firl -ent pamad Ye) L Suond kst pomea" Yen? FI ~Jhr 7.JJ2'i No ` Unnf !0)_ Penmxit Pejmi Finaltent pamed bn dony packe1s Ua "> Ir/Mf(j' Ye)/ wcky ' ` K8598 to intuface Implicl} d9nyall ';11/ Taw dony !ino.1> ' Tnn [iscand 4 @N 67 ^ n 9;) ~packots Y T  >ic (; >  1' 1 [ ra' 12'i :1 'J) 6 (i h hid, !ik 0330l psin'
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 137 ===
+======================================================================
+QUbound AcL:
+:; < .` 1. '- `` |` ' ~^ (hcos< Tut out boun 6 ` AcL inte7facd Statemaidn
+' ~0
+; .'=
+NO  , Rcuhr AcL? Penmi} 2 table entny) yududbourx Inbound intevl intevfacq  Ye) " 4 | Nt 2 ' pac lcets N6 '' ; >'1177 '1 ` '* , "1~ 4 K)
+Iid ) 7J ~F1 h"x) f, Ipil ,| 7.& 8Scc;g dx (2 i| T ` 1ow},) |1 L f'f buc icet ,lty!  '` Xo-41 |  2012, gk) 1) (et P=I: 'xal ( ) ; "] i,"q-1c 'f) 01; !fedv ( ! ;yncl X0) n icpRqA'#XAI #Izzifrinal ' ( € 1 = (P-1) x (q-1) = (1J-1)X(-h) -= 160 "ai IIn) ket&3} tx?/it fq ;/ / (( ? ed = 1 mod w)< ` 1 ;e 3 Lyi) Kic} Jxd = 1 mod It0 d = 23
+Scanned with CamScanner
+Scanned with CamScanner
+YL)
+
+======================================================================
+=== PAGE 138 ===
+======================================================================
+Iv) public key (I8 7, 7) ; 1 ' ' ; ::. priv cte key (187123) Entny pfed value' € = M Rmod n plaintext ;' :( '0 M P ' U T E Q Numbe7 :3 15 13 I6 21 26 5 (2 Encryy Pted : 13 93 Id6 135 98 /47 /46 |7| va llc F' { 2012 8 Ir) P_box; ' ; >n; 1) P atand) fon penmutation '|:;o wed to effect a tnansposition 0n an 8 bit inpu; 3 ) 9+ han 8 bita G deigned fno m t6p to dotoA boHom @ 0129456 7 and Ihe butput of Ihis p-box
+S_box : 1 '1 171 V"os 1) Subshtution Q7 Pezfon red by S~boXe). ( hongind #ha wirunq innide Ih box; 2) any ^ubntitetion (0n bedona' 3) A 3-bit plaintext is yiven a Jnput an 2 bit Upheatoxt is obtained 0 buhpudt. YV h> n! / 1:f ~0t'
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 139 ===
+======================================================================
+Di flem Dlato betoon Atandawd AcL and extendod AcL' i <1. "1*1 P ' ` 4' : 1 3 Stondazd AcL ! 91 Extemdad ACL cllocu @iltori m baned allbw filerin baed o 0n ^oluic uddnam AbUlc andS dentination  ' addnom aqell @ pnotocol ri ` ':1nnn" and port numbk7 Wed to bloc k prticula7/ Led +o block_paticla7 hosf natwbnk (nubnet Aenvito)  , ! 'r  'fTVfTI '} (' (mplamented elbse t tha] implemonted (lose to tha dontimh'on '; 0 Aowlca <
+Qanga: 1-99 and 1900-1999 Qanae: Itw-192 and i ; 2070 ~ Cc' 7,3 0 "} FJT Ja $ 2699 Two - Comm unicationl6n? lommuni cahion c6H Wlll be ~oublac/ad Wlll b 2 'bloc ked G; ~ ,17 ) M/ :M7;' all neavicn Will beblocked] PazHiuul n2zvito) C)lI be_ T;ai ViMf )) 1x 1*36)* 1'bloc Ked 1v JJny e 12 L ' xFofto' 2|o| nah),ina rni6 : k  Loi | ~f1 ^ ^0Ica)'1 |co" [ '! `  ! '( : ; IaU7 , '*'o' 1> /`7] 1w 03 (i ['` ,`. '[ ,: , Jtnv' 10 4" 1; ' W  ^ :^0| ` )n1 4ijd !3 /;il; "n-l (1) ^
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 140 ===
+======================================================================
+p2019 (b2 pilfi c HcIlman Olco: 0 ond p agncc on ns crcl Ica 4 L. Thcy Cgnec' bn tlo Iczg& ncm ba ru gand n ( MUch That 1<J <n 1c'~h: . 2. Choosr na ndom and X (ompute X - gK mod 0 ^end X I0 p' 3 . 1 < hoos e nonlom Y (bmpute Y = gY mod n 'f ; and nend ` to a., : 4; 0 vv1(C ' !; (empue) K1 = YYmod n'' U' 1 | computs) Yy ` = > Y mod n 5. Ks 11 =i-9Y*0 "n:.fn:,i'1' = K 2 Mod O ~n t)f( , 0" .6. ki= 12 ':' <:'| ML::^ 1 'Jn~ CQ r (an 0o L have W ~ymmetnic 1ed 4 & nuu( _ pt: "inumc 1'o' 41 > ki ir) 7)h Sc )   Con;' !)) U, VPN; VpN on virucul private N etwonk PK tend n a pn vate neltonk 4(noss a public ncl toonk and enabla, be7 to (ommunicate @ if 1 14 io dirtly (onnected Jo thq priivatk netwonk;  Firwsoolli 0 firetoall 1' 0 Nyntom digned t Dre venl uncut horuitad accem to on fnom 4 pru' vate netwonk ` Wq ean imple mont 0 frnatoall U #henu in haid waz on oflwaz fonm_ ( 0n in a Combination 0f bblh;
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 141 ===
+======================================================================
+Rondie_l_privcyte IP addmam 4'|. ;. lass A (0.0,0.0 _ (0.25 5. 255. 255 ' ' ^ '1' .1 11  1 ;:' '' ela $ $ D = I1216 . 0.0 _ /32'31.255.255 11 5 (n '^ | ' class C 7192'l6 €.0 '6 _ 192. /62. 255.255 0 ( 1^'> ,; , | '~:7 Ronad of_public_Ip_addraml 11 Fi 1'1i *TV 1 176 0,65 9.255. 265. 26 5 classa = 10' 0 ' 0'0 126 255.255.215 class p= 128.0. 0.0 = 132.15. 255- 2$ $ 672.32,0.6 - Iglnl67.255.255Fl .1ot, elas $ € = Io2.0,0,0 192'16 A 255-265 {(92./69,6.6-223' 255 255: 255 i > / Fit(  , o'18 7~;lchJ~V"aj / iN)pN,nl ( | HIPs = Hypentext tnansfe7 pnotoco | ^2 CUUZQ d Telnt' Tenmina(] Netwonk 'wul +l (x SSL' Scuzad Soc Keta Layei- | k 'bo)' +
+Dy which data (an be nouted Routed_pnotocoll Ip Ipx, AppleTaIk_ ; On addnemin7 nc heme Wq Fw quira ond /ubn Hi rk 1: T11i. ~<1 RoubinaL_pnotocol' Dil enant and wed 'd.8Rlu 'aaouten ma Ke pos siblg to ard 7 ,!!iT^,{iy1 ^ main tin noutin Jablen DIstanc' Vectotc 3 [ " linktate Khy bruid
+Scanned with CamScanner
+Scanned with CamScanner
+
+======================================================================
+=== PAGE 142 ===
+======================================================================
+load xhaddim : I is an Iochniqua wod in inloymmatibn 4yolemo, apecially We b ne7viten lo 1 avpid and ma king i+ ovenloadin Ihe nyatem Xnavaulable fon ajl wem.Tlhe ida in Jo ignona ^bm2 Naqueln nathen Than cna hir G ayntem. and malcim it fail Ja 4-! OPnvq ' ' " any noquat, '1' :. Vn 2'` ~* . <'" - . Iken busket; 91 is Gn algorut hm Wed in pckef 1litcbed netwonk Gnd telecom munication netwbnk 1) In faqular intewvaln tokem & Ihnolon intv Ihu butola 2)/ha buckef han a maximum capacity, 3 If thena in G Nuady pckcetza tolen in namoved fnom thq buc kcet and th paclcet (o nent 6,y 4) Ifihkra is no tokan in the bucket; the packet cannolbr ^ant, jnin?lho 0 ; OV7 Y; Leaky DucYf; 1 is on algori thm Of ntoring a Fempo narily and vaziablynum be7 bf Naqusntn zin tham Vnto a net-nate ouput of brgo2k packets in AM netwonk 2''}`ri | 0'nc i"
+Scanned with CamScanner
+Scanned with CamScanner

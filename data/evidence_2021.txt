@@ -1,0 +1,260 @@
+=== Q1a ===
+Query: computer network autonomous systems client server peer-to-peer
+
+[Result 1] Figure 1.2.4  Service Users, Providers, and SAPs interact at the Network and Data Link Layers 1.2.3.1 OSI Model Layers and Information Exchange The seven OSI layers use various forms of control information to communicate with their peer layers in other computer systems. This control information consists of specific
+[Result 2] --- Page 13 --- CIDR Growth (1996-1998): Roughly Linear Good use of aggregation, and peer pressure in CIDR report
+[Result 3] --- Slide 7 --- Distributed, Hierarchical Database Example: Client wants IP for www.amazon.com {1st approx:} client queries a root server to find .com DNS server client queries .com DNS server to get amazon.com DNS server client queries amazon.com DNS server to get IP address for www.amazon.com
+[Result 4] --- Page 21 --- Autonomous Systems •  What is an AS? – a set of routers under a single technical administration – uses an interior gateway protocol (IGP)
+[Result 5] --- Page 9 --- 1.2.3 Services and service access points One OSI layer communicates with another layer to make use of the services provided by the second layer. The services provided by adjacent layers help a given OSI layer communicate with its peer layer in other computer systems. Three basic elements are involved in layer services: the service user, the service provider, and the service access
+[Result 6] If server NACKs, client needs to start over immediately (shown below) • If server does not respond, client continues until lease expires 67 Server 68
+[Result 7] • Used to send messages • Client: sending user agent or sending mail server • server: receiving mail server mail server
+
+================================================================================
+
+=== Q1b ===
+Query: Ethernet topologies bus star ring mesh
+
+[Result 1] • Explain the characteristics of the following topologies: o Mesh o Bus o Star o Ring o Tree
+[Result 2] Topology Bus Bus Bus Star Star
+[Result 3] --- Page 10 --- 8. In Ring Topology, Repeater works in 3 modes: ____________, _____________ and ______________. 9. ___________ topology can be considered as an extension to BUS topology. 10. ______________ is suitable for use in star and ring topologies 11. Coaxial cable is suitable for use in __________ topology.
+[Result 4] • Fiber optics is suitable for use in ring and star topology – Gigabit data rates and longer distances. • Unguided media are suitable for star topology
+[Result 5] • Twisted pair is suitable for use in star and ring topologies – Cat 3: voice grade UTP, data rate up to 10 Mbps – Cat 5: data grade UTP, data rate up to 100 Mbps • Coaxial cable is suitable for use in bus topology – Baseband coaxial cable supports data rates of 20 Mbps at distances up to 2 Km.
+[Result 6] Ans: Yes, medium should be selected based on the topology. For example, for bus topology coaxial cable medium is suitable, and for ring/star topology twisted-pair or optical fiber can be used. Version 2 CSE IIT, Kharagpur
+[Result 7] 1. Number of links to connect n nodes in a mesh topology is = _______. 2. Mesh Topology is _______ flexible and has a ________ expandability 3. In BUS topology, at each end of the bus is a ____________, which absorbs any signal, removing it from the bus. 4. In BUS topology, One can easily add any new node or delete any node with-out affecting other nodes; this makes this topology easily _____________.
+
+================================================================================
+
+=== Q1c ===
+Query: wired wireless collision domain broadcast domain switch hub router
+
+[Result 1] –  Bridge: a switch that connects two LAN segments hub hub hub switch/bridge collision domain
+[Result 2] collision domain collision domain
+[Result 3] ============================================================ === Hub,bridge,router,switch(questions answers).pptx === ============================================================
+[Result 4] Router(config)#  ip dhcp pool MYPOOL Router(dhcp-config)#  default-router 192.168.1.1 Router(dhcp-config)#  dns-server 192.168.1.5 Router(dhcp-config)#  domain-name MYDOMAIN
+[Result 5] --- Page 2 --- Recall:  Introduced Switches •  Switch breaks subnet into LAN segments •  Switch filters packets –  Frame only forwarded to the necessary segments –  Segments become separate collision domains
+[Result 6]  6 bits used Æ 64 possible code points (in practice much less is used)  Code points are unique within a domain – but may change at domain borders
+[Result 7] struct hostent { char   *h name;       /* official domain name of host */ _ ; / /
+
+================================================================================
+
+=== Q1d ===
+Query: Hub switch router token passing FDDI
+
+[Result 1] ============================================================ === Hub,bridge,router,switch(questions answers).pptx === ============================================================
+[Result 2] –  Bridge: a switch that connects two LAN segments hub hub hub switch/bridge collision domain
+[Result 3] (master) Token passing:  control token passed from one node to next sequentially. 
+[Result 4] • every router on source-dest path maintains “state” for each passing connection • link, router resources (bandwidth, buffers) may be allocated to VC “source-to-dest path behaves much like telephone
+[Result 5] transmit only when holding the token  concerns:  token overhead (bandwidth &
+[Result 6] --- Slide 9 --- A common connection point for devices in a network. Hubs are commonly used to connect segments of a LAN. A hub contains multiple ports. When apacketarrives at one port, it is copied to the other ports so that all segments of the LAN can see all packets. A passive hub serves simply as a conduit for the data, enabling it to go from one device (or segment) to another. So-called intelligent hubs include additional features that enables an administrator to monitor the traffic passing through the hub and to configure each port in the hub. Intelligent hubs are also called manageable hubs.
+[Result 7] Switch B Backbone switch VLAN 1 VLAN 2 VLAN 3
+
+================================================================================
+
+=== Q2a ===
+Query: framing CSMA/CD CSMA/CA collision detect avoid random access
+
+[Result 1] ============================================================ === csma-cd and csma-ca.pptx === ============================================================
+[Result 2]  Time Division, Frequency Division, Code Division  Random access  ALOHA, S-ALOHA, CSMA, CSMA/CD  CSMA/CD used in Ethernet  Centrally controlled  polling from a central site
+[Result 3] --- Page 8 --- 2008-09-15 CSC 257/457 - Fall 2008 8 Ethernet uses CSMA/CD  Random access, no synchronized clocks
+[Result 4] ============================================================ === exponential backoff definition and csma-cd.pdf (19 pages) === ============================================================
+[Result 5] carry sporadic, occasionally heavy trafﬁc at high peak data rates. Ethernet/IEEE 802.3 Comparison Ethernet and IEEE 802.3 specify similar technologies. Both are CSMA/CD LANs. Stations on a CSMA/CD LAN can access the network at any time. Before sending data, CSMA/CD stations “listen” to the network to see if it is already in use. If it is, the station wishing to transmit waits. If the network is not in use, the station transmits. A collision occurs when two stations listen for
+[Result 6] --- Page 9 --- 2008-09-15 CSC 257/457 - Fall 2008 9 Ethernet’s CSMA/CD (more) Exponential Backoff:
+[Result 7] 10 Compare 802.3 with 802.5, 802.4 11. Difference between segmentation and  multiplexing, packet and frame, error detection and error correction. 12.Taxonomy of different WAN technologies. 13. Significance of ATM 14. Short note on cloud computing, IoT, distributed computing, sensor network, encryption and decryption 15. What is binary exponential backoff. Differ CSMA/CD with CSMA/CA
+
+================================================================================
+
+=== Q2b ===
+Query: OSI layer route packets run services FTP Telnet detect correct error covert frame
+
+[Result 1] point (SAP). In this context, the service user is the OSI layer that requests services from an adjacent OSI layer. The service provider is the OSI layer that provides services to service users. OSI layers can provide services to multiple service users. The SAP is a conceptual location at which one OSI layer can request the services of another OSI layer.
+[Result 2] --- Page 9 --- 1.2.3 Services and service access points One OSI layer communicates with another layer to make use of the services provided by the second layer. The services provided by adjacent layers help a given OSI layer communicate with its peer layer in other computer systems. Three basic elements are involved in layer services: the service user, the service provider, and the service access
+[Result 3] manner that the highest layer is provided a full set of services to manage communications and run the applications.
+[Result 4] There are two types of attacks against errors: • Error Detecting Codes: Include enough redundancy bits to detect errors and use ACKs and retransmissions to recover from the errors. Example: parity encoding. • Error Correcting Codes: Include enough redundancy to detect and correct errors.
+[Result 5] Host Other Hosts on Information Server Proxy traffic (Telnet, FTP, HTTP) Other traffic
+[Result 6] --- Page 15 --- Frame relay/Internet vs. X.25 • Difference between reliable and unreliable networks – Fiber has error rate of 1 bit in 1014; can correct end-to-end – Wireless has error rate of 1 bit in 106; must correct link-by- link
+[Result 7] --- Page 20 --- Q-5. Briefly write functionalities of different OSI layers? Ans:  The OSI Reference Model includes seven layers. Basic functionality of each of them is as follows: 7. Application Layer: Provides Applications with access to network services. 6. Presentation Layer:
+
+================================================================================
+
+=== Q2c ===
+Query: sliding window protocol flow control bit byte stuffing Go back-N selective repeat
+
+[Result 1] (b) Only Flow Control Advertised Window = Max. Receiver Buffer – (Last Byte Received – Last Byte Read) = (30,000) – (20,000 – 15,000) = 25,000 bytes Effective Window Size = Advertised Window Size – (Last Byte Sent – Last Byte Acknowledged)
+[Result 2] • (a) Only Congestion Control Effective Window Size = Congestion Window Size – (Last Byte Sent – Last Byte Acknowledged) = 15,000 – (30,000 – 20,000) = 15,000 – 10,000 = 5,000 bytes •
+[Result 3] Tree Protocol (MSTP) • Autonegotiation  Half/full duplex  Speed  Flow control  …
+[Result 4] d). Framing The DLL translates the physical layer's raw bit stream into discrete units (messages) called frames. How can the receiver detect frame boundaries? Various techniques are used for this: Length Count, Bit Stuffing, and Character stuffing. e). Error Control Error control is concerned with insuring that all frames are eventually delivered (possibly
+[Result 5] = 25,000 – (30,000 – 20,000) = 15,000 bytes • (c) Both Flow Control and Congestion Control Effective Window Size = Min(Eff. Win. Size based on Flow Control, Eff. Win. Size based on Cong. Control) = Min(5,000 bytes , 15,000 bytes) = 5,000 bytes.
+[Result 6] --- Page 30 --- Sample Question: Flow Control and Congestion Control (continued…) • What would be the Effective Window Size (the amount of data that can be sent) by the source considering:
+[Result 7] --- Page 15 --- Flow Control  - Example
+
+================================================================================
+
+=== Q2d ===
+Query: hamming code calculate parity even odd
+
+[Result 1] Note that for the sake of simplicity, we are discussing here the even-parity checking, where the number of 1’s should be an even number. It is also possible to use odd-parity checking, where the number of 1’s should be odd.
+[Result 2] 3. Explain the use of parity check for error detection? Ans: In the Parity Check error detection scheme, a parity bit is added to the end of a block of data. The value of the bit is selected so that the character has an even number of 1s (even parity) or an odd number of 1s (odd parity). For odd parity check, the receiver examines the received character and if the total number of 1s is odd, then it assumes that no error has occurred. If any one bit (or any odd number of bits) is erroneously inverted
+[Result 3] Figure 3.2.3 Even-parity checking scheme
+[Result 4] 4. What are the different types of errors detected by parity check? Ans: If one bit (or odd number of bits) gets inverted during transmission, then parity check will detect an error.  In other words, only odd numbers of errors are detected by parity check. But, if two (or even number) of bits get inverted, and then the error remains undetected.
+[Result 5] Figure 3.2.8 Positions of redundancy bits in hamming code
+[Result 6] Decimal value Data Block Parity bit Code word 0 0000
+[Result 7] set and the decoder will see only another valid code word and know nothing of the error. Thus errors in more than one bit cannot be detected. In fact it can be shown that a single parity check code can detect only odd number of errors in a code word. 3.2.3.2 Two-dimension Parity Check Performance can be improved by using two-dimensional parity check, which organizes the block of bits in the form of a table. Parity check bits are calculated for each row,
+
+================================================================================
+
+=== Q3a ===
+Query: TCP 3-way handshaking congestion control slow start AIMD
+
+[Result 1] Slow start uses a congestion threshold (<= Advertised window) such that the congestion window is exponentially increased until reaching the congestion threshold and after that we increase the congestion window incrementally similar to that in AIMD. • Initially, the congestion window is equal to 1 segment.
+[Result 2] --- Page 26 --- Slow Start Source Destination Exponential increase until Congestion Window reaches Congestion Threshold or Advertised Window
+[Result 3] --- Page 27 --- Slow Start 10 20 30 40
+[Result 4] --- Page 25 --- Slow Start • The whole idea of ramping up exponentially until the congestion threshold is that in the previous round, we knew that until the congestion window was less than or equal the congestion threshold,
+[Result 5] --- Page 33 --- Sample Question: Slow Start 5, 15, 22, 27 - Lost packets
+[Result 6] --- Page 23 --- Slow Start • The additive increase mechanism is too slow to ramp up a connection especially when starting from scratch. •
+[Result 7] --- Page 24 --- Slow Start • If there is a packet loss, the congestion threshold is set to half of the current value of the congestion window, and the congestion window is set to 1. The congestion window is then again ramped up using the
+
+================================================================================
+
+=== Q4c ===
+Query: IP connectionless transparent non-transparent segmentation fragmentation
+
+[Result 1] o 16.3 Virtual LANs • Backes, F., "Transparent bridges for interconnection of IEEE 802 LANs," IEEE Network, Vol. 2, No. 1. 1988
+[Result 2] – Rely on link layer and higher layers to check integrity of data • Remove hop-by-hop segmentation – Fragmentation only by sender due to path MTU discovery
+[Result 3] IP datagram must be fragmented, but the DF bit in the IP header is set. Fragmentation Needed and DF Bit Set 4
+[Result 4] --- Page 7 --- 2008-09-15 CSC 257/457 - Fall 2008 7 Connectionless, Unreliable  Connectionless: No handshaking between sending
+[Result 5] – security – provider selection – no fragmentation in routers
+[Result 6] connectionless • Each packet treated independently • Packets can take any
+[Result 7] - icmp (main).ppt - icmp error message and traceroute.ppt - icmp error message.ppt - ip fragmentation  (vvi slide 2).ppt - ipaddress (main slide).ppt - ipaddress.ppt
+
+================================================================================
+
+=== Q5a ===
+Query: classes routing algorithm distance vector link state routing forwarding
+
+[Result 1] --- Page 23 --- BGP Routing Choices •  Link state or distance vector? –  no universal metric - policy decisions •  Problems with distance-vector: –  Bellman-Ford algorithm slow to converge
+[Result 2] Prefixes are key to Internet scalability –  Address allocated in contiguous chunks (prefixes) –  Routing protocols and packet forwarding based on prefixes –  Today, routing tables contain ~250,000-300,00 prefixes
+[Result 3] --- Page 8 --- 8 Forwarding Ports and Blocking Ports • Note that STP is not a routing protocol  In the sense that it does not optimize routing  Traffic concentration towards the root
+[Result 4] ============================================================ === Routing-q.pptx === ============================================================
+[Result 5] ============================================================ === routing -2.pptx === ============================================================
+[Result 6] ============================================================ === routing 1.pptx === ============================================================
+[Result 7] ============================================================ === routing-congestion.pptx === ============================================================
+
+================================================================================
+
+=== Q5b ===
+Query: congestion control leaky token
+
+[Result 1] --- Slide 1 --- QoS and Congestion control: explicit, implicit, choking, leaky and token bucket alg., loadshedding
+[Result 2] o The leaky bucket algorithm o The token bucket algorithm o Admission Control
+[Result 3] (master) Token passing:  control token passed from one node to next sequentially. 
+[Result 4] ============================================================ === Congestion control.pptx === ============================================================
+[Result 5] 7.5.7 Congestion control in virtual Circuit Till now we have discussed two open loop algorithms, where the policy decisions are made in the beginning, irrespective of the current state. Both leaky bucket algorithm and token bucket algorithm are open loop algorithms. Version 2 CSE IIT Kharagpur
+[Result 6] ============================================================ === congestion control (routing).pdf (17 pages) === ============================================================
+[Result 7] --- Slide 14 --- An important difference between two traffic shaping algorithms: token bucket throws away tokens when the bucket is full but never discards packets while leaky bucket discards packets when the bucket is full. Unlike leaky bucket, token bucket allows saving, up to maximum size of bucket n. This means that bursts of up to n packets can be sent at once, giving faster response to sudden bursts of input. Leaky bucket forces bursty traffic to smooth out, token bucket permits burstiness but bounds it. Token bucket has no discard or priority policy. Token bucket when compared to leaky bucket, is easy to implement. Each flow needs just a counter to count tokens and a timer to determine when to add new tokens to the counter.
+
+================================================================================
+
+=== Q5d ===
+Query: count-to-infinity problem distance vector static dynamic routing
+
+[Result 1] requires O(nE) messages •  DV: convergence time varies – May be routing loops – Count-to-infinity problem
+[Result 2] --- Page 23 --- BGP Routing Choices •  Link state or distance vector? –  no universal metric - policy decisions •  Problems with distance-vector: –  Bellman-Ford algorithm slow to converge
+[Result 3] --- Page 2 --- Distance Vector: Poison Reverse If Z routes through Y to get to X : Z tells Y its (Z’s) distance to X is infinite (so Y won’t route to X via Z) Still, can have problems when more than 2
+[Result 4] (counting to infinity problem) •  Problems with link state: –  metric used by routers not the same - loops –  LS database too large - entire Internet –  may expose policies to other AS’s
+[Result 5] --- Page 6 --- Static Routing May Not Work ISP1 Customer R1 R2
+[Result 6] --- Page 16 --- There are two types of algorithms: • Adaptive algorithms use such dynamic information as current topology, load, delay, etc. to select routes. • In non-adaptive algorithms, routes never change once initial routes have been selected. Also called static routing.
+[Result 7] Inter- connect Static route from R1 to customer over L1 Static route from R2 to customer over L2 L1 L2
+
+================================================================================
+
+=== Q6a ===
+Query: default route sink tree Dijkstra shortest path
+
+[Result 1] – select route with shortest AS-PATH – apply MED (if routes learned from same neighbor) – select route with smallest NEXT-HOP cost
+[Result 2] • Suffix = path up tree edu net org uk com
+[Result 3] –  Switches need to elect a “root” •  The switch with the smallest identifier –  Each switch identifies if its interface is on the shortest path from the root •  And exclude it from the tree if not –  Messages (Y, d, X)
+[Result 4] --- Slide 31 --- A default route of a computer that is participating in computer networking is the packet forwarding rule (route) taking effect when no other route can be determined for a given Internet Protocol (IP) destination address. All packets for destinations not established in the routing table are sent via the default route. This route generally points to another router, which treats the packet the same way: If a route matches, the packet is forwarded accordingly, otherwise the packet is forwarded to the default route of that router. The process repeats until a packet is delivered to the destination. Each router traversal counts as one hop in the distance calculation for the transmission path.
+[Result 5] --- Slide 31 --- A default route of a computer that is participating in computer networking is the packet forwarding rule (route) taking effect when no other route can be determined for a given Internet Protocol (IP) destination address. All packets for destinations not established in the routing table are sent via the default route. This route generally points to another router, which treats the packet the same way: If a route matches, the packet is forwarded accordingly, otherwise the packet is forwarded to the default route of that router. The process repeats until a packet is delivered to the destination. Each router traversal counts as one hop in the distance calculation for the transmission path.
+[Result 6] --- Page 23 --- 23 Rapid Spanning Tree Protocol • Ordinary STP takes 30 – 50 seconds to converge, with default settings • Rapid Spanning Tree Protocol (RSTP)
+[Result 7] Suffix  path up tree • E.g., given this tree, where would following be stored: • Fred com gwu ucb cmu bu mit
+
+================================================================================
+
+=== Q6b ===
+Query: Route poisoning split horizon Load shedding QoS
+
+[Result 1] o Choke packets o Weighted fair queuing o Load shedding o Resource reservation • Distinguish between flow and congestion control
+[Result 2] --- Slide 18 --- CUET 18 Load Shedding The “big hammer” - router just starts throwing out packets Packet discard policy may depend on the application
+[Result 3] 7.5.10 Load Shedding Another simple closed loop technique is Load Shedding; it is one of the simplest and more effective techniques. In this method, whenever a router finds that there is congestion in the network, it simply starts dropping out the packets. There are different methods by which a host can find out which packets to drop. Simplest way can be just choose the packets randomly which has to be dropped. More effective ways are there but
+[Result 4] There are four basic methods of implementing QoS on Cisco IOS devices: • Legacy QoS CLI • Modular QoS CLI • AutoQoS • Security Device Manager (SDM) QoS Wizard
+[Result 5] •  ISP1 advertises /16 aggregate •  Customer advertises /24 route to ISP2 •  ISP2 relays route to ISP1 and ISP3 •  ISP2-3 use the /24 route
+[Result 6] – can accommodate link failure – bandwidth is sum of links to Internet •  Multiple connections provide load sharing but not load balancing – BGP cannot do load balancing
+[Result 7] – Load on root servers was growing quickly! – Load on root servers was growing quickly! – Moving .com, .net,  .org off root servers was clearly necessary to reduce load clearly necessary to reduce load Æ done Aug 2000
+
+================================================================================
+
+=== Q6c ===
+Query: ACL access control list IP Datagram format
+
+[Result 1] --- Page 13 --- IP datagram format • ver • length • 32 bits • data
+[Result 2]  Developed at Xerox PARC in 1970s  First widely used LAN technology  Random access multiple access control
+[Result 3] IP datagram 68 Client 68 UDP Broadcast
+[Result 4] forwarding – header changes to facilitate QoS IPv6 datagram format: – fixed-length 40 byte header – no fragmentation allowed
+[Result 5] indicated network. Fig 5.47 page number 416 Tannenbaum 7.2.2 INTERNET CONTROL MESSAGE PROTOCOL IP provides unreliable connectionless datagram service, original aim being efficient use of network resources. IP being a best effort delivery service lacks error control and assistance mechanisms.
+[Result 6] ICMP Message from IP datagram that triggered the error type code checksum
+[Result 7] UDP header IP header 20 bytes 8 bytes 300 bytes UDP datagram
+
+================================================================================
+
+=== Q7a ===
+Query: DNS Namespace Resolver Local Caching Server
+
+[Result 1] Local Name Server Caching and Updating DNS Records DNS Protocols and Messages Computer Networks   DNS 2
+[Result 2] Local Name Server Caching and Updating DNS Records DNS Protocols and Messages Computer Networks   DNS 19
+[Result 3] Lecture 13 Measurements of DNS •No centralized caching per site •No centralized caching per site – Each machine runs own caching local server – Why is this a problem?
+[Result 4] --- Page 6 --- Typical Resolution •Steps for resolving www.cmu.edu – Application calls gethostbyname() (RESOLVER) Application calls gethostbyname() (RESOLVER) – Resolver contacts local name server (S1)
+[Result 5] ============================================================ === dns name resolver.pptx === ============================================================
+[Result 6] •No centralized caching per site •No centralized caching per site – Each machine runs own caching local server – Why is this a problem? y p
+[Result 7] www.cs.cmu.edu Client Local DNS server ns1.cmu.edu DNS server
+
+================================================================================
+
+=== Q7c ===
+Query: SSH FTP SMTP WWW HTTPs
+
+[Result 1] --- Page 1 --- The Application Layer: SMTP, FTP CS 352, Lecture 5 http://www.cs.rutgers.edu/~sn624/352-S19 Srinivas Narayana
+[Result 2] ============================================================ === smtp ftp.pdf (29 pages) === ============================================================
+[Result 3] … FTP HTTP SMTP DNS TCP
+[Result 4] … FTP HTTP SMTP DNS TCP
+[Result 5] --- Slide 1 --- DTE/DCE and CSU/DSU device, NAT, DHCP, ARP, SMTP, WWW, HTTP, FTP Gateway, firewall, VPN, DSL, VLAN, DNS, ICMP
+[Result 6] UDP IP 802.11 X.25 ATM HTTPS
+[Result 7] UDP IP 802.11 X.25 ATM HTTPS
+
+================================================================================
+
+=== Q8a ===
+Query: Cryptography Cipher RSA Algorithm setup encryption
+
+[Result 1] ============================================================ === RSA-new.pptx === ============================================================
+[Result 2] timeout Max Age timeout Blocked by algorithm Blocked by algorithm Blocked by algorithm
+[Result 3] o The leaky bucket algorithm o The token bucket algorithm o Admission Control
+[Result 4] Y 60 algorithm terminates
+[Result 5] routing algorithm is the piece of software that decides where a packet goes next (e.g., which output line, or which node on a broadcast channel). For connectionless networks, the routing decision is made for each datagram. For connection-oriented networks, the decision is made once, at circuit setup time.
+[Result 6] Figure 7.5.5 Implementation of the Token bucket algorithm
+[Result 7] which provides header integrity and authentication without confidentiality; and the Encapsulating Security Payload (ESP) which provides integrity, authentica- tion, and confidentiality to payload (or IP datagrams). ESP permits packet-by- packet encryption and uses a standards-based encryption key management protocol. Thus, IPSec VPN can be created with either AH or ESP or both. AH does not provide data encryption and is useful in those environments where
+
+================================================================================
+
+=== Q8c ===
+Query: key transposition cipher encryption plaintext dictionary
+
+[Result 1] which provides header integrity and authentication without confidentiality; and the Encapsulating Security Payload (ESP) which provides integrity, authentica- tion, and confidentiality to payload (or IP datagrams). ESP permits packet-by- packet encryption and uses a standards-based encryption key management protocol. Thus, IPSec VPN can be created with either AH or ESP or both. AH does not provide data encryption and is useful in those environments where
+[Result 2] Q-2.  What are the key benefits of layered network?
+[Result 3] Q-7.  What are the key functions of data link layer?
+[Result 4] Key Characteristics: o Fully connected o Robust – Highly reliable o Not flexible o Poor expandability
+[Result 5] k dd 15-441  ©  2008 8 –gethostbyaddr: query key is an IP address. Lecture 13
+[Result 6] illustrates the format of an L2TP packet. L2TP is supported by many vendors, and is expected to be the predominant protocol once it becomes a standard. L2TP relies on IPSec to perform data encryption. If L2TP discovers that IPSec is not supported at the remote end, it uses the less secure PPP encryption. The encryption may be performed by the user’s workstation or by the LAC, depending on the
+[Result 7] There are three key methodologies for implementing QoS: • Best-Effort • Integrated Services (IntServ) • Differentiated Services (DiffServ)
+
+================================================================================
+

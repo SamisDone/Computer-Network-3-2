@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" width="700" height="320" style="font-family:Segoe UI,Arial,sans-serif;background:#fff">
+  <text x="350" y="25" text-anchor="middle" font-size="18" font-weight="bold" fill="#1a237e">Traffic Shaping: Leaky Bucket vs Token Bucket</text>
+  <!-- LEAKY BUCKET -->
+  <text x="175" y="55" text-anchor="middle" font-size="14" font-weight="bold" fill="#1565c0">Leaky Bucket</text>
+  <!-- Bursty input arrows -->
+  <text x="175" y="78" text-anchor="middle" font-size="10" fill="#c62828">Bursty Input ↓↓↓↓</text>
+  <!-- Bucket shape -->
+  <rect x="120" y="90" width="110" height="100" rx="6" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+  <text x="175" y="135" text-anchor="middle" font-size="11" fill="#1565c0">Buffer</text>
+  <text x="175" y="150" text-anchor="middle" font-size="9" fill="#1565c0">(Bucket)</text>
+  <!-- Overflow -->
+  <text x="260" y="120" font-size="9" fill="#c62828">Overflow →</text>
+  <text x="260" y="133" font-size="9" fill="#c62828">Packets</text>
+  <text x="260" y="146" font-size="9" fill="#c62828">DROPPED</text>
+  <!-- Output: constant rate -->
+  <line x1="175" y1="190" x2="175" y2="230" stroke="#2e7d32" stroke-width="3"/>
+  <polygon points="170,230 180,230 175,240" fill="#2e7d32"/>
+  <text x="175" y="260" text-anchor="middle" font-size="11" font-weight="bold" fill="#2e7d32">Constant Rate</text>
+  <text x="175" y="275" text-anchor="middle" font-size="10" fill="#2e7d32">Output</text>
+  <text x="175" y="295" text-anchor="middle" font-size="9" fill="#666">(Smooth, fixed-rate stream)</text>
+  <!-- TOKEN BUCKET -->
+  <text x="525" y="55" text-anchor="middle" font-size="14" font-weight="bold" fill="#e65100">Token Bucket</text>
+  <!-- Token generator -->
+  <rect x="440" y="75" width="80" height="30" rx="4" fill="#fff3e0" stroke="#e65100" stroke-width="1.5"/>
+  <text x="480" y="95" text-anchor="middle" font-size="9" fill="#e65100">Token Gen</text>
+  <text x="480" y="69" text-anchor="middle" font-size="8" fill="#666">(constant rate)</text>
+  <!-- Token bucket -->
+  <rect x="540" y="75" width="80" height="70" rx="6" fill="#fff9c4" stroke="#f57f17" stroke-width="2"/>
+  <text x="580" y="105" text-anchor="middle" font-size="10" fill="#f57f17">Token</text>
+  <text x="580" y="118" text-anchor="middle" font-size="10" fill="#f57f17">Bucket</text>
+  <text x="580" y="133" text-anchor="middle" font-size="8" fill="#666">●●●●●</text>
+  <line x1="520" y1="90" x2="540" y2="90" stroke="#e65100" stroke-width="1.5" marker-end="url(#arr2)"/>
+  <!-- Packet queue -->
+  <rect x="440" y="160" width="80" height="40" rx="4" fill="#e8eaf6" stroke="#3f51b5" stroke-width="1.5"/>
+  <text x="480" y="183" text-anchor="middle" font-size="9" fill="#3f51b5">Packet Queue</text>
+  <!-- Grab token + send -->
+  <line x1="520" y1="175" x2="540" y2="145" stroke="#666" stroke-width="1" stroke-dasharray="4,2"/>
+  <text x="545" y="170" font-size="8" fill="#666">grab token</text>
+  <!-- Output: bursty allowed -->
+  <line x1="525" y1="200" x2="525" y2="240" stroke="#2e7d32" stroke-width="3"/>
+  <polygon points="520,240 530,240 525,250" fill="#2e7d32"/>
+  <text x="525" y="270" text-anchor="middle" font-size="11" font-weight="bold" fill="#2e7d32">Bursty Output</text>
+  <text x="525" y="285" text-anchor="middle" font-size="10" fill="#2e7d32">Allowed</text>
+  <text x="525" y="303" text-anchor="middle" font-size="9" fill="#666">(Up to accumulated tokens)</text>
+  <defs><marker id="arr2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#e65100"/></marker></defs>
+</svg>

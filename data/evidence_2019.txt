@@ -1,0 +1,182 @@
+=== Q1a ===
+Query: OSI vs TCP/IP comparative analysis
+
+[Result 1] how much overhead with TCP? • 20 bytes of TCP • 20 bytes of IP
+[Result 2] PPP Payload TCP Original PPP Header IP Header Internet
+[Result 3] Data IP Header UDP TCP/UDP Original PPP Header
+[Result 4] --- Slide 2 --- WIMAX vs. Wi-Fi(802.16 vs. 802.11)
+[Result 5] --- Slide 2 --- WIMAX vs. Wi-Fi(802.16 vs. 802.11)
+[Result 6] fragmented across multiple ATM cells –  analogy: TCP segment in many IP packets
+[Result 7] programs. • The Transmission Control Protocol (TCP) is the transport level protocol that provides reliability in the TCP/IP protocol suite. The applications interact with TCP to send and receive data.
+
+================================================================================
+
+=== Q1b ===
+Query: logical topologies pros cons
+
+[Result 1] • IPv6 • IPv6 • IPv6 • IPv6 • tunnel • Logical view:
+[Result 2] --- Page 3 --- Specific Instructional Objectives At the end of this lesson, the students will be able to: • Specify what is meant by network topology • Classify different Network topologies • Categorize various Network topologies
+[Result 3] • Explain the characteristics of the following topologies: o Mesh o Bus o Star o Ring o Tree
+[Result 4] --- Page 27 --- 27 VLAN Divides LAN Into Logical Groups From B. A. Forouzan: Data Communications and Networking, 3rd ed, McGraw-Hill
+[Result 5] (nodes/computers) are connected using suitable transmission media (which can be point- to-point and broadcast). Various commonly used topologies are discussed in the following sections.
+[Result 6] Spanning Tree Instances (spanning-tree topologies)  VLANs are associated to MSTIs • One common spanning tree (CST) for the entire network • MSTP based on RSTP (Rapid STP)
+[Result 7] --- Slide 21 --- Network topology is the physical design of a LAN which resolves the conflict that occurs between computers on the network attempting to transmit at the same time. Whereas protocols are the standards used by networks to permit communication between network-connected devices. What is difference between topology and protocol? The difference between physical topology and logical topology is in perspective. A logical topology is how devices appear connected to the user. A physical topology is how the devices are actually interconnected with wires and cables. Difference between Physical and Logical Topology?
+
+================================================================================
+
+=== Q1c ===
+Query: Gigabit Ethernet collision CSMA/CD
+
+[Result 1]  Time Division, Frequency Division, Code Division  Random access  ALOHA, S-ALOHA, CSMA, CSMA/CD  CSMA/CD used in Ethernet  Centrally controlled  polling from a central site
+[Result 2] ============================================================ === csma-cd and csma-ca.pptx === ============================================================
+[Result 3] --- Page 9 --- 2008-09-15 CSC 257/457 - Fall 2008 9 Ethernet’s CSMA/CD (more) Exponential Backoff:
+[Result 4] carry sporadic, occasionally heavy trafﬁc at high peak data rates. Ethernet/IEEE 802.3 Comparison Ethernet and IEEE 802.3 specify similar technologies. Both are CSMA/CD LANs. Stations on a CSMA/CD LAN can access the network at any time. Before sending data, CSMA/CD stations “listen” to the network to see if it is already in use. If it is, the station wishing to transmit waits. If the network is not in use, the station transmits. A collision occurs when two stations listen for
+[Result 5] --- Page 8 --- 2008-09-15 CSC 257/457 - Fall 2008 8 Ethernet uses CSMA/CD  Random access, no synchronized clocks
+[Result 6] ============================================================ === exponential backoff definition and csma-cd.pdf (19 pages) === ============================================================
+[Result 7] - devices (main slide).ppt - dns (how resolve a name).ppt - dns.ppt - ethernet and csma-cd.ppt - fragmentation 1.ppt - ftp.ppt
+
+================================================================================
+
+=== Q2a ===
+Query: reasons layered protocols layered network
+
+[Result 1] Layered Network Architecture
+[Result 2] Q-2.  What are the key benefits of layered network?
+[Result 3] used. An example is 10BaseT. Q-6.  How two adjacent layers communicate in a layered network? (or What do you mean by Service Access Point?)
+[Result 4] • State the requirement for layered approach • Explain the basic concept of layering in the network model • Define entities protocols in networking context • Describe ISO’s OSI Reference Model • Explain information flow in OSI references Model. • Explain functions of the seven layers of OSI Model
+[Result 5] Ans: A computer network is a very complex system. It becomes very difficult to implement as a single entity. The layered approach divides a very complex task into small pieces each of which is independent of others and it allow a structured approach in implementing a network. The basic idea of a layered architecture is to divide the design into small pieces. Each layer adds to the services provided by the lower layers in such a
+[Result 6] Ans: Main benefits of layered network are given below: i) Complex systems can be broken down into understandable subsystems. ii) Any facility implemented in one layer can be made visible to all other layers. iii)
+[Result 7] Ans: In layered network, each layer has various entities and entities of layer i provide service to the entities of layer i+1. The services can be accessed through service access Version 2 CSE   IIT, Kharagpur
+
+================================================================================
+
+=== Q2b ===
+Query: Methods mark start end frame examples
+
+[Result 1] O F 1 SOF = Start-of-frame delimiter FCS = Frame check sequence Preamble
+[Result 2] --- Slide 8 --- Q. Four methods of breaking bits into frame. (V.V.i)
+[Result 3] •Flags – 1 bit to mark query or response – 1-bit to mark query or response – 1-bit to mark authoritative or not 1 bit to request recursive resolution – 1-bit to request recursive resolution
+[Result 4] Categorize request message into several methods.
+[Result 5] Examples: CRC checksum, MD5. Version 2 CSE   IIT, Kharagpur
+[Result 6] Figure 5-2 Ethernet and IEEE 802.3 Frame Formats Both Ethernet and IEEE 802.3 frames begin with an alternating pattern of ones and zeros called a preamble. The preamble tells receiving stations that a frame is coming. The byte before the destination address in both an Ethernet and a IEEE 802.3 frame is a start-of-frame (SOF) delimiter. This byte ends with two consecutive one bits, which serve to
+[Result 7] --- Page 27 --- Slow Start 10 20 30 40
+
+================================================================================
+
+=== Q2d ===
+Query: Shannon theorem channel SNR
+
+[Result 1] Shannon Theorem – Nyquist Theorem extended - defines theoretical max bit rate in noisy channel [1949] • if random noise is present, situation deteriorates rapidly! Data Rate Limits in Digital Transmission
+[Result 2] ============================================================ === nyquist and shannon theorem definition.pdf (23 pages) === ============================================================
+[Result 3] --- Page 21 --- 21 Shannon Law – maximum transmission rate over a channel with bandwidth B, with Gaussian distributed noise, and with signal-to-noise ratio SNR=S/N, is • theoretical limit – there are numerous impairments in every
+[Result 4] Max Data Rate [bps] Over a Channel? T Nyquist Theorem – defines theoretical max bit rate in noiseless channel [1924] • even perfect (noiseless) channels have limited capacity
+[Result 5] = = = Maximum signaling rate that is achievable through an ideal low-pass channel. TS Data Rate Limits: Nyquist Theorem
+[Result 6] Solution: First use Shannon formula to find the upper limit on the channel’s data-rate C = B log2 (1 + SNR) = 106 log2 (1 + 63) = 106 log2 (64) = 6 Mbps Although the Shannon formula gives us 6 Mbps, this is the upper limit. For better performance choose something lower, e.g. 4 Mbps. Then use the Nyquist formula to find the number of signal levels.
+[Result 7] real channel besides those taken into account in Shannon's Law (e.g. attenuation, delay distortion, or impulse noise) • no indication of levels – no matter how many levels we use, we cannot achieve a data rate higher than the capacity of the channel • in practice we need to use both methods (Nyquist & Shannon)
+
+================================================================================
+
+=== Q3 ===
+Query: HTTP HTTPS Telnet SSL FTP Port TCP UDP 3-Way DHCP
+
+[Result 1] … FTP HTTP SMTP DNS TCP
+[Result 2] … FTP HTTP SMTP DNS TCP
+[Result 3] FTP client FTP server TCP control connection port 21
+[Result 4] Host Other Hosts on Information Server Proxy traffic (Telnet, FTP, HTTP) Other traffic
+[Result 5] UDP IP 802.11 X.25 ATM HTTPS
+[Result 6] UDP IP 802.11 X.25 ATM HTTPS
+[Result 7] TCP data connection port 20 FTP: separate control & data connections
+
+================================================================================
+
+=== Q4 ===
+Query: IP Subnetting 127.0.0.0 CIDR IPv6 Private VLAN
+
+[Result 1] --- Page 8 --- 8 Classless Inter-Domain Routing (CIDR) IP Address : 12.4.0.0       IP  Mask: 255.254.0.0 00001100 00000100 00000000 00000000
+[Result 2] --- Page 9 --- 9 CIDR: Hierarchal Address Allocation 12.0.0.0/8 12.0.0.0/16 12.254.0.0/16
+[Result 3] • CIDR notation to specify the first N bits of an address – FDEC:0:0:0:0:BBFF:0:FFFF/60
+[Result 4] CIDR: 128.112.0.0/16 NetName: PRINCETON NetHandle: NET-128-112-0-0-1 Parent: NET-128-0-0-0-0 NetType: Direct Allocation RegDate: 1986-02-24
+[Result 5] – only used as source address during bootstrap by a computer that has not yet learned its address • Loopback Address (0:0:0:0:0:0:0:0:1) – used for testing software (compare with IPv4 loopback address 127.0.0.1) •
+[Result 6] 0 and 127. The block has a netid of 17. The addresses range from 17.0.0.0 to 17.255.255.255.
+[Result 7] dst IP address 255.255.255.255 • dst port no 67 • src IP address 0.0.0.0 •
+
+================================================================================
+
+=== Q5a ===
+Query: broadcast domain collision domain broadcast necessary
+
+[Result 1] collision domain collision domain
+[Result 2] –  Bridge: a switch that connects two LAN segments hub hub hub switch/bridge collision domain
+[Result 3] Broadcast Communication Networks
+[Result 4] , Multicast, and Broadcast Addresses Broadcast Addresses Unicast communication is one-to-one. Multicast communication is one-to-many. Broadcast communication is one-to-all.
+[Result 5] 68 UDP Broadcast Server
+[Result 6] Netid Type (b/c – broadcast)
+[Result 7] 192.168.10.95/27 (Broadcast Address)
+
+================================================================================
+
+=== Q5c ===
+Query: Standard Extended ACLs placed close destination source
+
+[Result 1] Destination address Source address Tag Header
+[Result 2] Destination address Source address Tag Header
+[Result 3] --- Page 21 --- Example: Additive Increase Source Destination
+[Result 4] Datagrams with source or destination in this network have 10.0.0/24 address for source, destination (as usual) All datagrams leaving local network have same single source
+[Result 5] Destination address Preamble Source address 802.2 header
+[Result 6] Source = 10.0.1.2 Destination = 213.168.112.3 Source = 128.143.71.21
+[Result 7] =  213.168.112.3 Destination =  128.143.71.21 Source = 213.168.112.3 Destination
+
+================================================================================
+
+=== Q6b ===
+Query: features hierarchical routing default route
+
+[Result 1] --- Page 41 --- lecture_9 Extension headers, cont’d • Routing header – Strict or loose source routing – Similar to the IPv4 Source route and Record route options
+[Result 2] --- Slide 31 --- A default route of a computer that is participating in computer networking is the packet forwarding rule (route) taking effect when no other route can be determined for a given Internet Protocol (IP) destination address. All packets for destinations not established in the routing table are sent via the default route. This route generally points to another router, which treats the packet the same way: If a route matches, the packet is forwarded accordingly, otherwise the packet is forwarded to the default route of that router. The process repeats until a packet is delivered to the destination. Each router traversal counts as one hop in the distance calculation for the transmission path.
+[Result 3] --- Slide 31 --- A default route of a computer that is participating in computer networking is the packet forwarding rule (route) taking effect when no other route can be determined for a given Internet Protocol (IP) destination address. All packets for destinations not established in the routing table are sent via the default route. This route generally points to another router, which treats the packet the same way: If a route matches, the packet is forwarded accordingly, otherwise the packet is forwarded to the default route of that router. The process repeats until a packet is delivered to the destination. Each router traversal counts as one hop in the distance calculation for the transmission path.
+[Result 4] the packets follow same route • Each packet contains a Virtual Circuit Identifier (VCI) • No routing decisions required
+[Result 5] Informs about an alternative route for the datagram and should result in a routing table update. The code field explains the reason for the route change. Redirect 0–3
+[Result 6] – Routing at interior routers (label switched routers, or LSRs) is done in hardware, not a software lookup of IP routing tables • Much faster, cheaper • A stack of labels allows complex, hierarchical networks – Label distribution protocol (LDP) used to distribute
+[Result 7] – Scalability Scalab l ty – Independent update – Robustness •Hierarchical database structure – Zones
+
+================================================================================
+
+=== Q7b ===
+Query: symmetric key algorithm Data Encryption Standard DES
+
+[Result 1] --- Page 3 --- Constructing a Spanning Tree •  Need a distributed algorithm –  Switches cooperate to build the spanning tree –  … and adapt automatically when failures occur •  Key ingredients of the algorithm
+[Result 2] • Security protocols – Secure Sockets Layer (SSL) – IPsec (secure IP standard) at layer 3 • Can encrypt entire packet (tunnel mode) or just the data field (transport mode) • All devices must share a common (public) key, in digital
+[Result 3] which provides header integrity and authentication without confidentiality; and the Encapsulating Security Payload (ESP) which provides integrity, authentica- tion, and confidentiality to payload (or IP datagrams). ESP permits packet-by- packet encryption and uses a standards-based encryption key management protocol. Thus, IPSec VPN can be created with either AH or ESP or both. AH does not provide data encryption and is useful in those environments where
+[Result 4] illustrates the format of an L2TP packet. L2TP is supported by many vendors, and is expected to be the predominant protocol once it becomes a standard. L2TP relies on IPSec to perform data encryption. If L2TP discovers that IPSec is not supported at the remote end, it uses the less secure PPP encryption. The encryption may be performed by the user’s workstation or by the LAC, depending on the
+[Result 5] Q-7.  What are the key functions of data link layer?
+[Result 6] --- Page 5 --- Issues With Multi-homing •  Symmetric routing – while conventional wisdom prefers symmetric paths, many (most?) are asymmetric
+[Result 7] --- Slide 25 --- Difference Symmetric and asymmetric switching
+
+================================================================================
+
+=== Q8a ===
+Query: fragmentation transparent nontransparent
+
+[Result 1] – security – provider selection – no fragmentation in routers
+[Result 2] • Fragmentation offset shifted (as in IPv4) • Fragmentation ID is 32 bits (16 bits in IPv4) • No DF flag (present in IPv4, but not needed in IPv6)
+[Result 3] o 16.3 Virtual LANs • Backes, F., "Transparent bridges for interconnection of IEEE 802 LANs," IEEE Network, Vol. 2, No. 1. 1988
+[Result 4] • fragmentation/ • reassembly • total datagram • length (bytes) • upper layer protocol • to deliver payload to
+[Result 5] forwarding – header changes to facilitate QoS IPv6 datagram format: – fixed-length 40 byte header – no fragmentation allowed
+[Result 6] IP datagram must be fragmented, but the DF bit in the IP header is set. Fragmentation Needed and DF Bit Set 4
+[Result 7] - devices (main slide).ppt - dns (how resolve a name).ppt - dns.ppt - ethernet and csma-cd.ppt - fragmentation 1.ppt - ftp.ppt
+
+================================================================================
+
+=== Q8b ===
+Query: ICMP NAT SMTP Digital Signature FDDI loopback physical address bridge
+
+[Result 1] --- Slide 1 --- DTE/DCE and CSU/DSU device, NAT, DHCP, ARP, SMTP, WWW, HTTP, FTP Gateway, firewall, VPN, DSL, VLAN, DNS, ICMP
+[Result 2] xxxxx 127 Loopback address Destination xxxxx 00000
+[Result 3] – only used as source address during bootstrap by a computer that has not yet learned its address • Loopback Address (0:0:0:0:0:0:0:0:1) – used for testing software (compare with IPv4 loopback address 127.0.0.1) •
+[Result 4] --- Page 21 --- NAT: Network Address Translation Implementation: NAT router must: –  outgoing datagrams: replace (source IP address, port #) of every outgoing datagram to (NAT IP address, new
+[Result 5] --- Page 24 --- McGraw-Hill ©The McGraw-Hill Companies, Inc., 2000 4-24 Example of loopback address
+[Result 6] = 2100 NAT device Private Address Public
+[Result 7] port #) . . . remote clients/servers will respond using (NAT IP address, new port #) as destination addr. –  remember (in NAT translation table) every (source IP address, port #)  to (NAT IP address, new port #) translation pair
+
+================================================================================
+

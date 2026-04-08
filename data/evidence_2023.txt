@@ -1,0 +1,312 @@
+=== Q1a ===
+Query: OSI TCP/IP layers difference encapsulation
+
+[Result 1] Figure 1.2.3 OSI Model Layers Communicate with Other Layers
+[Result 2] Q-4. What are the seven layers of ISO’s OSI model?
+[Result 3] used. An example is 10BaseT. 1.2.2.1Characteristics of the OSI Layers The seven layers of the OSI reference model can be divided into two categories: upper layers and lower layers as shown in Fig. 1.2.2. The upper layers of the OSI model deal with application issues and generally are implemented only in software. The highest layer, the application layer, is closest to the
+[Result 4] Figure 1.2.4  Service Users, Providers, and SAPs interact at the Network and Data Link Layers 1.2.3.1 OSI Model Layers and Information Exchange The seven OSI layers use various forms of control information to communicate with their peer layers in other computer systems. This control information consists of specific
+[Result 5] --- Page 20 --- Q-5. Briefly write functionalities of different OSI layers? Ans:  The OSI Reference Model includes seven layers. Basic functionality of each of them is as follows: 7. Application Layer: Provides Applications with access to network services. 6. Presentation Layer:
+[Result 6] point (SAP). In this context, the service user is the OSI layer that requests services from an adjacent OSI layer. The service provider is the OSI layer that provides services to service users. OSI layers can provide services to multiple service users. The SAP is a conceptual location at which one OSI layer can request the services of another OSI layer.
+[Result 7] information over a network medium. A protocol implements the functions of one or more of the OSI layers. A wide variety of communication protocols exist. Some of these protocols include LAN protocols, WAN protocols, network protocols, and routing protocols. LAN protocols operate at the physical and data link layers of the OSI model and define communication over various LAN media. WAN protocols operate at the lowest three layers of the OSI
+
+================================================================================
+
+=== Q1b ===
+Query: unshielded twisted pair UTP shielded twisted pair STP advantages
+
+[Result 1] wire Unshielded twisted-pair wire 75-ohm coax
+[Result 2] 50-ohm coax (thick) 50-ohm coax (thin) Unshielded twisted-pair
+[Result 3] twisted-pair wire 1800 Media 50-ohm coax (thick)
+[Result 4] 7. unidirectional, one 8. Listen, Transmit, By-Pass 9. Tree 10. Twisted pair 11. BUS
+[Result 5] • Twisted pair is suitable for use in star and ring topologies – Cat 3: voice grade UTP, data rate up to 10 Mbps – Cat 5: data grade UTP, data rate up to 100 Mbps • Coaxial cable is suitable for use in bus topology – Baseband coaxial cable supports data rates of 20 Mbps at distances up to 2 Km.
+[Result 6] Ans: Yes, medium should be selected based on the topology. For example, for bus topology coaxial cable medium is suitable, and for ring/star topology twisted-pair or optical fiber can be used. Version 2 CSE IIT, Kharagpur
+[Result 7] public Internet, to replace the IP address-port pair of an IP packet with another IP address-port pair.
+
+================================================================================
+
+=== Q1c ===
+Query: hybrid network topology star ring bus diagram
+
+[Result 1] Topology Bus Bus Bus Star Star
+[Result 2] • Fiber optics is suitable for use in ring and star topology – Gigabit data rates and longer distances. • Unguided media are suitable for star topology
+[Result 3] --- Page 10 --- 8. In Ring Topology, Repeater works in 3 modes: ____________, _____________ and ______________. 9. ___________ topology can be considered as an extension to BUS topology. 10. ______________ is suitable for use in star and ring topologies 11. Coaxial cable is suitable for use in __________ topology.
+[Result 4] • Explain the characteristics of the following topologies: o Mesh o Bus o Star o Ring o Tree
+[Result 5] Ans: Yes, medium should be selected based on the topology. For example, for bus topology coaxial cable medium is suitable, and for ring/star topology twisted-pair or optical fiber can be used. Version 2 CSE IIT, Kharagpur
+[Result 6] Figure 5.1.5 Ring Topology
+[Result 7] Figure 5.1.3 Bus Topology
+
+================================================================================
+
+=== Q2a ===
+Query: star topology extended star disadvantages
+
+[Result 1] Topology Bus Bus Bus Star Star
+[Result 2] Q-3.  Why star topology is commonly preferred?
+[Result 3] • Fiber optics is suitable for use in ring and star topology – Gigabit data rates and longer distances. • Unguided media are suitable for star topology
+[Result 4] which helps in bypassing a faulty node and somewhat is similar to star topology.
+[Result 5] 5.1.4 STAR Topology In the star topology, each station is directly connected to a common central node as shown in Fig. 5.1.4. Typically, each station attaches to a central node, referred to as the star coupler, via two point-to-point links, one for transmission and one for reception.
+[Result 6] Very High speeds of data transfer can be achieved by using star topology, particularly when the star coupler is used in the switch mode. This topology is the easiest to maintain, among the other topologies. As the number of links is proportional to n, this topology is very flexible and is the most preferred topology.
+[Result 7] Key features: o High Speed o Very Flexible o High Reliability o High Maintainability Figure 5.1.4 Star Topology
+
+================================================================================
+
+=== Q2b ===
+Query: Shannon capacity formula signal to noise ratio bandwidth max bit rate
+
+[Result 1] --- Page 21 --- 21 Shannon Law – maximum transmission rate over a channel with bandwidth B, with Gaussian distributed noise, and with signal-to-noise ratio SNR=S/N, is • theoretical limit – there are numerous impairments in every
+[Result 2] Shannon Theorem – Nyquist Theorem extended - defines theoretical max bit rate in noisy channel [1949] • if random noise is present, situation deteriorates rapidly! Data Rate Limits in Digital Transmission
+[Result 3] to find what data rate and signal levels are appropriate for each particular channel: The Shannon capacity gives us the upper limit! The Nyquist formula tells us how many levels we need! [bps]
+[Result 4] Max Data Rate [bps] Over a Channel? T Nyquist Theorem – defines theoretical max bit rate in noiseless channel [1924] • even perfect (noiseless) channels have limited capacity
+[Result 5] small, noise signal can cause receiver to make wrong decision max amplitude min
+[Result 6] What is the theoretical highest bit rate of a regular telephone line? A telephone line normally has a bandwidth of 3000 Hz (300 Hz to 3300 Hz). The signal-to- noise ratio is usually 35 dB (3162) on up-link channel (user-to-network). C = B log2 (1 + SNR) = = 3000 log2 (1 + 3162) = = 3000 log2 (3163)
+[Result 7] Solution: First use Shannon formula to find the upper limit on the channel’s data-rate C = B log2 (1 + SNR) = 106 log2 (1 + 63) = 106 log2 (64) = 6 Mbps Although the Shannon formula gives us 6 Mbps, this is the upper limit. For better performance choose something lower, e.g. 4 Mbps. Then use the Nyquist formula to find the number of signal levels.
+
+================================================================================
+
+=== Q2c ===
+Query: Nyquist bit rate Shannon capacity theorems relations
+
+[Result 1] Max Data Rate [bps] Over a Channel? T Nyquist Theorem – defines theoretical max bit rate in noiseless channel [1924] • even perfect (noiseless) channels have limited capacity
+[Result 2] Shannon Theorem – Nyquist Theorem extended - defines theoretical max bit rate in noisy channel [1949] • if random noise is present, situation deteriorates rapidly! Data Rate Limits in Digital Transmission
+[Result 3] to find what data rate and signal levels are appropriate for each particular channel: The Shannon capacity gives us the upper limit! The Nyquist formula tells us how many levels we need! [bps]
+[Result 4] ============================================================ === nyquist and shannon theorem definition.pdf (23 pages) === ============================================================
+[Result 5] noisy + ⋅ = Data Rate Limits: Shannon Law
+[Result 6] real channel besides those taken into account in Shannon's Law (e.g. attenuation, delay distortion, or impulse noise) • no indication of levels – no matter how many levels we use, we cannot achieve a data rate higher than the capacity of the channel • in practice we need to use both methods (Nyquist & Shannon)
+[Result 7] Data Rate Limits: Nyquist Theorem
+
+================================================================================
+
+=== Q3a ===
+Query: bit stuffing character stuffing framing flag
+
+[Result 1] d). Framing The DLL translates the physical layer's raw bit stream into discrete units (messages) called frames. How can the receiver detect frame boundaries? Various techniques are used for this: Length Count, Bit Stuffing, and Character stuffing. e). Error Control Error control is concerned with insuring that all frames are eventually delivered (possibly
+[Result 2] Single-bit Error The term single-bit error means that only one bit of given data unit (such as a byte, character, or data unit) is changed from 1 to 0 or from 0 to 1 as shown in Fig. 3.2.1.
+[Result 3] --- Slide 1 --- Topic 2: Data link layer: framing and error control
+[Result 4] 2. Explain different types of Errors? Ans: The errors can be divided into two types: Single-bit error and Burst error. • Single-bit Error The term single-bit error means that only one bit of given data unit (such as a byte, character, or data unit) is changed from 1 to 0 or from 0 to 1. • Burst Error
+[Result 5] • B-flag forced broadcast reply • # seconds time since boottime of client
+[Result 6] --- Page 8 --- TCP Flags • The flags fields are SYN, FIN, RESET, PUSH, URG and ACK. – The SYN flag is used to establish a TCP connection. – The FIN flag is used to teardown a connection.
+[Result 7] 3. Explain the use of parity check for error detection? Ans: In the Parity Check error detection scheme, a parity bit is added to the end of a block of data. The value of the bit is selected so that the character has an even number of 1s (even parity) or an odd number of 1s (odd parity). For odd parity check, the receiver examines the received character and if the total number of 1s is odd, then it assumes that no error has occurred. If any one bit (or any odd number of bits) is erroneously inverted
+
+================================================================================
+
+=== Q3b ===
+Query: stop and wait ARQ go back N ARQ advantages propagation delay
+
+[Result 1] propagation delay)
+[Result 2] Forward Delay 2 T C N
+[Result 3] • Propagation Delay – refers to the time necessary for a single bit to travel end-to-end on a physical wire. For the incredibly anal geeks, the rough formula to estimate propagation delay on a copper wire:
+[Result 4] 1. n(n-1)/2 2. not, poor 3. terminator 4. expandable. 5. Delay, signal unbalancing 6. repeater, switch
+[Result 5] --- Page 16 --- ATM VCs •  Advantages of ATM VC approach: –  QoS performance guarantee for connection mapped to VC (bandwidth, delay, delay jitter) •  Drawbacks of ATM VC approach:
+[Result 6]  Goal: adapt retransmission attempts to estimated current load  heavy load: random wait will be longer  first collision: delay K units of time, K is randomly chosen from {0,1}
+[Result 7] Q-2. List out the advantages and drawbacks of ring topology.
+
+================================================================================
+
+=== Q3c ===
+Query: polynomial arithmetic modulo 2 base 2 divisor
+
+[Result 1] This mathematical operation performed is illustrated in Fig. 3.2.7 by dividing a sample 4- bit number by the coefficient of the generator polynomial x3+x+1, which is 1011, using the modulo-2 arithmetic. Modulo-2 arithmetic is a binary addition process without any carry over, which is just the Exclusive-OR operation. Consider the case where k=1101. Hence we have to divide 1101000 (i.e. k appended by 3 zeros) by 1011, which produces the remainder r=001, so that the bit frame (k+r) =1101001 is actually being transmitted
+[Result 2] 5. Draw the LFSR circuit to compute a 4 bit CRC with the polynomial X^4 + X^2 + 1? Ans:
+[Result 3] 1.2 2.1 2.2 3.1 3.2 2.2.1
+[Result 4] 2.1 2.2 3.1 3.2 2.2.1 How can BGP express the following policies:
+[Result 5] -2 -1 0 1 2 -2
+[Result 6] 2 bytes 42 bytes 4 bytes 2 bytes Duration 2 bytes
+[Result 7] Age 2 Max Age 2 Hello
+
+================================================================================
+
+=== Q4a ===
+Query: IP address classes ranges components identifiers
+
+[Result 1] --- Slide 3 --- DNS: Domain Name System People: many identifiers: SSN, name, passport # Internet hosts, routers: IP address (32 bit) - used for addressing datagrams
+[Result 2] – Select development method (often spiral model) – Requirements, design, resource estimation, implementation, QA • Process modeling – UML: describe use cases, states, activities, classes, components – Used in requirements, scoping, design early; architecture late
+[Result 3] PPTP packet format. Figure 9.11 L2F VPN components. Data IP Header GRE Header
+[Result 4] • server IP address Server address filled in by server • gateway IP address Proxy server address
+[Result 5] • client IP address If client knows its address • your IP address Client address set by server
+[Result 6] IP Helper Address
+[Result 7] Hardware Length Hop Count Number of Seconds Unused Client IP Address Your IP Address
+
+================================================================================
+
+=== Q4b ===
+Query: supernetting subnetting IP CIDR difference
+
+[Result 1] --- Slide 2 --- Subnetting vs Supernetting Subnetting is the process of dividing an IP network in to sub divisions called subnets whereas, Supernetting is the process of combining several IP networks with a common network prefix. Supernetting will reduce the number of entries in a routing table and also will simplify the routing process. In subnetting, host ID bits (for IP addresses from a single network ID) are borrowed to be used as a subnet ID, while in supernetting, bits from the network ID are borrowed to be used as the host ID.
+[Result 2] --- Page 1 --- McGraw-Hill ©The McGraw-Hill Companies, Inc., 2000 5-1 Chapter 5 Subnetting/Supernetting
+[Result 3] --- Slide 32 --- Subnetting vs Supernetting Subnetting is the process of dividing an IP network in to sub divisions called subnets. Computers belonging to a sub network have a common group of most-significant bits in their IP addresses. So, this would break the IP address in to two parts (logically), as the network prefix and the rest field. Supernetting is the process of combining several sub networks, which have a common Classless Inter-Domain Routing (CIDR) routing prefix. Suppernetting is also called route aggregation or route summarization.
+[Result 4] --- Slide 32 --- Subnetting vs Supernetting Subnetting is the process of dividing an IP network in to sub divisions called subnets. Computers belonging to a sub network have a common group of most-significant bits in their IP addresses. So, this would break the IP address in to two parts (logically), as the network prefix and the rest field. Supernetting is the process of combining several sub networks, which have a common Classless Inter-Domain Routing (CIDR) routing prefix. Suppernetting is also called route aggregation or route summarization.
+[Result 5] In subnetting: The first address of the subnet + subnet mask In supernetting: The first address of the supernet + supernet mask Note Note
+[Result 6] --- Page 8 --- 8 Classless Inter-Domain Routing (CIDR) IP Address : 12.4.0.0       IP  Mask: 255.254.0.0 00001100 00000100 00000000 00000000
+[Result 7] --- Page 13 --- CIDR Growth (1996-1998): Roughly Linear Good use of aggregation, and peer pressure in CIDR report
+
+================================================================================
+
+=== Q4c ===
+Query: subnetting VLSM 50 PC 23 PC mask prefix
+
+[Result 1] In subnetting: The first address of the subnet + subnet mask In supernetting: The first address of the supernet + supernet mask Note Note
+[Result 2] --- Slide 3 --- Process of dividing an IP network in to sub divisions is called subnetting. Subnetting divides an IP address in to two parts as the network (or routing prefix) and the rest field (which is used to identify a specific host). CIDR notation is used to write a routing prefix. This notation uses a slash (/) to separate the network starting address and the length of the network prefix (in bits). For example, in IPv4, 192.60.128.0/22 indicates that 22 bits are allocated for the network prefix and the remaining 10 bits are reserved for the host address. In addition, routing prefix can also be represented using the subnet mask. 255.255.252.0 (11111111.11111111.11111100.00000000) is the subnet mask for 192.60.128.0/22. Separating the network portion and the subnet portion of an IP address is done by performing a bitwise AND operation between the IP address and the subnet mask. This would result in identifying the network prefix and the host identifier. What is Subnetting?
+[Result 3] --- Page 23 --- 23 Rapid Spanning Tree Protocol • Ordinary STP takes 30 – 50 seconds to converge, with default settings • Rapid Spanning Tree Protocol (RSTP)
+[Result 4] payment medium, smart posters, cameras • E-commerce generally – End of the personal computer (PC) as we know it, for most users – Cost reduction: one network versus many • Private nets morph into carrier nets with Internet protocols
+[Result 5] ============================================================ === VLSM Calculation.pdf (5 pages) === ============================================================
+[Result 6] Lab 1.1.4 Calculating VLSM Subnets
+[Result 7] Network Prefix Use two 32-bit numbers to represent a network. Network number = IP address + Mask Written as 12.4.0.0/15
+
+================================================================================
+
+=== Q5a ===
+Query: connection-oriented connectionless service stream packet datagram TCP UDP
+
+[Result 1] --- Page 4 --- TCP: Byte Stream Management • TCP is a byte-oriented protocol: the sending process writes bytes into a TCP connection and the receiving process reads bytes out of the connection. •
+[Result 2] --- Slide 2 --- Another difference between connection-oriented and connection-less services is connection-oriented communication uses a stream of data and is vulnerable to router failure while connection-less communication uses messages and is robust to router failure.
+[Result 3] routing algorithm is the piece of software that decides where a packet goes next (e.g., which output line, or which node on a broadcast channel). For connectionless networks, the routing decision is made for each datagram. For connection-oriented networks, the decision is made once, at circuit setup time.
+[Result 4] Though TCP offers “byte-stream” service to application processes, TCP does not transmit data over the internet in the form of bytes. • A single TCP connection supports byte streams flowing in both directions. • TCP on the source host buffers the bytes written by the sending process until
+[Result 5] Data IP Header UDP TCP/UDP Original PPP Header
+[Result 6] --- Slide 6 --- Answer: File transfer, remote login, and video on demand need connection-oriented service. On the other hand, credit card verification and other point-of-sale terminals, electronic funds transfer, and many forms of remote database access are inherently connectionless, with a query going one way and the reply coming back the other way. Give two example computer applications for which connection-oriented service is appropriate. Now give two examples for which connections less service is best.
+[Result 7] --- Slide 3 --- Definition of Connection-oriented Service Connection-oriented service is analogous to the telephone system that requires communication entities to establish a connection before sending data. TCP provides Connection-oriented services as does ATM, Frame Relay and MPLS hardware. It uses handshake process to establish the connection between the sender and receiver. Reliability is achieved by having recipient acknowledge each message. There are sequencing and flow control, that’s the reason packets received at the receiving end are always in order. It uses circuit switching for transmission of data. Definition of Connection-less Service Connection-less service is analogous to the postal system. In which packets of data (usually known as a datagram) is transmitted from source to destination directly. Each packet is treated as an individual entity, which allows communication entities to send data before establishing communication. Each packet carries a destination address to identify the intended recipient. Packets don’t follow a fixed path that is the reason the packets received at receiver end can be out of order. It uses packet switching for transmission of data.
+
+================================================================================
+
+=== Q5b ===
+Query: NAT network address translation functionality table
+
+[Result 1] --- Page 3 --- 3 5 Basic operation of NAT • NAT device has address translation table H1
+[Result 2] port #) . . . remote clients/servers will respond using (NAT IP address, new port #) as destination addr. –  remember (in NAT translation table) every (source IP address, port #)  to (NAT IP address, new port #) translation pair
+[Result 3] --- Page 2 --- 2 3 Private Addresses 4 Network Address Translation (NAT)
+[Result 4] --- Page 21 --- NAT: Network Address Translation Implementation: NAT router must: –  outgoing datagrams: replace (source IP address, port #) of every outgoing datagram to (NAT IP address, new
+[Result 5] --- Page 1 --- 1 1 Network Address Translation (NAT) Relates to Lab 7. Module about private networks and NAT.
+[Result 6] --- Page 19 --- NAT: Network Address Translation •  16-bit port-number field: –  60,000 simultaneous connections with a single LAN-side address! •  NAT is controversial (books term):
+[Result 7] table. 18 NAT and FTP H1 H2 public address:
+
+================================================================================
+
+=== Q5c ===
+Query: Dijkstra algorithm shortest path router link state
+
+[Result 1] • every router on source-dest path maintains “state” for each passing connection • link, router resources (bandwidth, buffers) may be allocated to VC “source-to-dest path behaves much like telephone
+[Result 2] --- Page 23 --- BGP Routing Choices •  Link state or distance vector? –  no universal metric - policy decisions •  Problems with distance-vector: –  Bellman-Ford algorithm slow to converge
+[Result 3] – select route with shortest AS-PATH – apply MED (if routes learned from same neighbor) – select route with smallest NEXT-HOP cost
+[Result 4] timeout Max Age timeout Blocked by algorithm Blocked by algorithm Blocked by algorithm
+[Result 5] --- Page 8 --- VC implementation A VC consists of: 1.  Path from source to destination 2.  VC numbers, one number for each link along path
+[Result 6] Robustness: what happens if router malfunctions? LS: –  Node can advertise incorrect link cost
+[Result 7] –  Switches need to elect a “root” •  The switch with the smallest identifier –  Each switch identifies if its interface is on the shortest path from the root •  And exclude it from the tree if not –  Messages (Y, d, X)
+
+================================================================================
+
+=== Q6a ===
+Query: distance vector routing count to infinity problem loops
+
+[Result 1] requires O(nE) messages •  DV: convergence time varies – May be routing loops – Count-to-infinity problem
+[Result 2] --- Page 23 --- BGP Routing Choices •  Link state or distance vector? –  no universal metric - policy decisions •  Problems with distance-vector: –  Bellman-Ford algorithm slow to converge
+[Result 3] (counting to infinity problem) •  Problems with link state: –  metric used by routers not the same - loops –  LS database too large - entire Internet –  may expose policies to other AS’s
+[Result 4] --- Page 2 --- Distance Vector: Poison Reverse If Z routes through Y to get to X : Z tells Y its (Z’s) distance to X is infinite (so Y won’t route to X via Z) Still, can have problems when more than 2
+[Result 5] many corresponding bits differ, just EXCLUSIVE OR the two code-words, and count the number of 1’s in the result. The number of bits position in which code words differ is called the Hamming distance. If two code words are a Hamming distance d-apart, it will require d single-bit errors to convert one code word to other. The error detecting and correcting properties depends on its Hamming distance. • To detect d errors, you need a distance (d+1) code because with such a code there is
+[Result 6] tprop = max prop between 2 nodes  ttrans = time to transmit a frame  Efficiency goes to 1 as tprop goes to 0 or as ttrans goes to infinity
+[Result 7] • Hop Count +1 for each relay forwarder (proxy) • Transaction ID set by client to identify session
+
+================================================================================
+
+=== Q6b ===
+Query: UDP TCP properties flow control reliable ports header
+
+[Result 1] Data IP Header UDP TCP/UDP Original PPP Header
+[Result 2] • Extension headers are placed between the IPv6 base header and the transport level header (TCP/UDP) IPv6 Header, Next = TCP TCP Header + Data IPv6 Header, Next = Route TCP Header + Data
+[Result 3] the first 8 bytes of the payload (typically: UDP, TCP) Unused (0x00000000) IP header ICMP header IP header 8 bytes of payload
+[Result 4] UDP header IP header 20 bytes 8 bytes 300 bytes UDP datagram
+[Result 5] --- Page 15 --- Flow Control  - Example
+[Result 6] --- Page 12 --- Reliable and Ordered Delivery Receiving Process TCP NextByteExpected LastByteRcvd
+[Result 7] Routing Header, Next = TCP
+
+================================================================================
+
+=== Q6c ===
+Query: leaky bucket token bucket traffic shaping algorithm differences
+
+[Result 1] o The leaky bucket algorithm o The token bucket algorithm o Admission Control
+[Result 2] --- Slide 14 --- An important difference between two traffic shaping algorithms: token bucket throws away tokens when the bucket is full but never discards packets while leaky bucket discards packets when the bucket is full. Unlike leaky bucket, token bucket allows saving, up to maximum size of bucket n. This means that bursts of up to n packets can be sent at once, giving faster response to sudden bursts of input. Leaky bucket forces bursty traffic to smooth out, token bucket permits burstiness but bounds it. Token bucket has no discard or priority policy. Token bucket when compared to leaky bucket, is easy to implement. Each flow needs just a counter to count tokens and a timer to determine when to add new tokens to the counter.
+[Result 3] 3. In what way token bucket algorithm is superior to leaky bucket algorithm? Ans : The leaky bucket algorithm controls the rate at which the packets are introduced in the network, but it is very conservative in nature. Some flexibility is introduced in token bucket algorithm. In token bucket algorithm tokens are generated at each tick (up to certain limit). For an incoming packet to be transmitted, it must capture a token and the transmission takes place at the same rate. Hence some of the
+[Result 4] The token bucket algorithm is less restrictive than the leaky bucket algorithm, in a sense that it allows bursty traffic. However, the limit of burst is restricted by the number of tokens available in the bucket at a particular instant of time.
+[Result 5] 7.5.6 Token Bucket Algorithm The leaky bucket algorithm described above, enforces a rigid pattern at the output stream, irrespective of the pattern of the input. For many applications it is better to allow the output to speed up somewhat when a larger burst arrives than to loose the data. Token Bucket algorithm provides such a solution. In this algorithm leaky bucket holds token, generated at regular intervals. Main steps of this algorithm can be described as follows:
+[Result 6] Figure 7.5.5 Implementation of the Token bucket algorithm
+[Result 7] (b) Figure 7.5.3(a) Leaky bucket (b) Leaky bucket implementation
+
+================================================================================
+
+=== Q7a ===
+Query: flow control congestion control data link transport drops
+
+[Result 1] Data Link control
+[Result 2] occurring again. 7.5.12 Flow Control Versus Congestion control Let’s have a look at the difference between Flow Control and Congestion Control, which are mixed up at times. Flow control is a very important part of regulating the transmission of data between devices, but it is limited in a way that it only considers what is going on within
+[Result 3] to the receiver satisfying the conditions of flow control and congestion control) is MIN(CongestionWindow, AdvertisedWindow) – (LastByteSent – LastByteAcked).
+[Result 4] --- Page 30 --- Sample Question: Flow Control and Congestion Control (continued…) • What would be the Effective Window Size (the amount of data that can be sent) by the source considering:
+[Result 5] = 25,000 – (30,000 – 20,000) = 15,000 bytes • (c) Both Flow Control and Congestion Control Effective Window Size = Min(Eff. Win. Size based on Flow Control, Eff. Win. Size based on Cong. Control) = Min(5,000 bytes , 15,000 bytes) = 5,000 bytes.
+[Result 6] ============================================================ === Congestion control.pptx === ============================================================
+[Result 7] --- Page 15 --- Flow Control  - Example
+
+================================================================================
+
+=== Q7b ===
+Query: virtual circuit packet switching datagram differences robust
+
+[Result 1] 1. Datagram and 2. virtual circuit packet switching
+[Result 2] --- Page 3 --- How to Switch the Data? • Circuit switching • Packet switching – Datagram – Virtual circuit
+[Result 3] --- Slide 1 --- Circuit, packet, and message switching
+[Result 4] –  packet-switching (fixed length packets, called “cells”) using virtual circuits
+[Result 5] --- Page 4 --- Circuit switching • Communication via circuit switching involves three phases: – Circuit Establishment connection oriented – Data Transfer
+[Result 6] --- Page 9 --- Circuit switch vs virtual circuit (an analogy)
+[Result 7] the packets follow same route • Each packet contains a Virtual Circuit Identifier (VCI) • No routing decisions required
+
+================================================================================
+
+=== Q7c ===
+Query: TCP IP four layer protocol suite application transport internet link
+
+[Result 1] programs. • The Transmission Control Protocol (TCP) is the transport level protocol that provides reliability in the TCP/IP protocol suite. The applications interact with TCP to send and receive data.
+[Result 2] application transport network data link physical application
+[Result 3] --- Page 27 --- Recall the Internet protocol stack… Application Transport Network Host-to-Net
+[Result 4] physical application Transport network data link Physical
+[Result 5] Module 7 Internet And Internet Protocol Suite Version 1 ECE , IIT Kharagpur
+[Result 6] --- Page 1 --- lecture_9 Lecture 9: DHCP and IPv6 Literature: Forouzan, TCP/IP Protocol Suite: Ch 16, 27 Internetworking
+[Result 7] --- Slide 41 --- The Internet protocol suite is the networking model and a set of communications protocols used for the Internet and similar networks. It is commonly known as TCP/IP, because its most important protocols, the Transmission Control Protocol (TCP) and the Internet Protocol (IP) were the first networking protocols defined in this standard. It is occasionally known as the DoD model, because the development of the networking model was funded by DARPA, an agency of the United States Department of Defense. TCP/IP provides end-to-end connectivity specifying how data should be formatted, addressed, transmitted, routed and received at the destination. This functionality has been organized into four abstraction layers which are used to sort all related protocols according to the scope of networking involved.[1][2] From lowest to highest, the layers are the link layer, containing communication technologies for a single network segment (link), the internet layer, connecting independent networks, thus establishing internetworking, the transport layer handling host-to-host communication, and the application layer, which contains all protocols for specific data communications services on a process-to-process level. The TCP/IP model and related protocols are maintained by the Internet Engineering Task Force (IETF).
+
+================================================================================
+
+=== Q8a ===
+Query: transposition cipher encryption key plaintext mathematics
+
+[Result 1] which provides header integrity and authentication without confidentiality; and the Encapsulating Security Payload (ESP) which provides integrity, authentica- tion, and confidentiality to payload (or IP datagrams). ESP permits packet-by- packet encryption and uses a standards-based encryption key management protocol. Thus, IPSec VPN can be created with either AH or ESP or both. AH does not provide data encryption and is useful in those environments where
+[Result 2] Q-2.  What are the key benefits of layered network?
+[Result 3] Q-7.  What are the key functions of data link layer?
+[Result 4] Key Characteristics: o Fully connected o Robust – Highly reliable o Not flexible o Poor expandability
+[Result 5] k dd 15-441  ©  2008 8 –gethostbyaddr: query key is an IP address. Lecture 13
+[Result 6] illustrates the format of an L2TP packet. L2TP is supported by many vendors, and is expected to be the predominant protocol once it becomes a standard. L2TP relies on IPSec to perform data encryption. If L2TP discovers that IPSec is not supported at the remote end, it uses the less secure PPP encryption. The encryption may be performed by the user’s workstation or by the LAC, depending on the
+[Result 7] There are three key methodologies for implementing QoS: • Best-Effort • Integrated Services (IntServ) • Differentiated Services (DiffServ)
+
+================================================================================
+
+=== Q8b ===
+Query: DHCP DORA Dynamic Host Configuration Protocol ip addressing server
+
+[Result 1] “filename” (c) 6 DHCP • Dynamic Host Configuration Protocol (DHCP) – Designed in 1993
+[Result 2] --- Slide 19 --- How DHCP server dynamically assigns IP address to a host? DHCP is an abbreviation for Dynamic Host Configuration Protocol. It is an application layer protocol used by hosts for obtaining network setup information. The DHCP is controlled by DHCP server that dynamically distributes network configuration parameters such as IP addresses, subnet mask and gateway address. What is Dynamic host configuration protocol? Dynamic – Automatically Host – Any computer that is connected to the network
+[Result 3] --- Slide 19 --- How DHCP server dynamically assigns IP address to a host? DHCP is an abbreviation for Dynamic Host Configuration Protocol. It is an application layer protocol used by hosts for obtaining network setup information. The DHCP is controlled by DHCP server that dynamically distributes network configuration parameters such as IP addresses, subnet mask and gateway address. What is Dynamic host configuration protocol? Dynamic – Automatically Host – Any computer that is connected to the network
+[Result 4] --- Slide 19 --- How DHCP server dynamically assigns IP address to a host? DHCP is an abbreviation for Dynamic Host Configuration Protocol. It is an application layer protocol used by hosts for obtaining network setup information. The DHCP is controlled by DHCP server that dynamically distributes network configuration parameters such as IP addresses, subnet mask and gateway address. What is Dynamic host configuration protocol? Dynamic – Automatically Host – Any computer that is connected to the network
+[Result 5] --- Page 5 --- lecture_9 DHCP (RFC 1531) DHCP – Dynamic Host Configuration Protocol • DHCP provides dynamic configuration – Client can get a temporary address, and move from network to
+[Result 6] --- Page 1 --- 1 1 Dynamic Host Configuration Protocol (DHCP) Relates to Lab 7.
+[Result 7] DHCP (Dynamic Host Control Protocol)
+
+================================================================================
+
+=== Q8c ===
+Query: standard ACL extended ACL access control list difference configuration
+
+[Result 1]  Developed at Xerox PARC in 1970s  First widely used LAN technology  Random access multiple access control
+[Result 2] 206 Chapter 9 provide IP address hiding by encapsulating one IP packet in another. This, by our definition, is the tunneling associated with VPNs. Firewalls control access to corporate network resources and establish trust between the user and the network. Consider the network configuration in
+[Result 3] occurring again. 7.5.12 Flow Control Versus Congestion control Let’s have a look at the difference between Flow Control and Congestion Control, which are mixed up at times. Flow control is a very important part of regulating the transmission of data between devices, but it is limited in a way that it only considers what is going on within
+[Result 4]  read/write control status registers  Notifying the host  interrupts  Moving data  direct Memory Access (DMA)  programmed I/O
+[Result 5] --- Slide 25 --- Difference Symmetric and asymmetric switching
+[Result 6] --- Slide 25 --- Difference Symmetric and asymmetric switching
+[Result 7] • PASS password • LIST return list of file in current directory • RETR filename retrieves (gets) file • STOR filename stores (puts) file onto remote host Sample return codes
+
+================================================================================
+

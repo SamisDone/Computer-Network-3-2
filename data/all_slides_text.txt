@@ -1,0 +1,3416 @@
+
+============================================================
+=== 1(computer network).pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+
+============================================================
+=== 10-9-13.pptx ===
+============================================================
+
+--- Slide 1 ---
+Differences between HDLC and PPP are(1) HDLC is cisco proprietary while PPP is an open standard.
+(2) HDLC does not provide authentication while PPP provides authentication like PAP and CHAP.
+(3) HDLC does not support compression while PPP support compression.
+(4) HDLC supports synchronous networks only while PPP supports both synchronous and asynchronous networks.
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+
+--- Slide 32 ---
+
+--- Slide 33 ---
+
+--- Slide 34 ---
+
+--- Slide 35 ---
+
+--- Slide 36 ---
+
+--- Slide 37 ---
+
+--- Slide 38 ---
+
+--- Slide 39 ---
+
+--- Slide 40 ---
+
+--- Slide 41 ---
+The Internet protocol suite is the networking model and a set of communications protocols used for the Internet and similar networks. It is commonly known as TCP/IP, because its most important protocols, the Transmission Control Protocol (TCP) and the Internet Protocol (IP) were the first networking protocols defined in this standard. It is occasionally known as the DoD model, because the development of the networking model was funded by DARPA, an agency of the United States Department of Defense.
+TCP/IP provides end-to-end connectivity specifying how data should be formatted, addressed, transmitted, routed and received at the destination. This functionality has been organized into four abstraction layers which are used to sort all related protocols according to the scope of networking involved.[1][2] From lowest to highest, the layers are the link layer, containing communication technologies for a single network segment (link), the internet layer, connecting independent networks, thus establishing internetworking, the transport layer handling host-to-host communication, and the application layer, which contains all protocols for specific data communications services on a process-to-process level.
+The TCP/IP model and related protocols are maintained by the Internet Engineering Task Force (IETF).
+
+
+============================================================
+=== 18-9.pptx ===
+============================================================
+
+--- Slide 1 ---
+A passive star has no electronics. The light from one fiber illuminates a number of others. An active repeater converts the optical signal to an electrical one for further processing.
+
+--- Slide 2 ---
+Subnetting vs Supernetting
+Subnetting is the process of dividing an IP network in to sub divisions called subnets whereas, Supernetting is the process of combining several IP networks with a common network prefix. Supernetting will reduce the number of entries in a routing table and also will simplify the routing process. In subnetting, host ID bits (for IP addresses from a single network ID) are borrowed to be used as a subnet ID, while in supernetting, bits from the network ID are borrowed to be used as the host ID.
+
+--- Slide 3 ---
+Process of dividing an IP network in to sub divisions is called subnetting. Subnetting divides an IP address in to two parts as the network (or routing prefix) and the rest field (which is used to identify a specific host). CIDR notation is used to write a routing prefix. This notation uses a slash (/) to separate the network starting address and the length of the network prefix (in bits). For example, in IPv4, 192.60.128.0/22 indicates that 22 bits are allocated for the network prefix and the remaining 10 bits are reserved for the host address. In addition, routing prefix can also be represented using the subnet mask. 255.255.252.0 (11111111.11111111.11111100.00000000) is the subnet mask for 192.60.128.0/22. Separating the network portion and the subnet portion of an IP address is done by performing a bitwise AND operation between the IP address and the subnet mask. This would result in identifying the network prefix and the host identifier.
+What is Subnetting?
+
+--- Slide 4 ---
+Supernetting is the process of combining several IP networks with a common network prefix. Supernetting was introduced as a solution to the problem of increasing size in routing tables. Supernetting also simplifies the routing process. For example, the subnetworks 192.60.2.0/24 and 192.60.3.0/24 can be combined in to the supernetwork denoted by 192.60.2.0/23. In the supernet, the first 23 bits are the network part of the address and the other 9 bits are used as the host identifier. So, one address will represent several small networks and this would reduce the number of entries that should be included in the routing table. Typically, supernetting is used for class C IP addresses (addresses beginning with 192 to 223 in decimal), and most of the routing protocols support supernetting. Examples of such protocols are Border Gateway Protocol (BGP) and Open Shortest Path First (OSPF). But, protocols such as Exterior Gateway Protocol (EGP) and the Routing Information Protocol (RIP) do not support supernetting.
+What is Supernetting?
+
+--- Slide 5 ---
+(1) IPv4 is 32bit address space where as IPv6 has 128bit address space.
+(2) CIDR was introduced for optimized usage of IPv4
+(3) IPv4 format is four Octect and IPv6 is 8 block Hexadecimal.
+(4) Even though IPv4 supports limited multicast, IPv6 is extensively supporting Multicast
+(5) IPv6 avoid triangular routing, since it supports Mobility
+(6) IPv6 supports bigger payload than IPv4
+(7) IP tunneling is used for IPv4 and IPv6 interconnection at the moment.
+IPv4 vs IPv6
+IPv6 Example: 2607:f0d0:1002:0051:0000:0000:0202:0004
+
+--- Slide 6 ---
+Answer:File transfer, remote login, and video on demand need connection-oriented service. On the other hand, credit card verification and other point-of-sale terminals, electronic funds transfer, and many forms of remote database access are inherently connectionless, with a query going one way and the reply coming back the other way.
+Give two example computer applications for which connection-oriented service is appropriate. Now give two examples for which connections less service is best.
+
+
+============================================================
+=== 19-9.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+
+============================================================
+=== 802.3.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+
+============================================================
+=== ARP, ICMP, DNS.pptx ===
+============================================================
+
+--- Slide 1 ---
+ARP, ICMP, DNS
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+How DHCP server dynamically assigns IP address to a host?
+DHCP is an abbreviation for Dynamic Host Configuration Protocol. It is an application layer protocol used by hosts for obtaining network setup information. The DHCP is controlled by DHCP server that dynamically distributes network configuration parameters such as IP addresses, subnet mask and gateway address.
+What is Dynamic host configuration protocol?
+Dynamic – Automatically
+Host – Any computer that is connected to the network
+Configuration – To configure a host means to provide network information(ip address,subnet mask,Gateway address) to a host
+Protocol – Set of rules
+Summing up, a DHCP server dynamically configures a host in a network.
+
+--- Slide 20 ---
+Disadvantage of manually Configuring the host: Configuring a host when it is connected to the network can be done either manually i.e., by the network administrator or by the DHCP server. In case of home networks, manual configuration is quite easy. Whereas in the large networks, the network administrator might face many problems.Also, the manual configuration is prone to mistakes. Say a Network administrator might assign an IP address which was already assigned. Thus, causing difficulty for both administrator as well as neighbors on network.
+Configuring a host using DHCP
+To configure a host, we require the following things:
+Leased IP address – IP address to a host which lasts for a particular duration which goes for a few hours,few days or few weeks.
+Subnet Mask – The host can know on which network it is on.
+Gateway address – The Gateway is the Internet Service Provider that connects user to the internet.The Gateway address lets the host know where the gateway is to connect to the internet.
+
+--- Slide 21 ---
+DHCP Entities
+DHCP server: It automatically provides network information(IPaddress, subnet mask, gateway address) on lease. Once the duration is expired, that network information can be assigned to other machine.  It also maintains the data storage which stores the available IP addresses.
+DHCP client: Any node which request an IP address allocation to a network is considered as DHCP client.
+DHCP Relay Agent: In case, we have only one DHCP server for multiple LAN’s then this Agent which presents in every network forwards the DHCP request to DHCP server. So, using DHCP Relay Agent we can configure multiple LAN’s with single server.
+
+--- Slide 22 ---
+How DHCP server assigns IP address to a host?
+DHCPDISCOVER: When a new node is connected to the network, it broadcasts the DHCPDISCOVER message which contains the source address as 0.0.0.0 to every node on the network including server. DHCP server on receiving the message, returns the DHCPOFFER message to the requested host which contains the server address and new IP address to the node.
+DHCPOFFER: If there are multiple servers on the network, host receives multiple DHCPOFFER messages. It is up to the host to select a particular message.
+DHCPREQUEST:  The requested host on receiving the offer message, it again broadcasts the DHCPREQUEST message on the network with the address of the server whose offer message is accepted by the host. The server which pertains to that server address sent by the host checks whether the address to be assigned to the node is available in the data storage.
+
+--- Slide 23 ---
+DHCPACK : If the address is assigned , it marks the IP address in the storage as unavailable to ensure consistency. Now, the server sends DHCPACK packet to the requested host which contains network information(IP address, subnet mask, gateway address). In case, if the address is assigned to other machine meanwhile, then the server sends the packet DHCPNAK to the requested host indicating that the IP address is assigned to some other machine.
+DHCPRELEASE : And finally, If the host wants to move to other network or if it has finished  its work, it sends the DHCPRELEASE packet to the server indicating that it wants to disconnect. Then the server marks the IP address as available in the storage so that it can be assigned to other machine.
+
+
+============================================================
+=== Circuit, packet, and message switching2.pptx ===
+============================================================
+
+--- Slide 1 ---
+Circuit, packet, and message switching1. Datagram and 2. virtual circuit packet switching
+
+--- Slide 2 ---
+Another difference between connection-oriented and connection-less services is connection-oriented communication uses a stream of data and is vulnerable to router failure while connection-less communication uses messages and is robust to router failure.
+
+--- Slide 3 ---
+Definition of Connection-oriented Service
+Connection-oriented service is analogous to the telephone system that requires communication entities to establish a connection before sending data. TCP provides Connection-oriented services as does ATM, Frame Relay and MPLS hardware. It uses handshake process to establish the connection between the sender and receiver. Reliability is achieved by having recipient acknowledge each message. There are sequencing and flow control, that’s the reason packets received at the receiving end are always in order. It uses circuit switching for transmission of data.
+Definition of Connection-less Service
+Connection-less service is analogous to the postal system. In which packets of data (usually known as a datagram) is transmitted from source to destination directly. Each packet is treated as an individual entity, which allows communication entities to send data before establishing communication. Each packet carries a destination address to identify the intended recipient.
+Packets don’t follow a fixed path that is the reason the packets received at receiver end can be out of order. It uses packet switching for transmission of data.
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+Advantages of the Frame Relay
+Efficient communication process.
+It performs fewer functions at the user-network interface.
+Delay is also lowered.
+Produces higher throughput.
+It is cost effective.
+It is faster than its predecessor X.25.
+Advantages of the ATM
+It can easily interface with the existing network such as PSTN, ISDN. It can be used over SONET/SDH.
+Seamless integration with the different types of networks (LAN, MAN and WAN).
+Effective utilization of the network resources.
+It is less susceptible to the noise degradation.
+Provides large bandwidth.
+Disadvantages of the Frame Relay
+Unreliable service.
+The order of the arriving packets may not be maintained.
+The erroneous packets are directly dropped.
+The frame relay does not offer any flow control.
+There is no provision of the acknowledgement of the received packets and retransmission control for the frames.
+Disadvantages of the ATM
+Cost of switching devices is higher.
+Overhead generated by the cell header is more.
+ATM QoS mechanism is quite complex.
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+
+--- Slide 32 ---
+
+--- Slide 33 ---
+
+--- Slide 34 ---
+
+--- Slide 35 ---
+
+--- Slide 36 ---
+
+--- Slide 37 ---
+
+--- Slide 38 ---
+
+--- Slide 39 ---
+
+--- Slide 40 ---
+
+--- Slide 41 ---
+
+--- Slide 42 ---
+
+
+============================================================
+=== ComputerNetwork_Introduction.pptx ===
+============================================================
+
+--- Slide 1 ---
+Computer Networking:Introduction
+
+--- Slide 2 ---
+Contents
+Communication System
+Computer Network
+CSE-411
+
+--- Slide 3 ---
+What is Data Communication?
+Data communication is the function of transporting data from one point to another.
+The sender and receiver are normally computer devices.
+The transmission medium may be
+wired link such as UTP,STP or Optical fiber etc. OR
+wireless link  such as microwave and satellite links.
+CSE-411
+
+--- Slide 4 ---
+Basic Elements of a Communication System
+A sender (source), which creates the message to be transmitted.
+A medium that carries the message.
+A receiver (sink or destination), which receives the message.
+CSE-411
+Sender
+Receiver
+Medium
+Carries Message
+Fig.Communication System
+
+--- Slide 5 ---
+Data Transmission Modes
+Three ways for transmitting data from one point to another
+1.Simplex:
+In simplex mode the communication can take place only in one direction.
+The receiver receives the signal from the transmitting device.
+This mode of flow of information is Unidirectional.
+Example: Radio, T.V
+CSE-411
+Sender
+Receiver
+Simplex
+Figure : A Simplex Transmission (Only one-way transmission
+
+--- Slide 6 ---
+Data Transmission Modes
+2.Half-duplex:
+In half-duplex mode the communication channel is used in both directions, but only in one direction at a time.
+Example: walkie-talkie
+CSE-411
+Sender
+(Or, Receiver)
+Receiver
+(Or, Sender)
+Half Duplex
+OR
+Figure : Half-duplex transmission (One-way transmission at a time)
+
+--- Slide 7 ---
+Data Transmission Modes
+3.Full-duplex:
+In full duplex, the communication channel is used in both directions at the same time.
+Example of this mode of transmission is the telephone line.
+CSE-411
+Sender
+(and Receiver)
+Receiver
+(and Sender)
+Full Duplex
+AND
+Figure : Full-duplex transmission (Two-way simultaneous transmission
+
+--- Slide 8 ---
+Information Delivery
+Information is delivered over a network by three basic methods:
+Unicast
+Multicast
+Broadcast
+CSE-411
+
+--- Slide 9 ---
+Information DeliveryUncast
+Unicast is a type of transmission in which information is sent from only one sender to only one receiver.
+In other words, unicast transmission is between one-to-one nodes(involving two nodes only).
+Examples of Unicast transmission are http, smtp, telnet
+CSE-411
+
+--- Slide 10 ---
+Information DeliveryBroadcast
+Broadcast is a type of transmission in which information is sent from just one computer but is received by all the computers connected to the network.
+Example:
+Computer booting up and requesting for a IP address
+ARP (Address Resolution Protocol)
+CSE-411
+
+--- Slide 11 ---
+Information DeliveryMulticast
+Multicast is the delivery of a message or information to a group of destination computers simultaneously in a single transmission from the source
+One good example of Multicast based network is video transmission network in which one computer needs to transmit video channel to a specific group of computers.
+CSE-411
+
+--- Slide 12 ---
+Computer Network
+Computer Network:
+A computer network, or simply a network, is a collection of computers and other hardware components interconnected by communication channels that allow sharing of resources and information.
+Intranet:
+An intranet is a private network that is contained within an enterprise.
+It may consist of many interlinked local area networks
+CSE-411
+
+--- Slide 13 ---
+Computer Network
+Extranet
+An extranet is a computer network that allows controlled access from the outside, for specific business or educational purposes.
+In a business-to-business context, an extranet can be viewed as an extension of an organization's intranet that is extended to users outside the organization, usually partners, vendors, and suppliers, in isolation from all other Internet users.
+Internet:
+The Internet, sometimes called simply "the Net," is a worldwide system of computer networks - a network of networks in which users at any one computer can, if they have permission, get information from any other computer (and sometimes talk directly to users at other computers).
+Today, the Internet is a public, cooperative, and self-sustaining facility accessible to hundreds of millions of people worldwide.
+CSE-411
+
+--- Slide 14 ---
+Computer NetworkClassification: Geographical area
+Local Area Network (LAN)
+A local area network (LAN) is a group of computers within a small area, such as a house, office or school, that are connected to each other.
+Most academic institutions and corporate networks use LANs.
+The characteristics of a LAN are
+its arrangement of nodes,
+the physical media used to connect the nodes, e.g. fiber optic cable, and
+the communication protocol used to send or receive data
+CSE-411
+
+--- Slide 15 ---
+Local Area Network (LAN)
+CSE-411
+
+--- Slide 16 ---
+Local Area Network (LAN)
+Advantages of Connecting computer in a LAN
+Workstation can share peripheral devices like printers. This is cheaper than buying a printer for every workstation.
+Workstation do not necessarily need their own hard disk or CD-ROM drives which make them cheaper to buy than stand-alone PCs.
+User can save their work centrally on the network file server.
+User can communicate with each other and transfer data between workstations very easily.
+Very high network speeds and data transfer rates.
+Protection from the outside world, thus creating a trusted computing environment
+No need to lease telecommunication lines,
+CSE-411
+
+--- Slide 17 ---
+Local Area Network (LAN)
+Disadvantages of Connecting computer in a LAN
+Special security measures are needed to stop user from using program and data that they should not have access to.
+Network are difficult to set up and need to be maintained by skilled technicians.
+Viruses spread easily.
+If the  network server falls  then all the user are affected
+CSE-411
+
+--- Slide 18 ---
+Metropolitan Area Networks
+A metropolitan area network (MAN) is a large computer network that usually spans a city or a large campus.
+A MAN usually interconnects a number of local area networks (LANs) using a high-capacity backbone technology, such as fiber-optical links, and provides up-link services to wide area networks (or WAN) and the Internet.
+Features which discriminates MANs from LANs or WANs
+Its geographic scope falls between a WAN and LAN.
+A MAN is not generally owned by a single organization
+It often acts as high speed network to allow sharing of regional resources.
+CSE-411
+
+--- Slide 19 ---
+Metropolitan Area Networks
+A metropolitan area network based on cable TV.
+CSE-411
+
+--- Slide 20 ---
+Metropolitan Area Networks
+Advantage :We can use MAN Within a cities and it seems much faster
+Disadvantage:While we move our network to another city it doesn't work
+CSE-411
+
+--- Slide 21 ---
+Wide Area Network(WAN)
+A wide area network (WAN) is a telecommunication network, usually used for connecting computers, that spans a large geographical area.
+A WAN spans a large geographic area, such as a state, province or country.
+WANs often connect multiple smaller networks, such as local area networks (LANs) or metro area networks (MANs).
+CSE-411
+
+--- Slide 22 ---
+CSE-411
+
+--- Slide 23 ---
+Wide Area Network(WAN)
+Advantages Of WAN
+Share information/files over a larger area
+Large network cover
+Messages can be sent very quickly to anyone else on the network
+Disadvantages Of WAN
+Are expensive and generally slow
+Need a good firewall to restrict outsiders from entering and disrupting the network
+Setting up a network can be an expensive and complicated experience. The bigger the network the more expensive it is.
+Security is a real issue when many different people have the ability to use information from other computers.
+CSE-411
+
+--- Slide 24 ---
+LAN vs WAN
+CSE-411
+Characteristics | LAN | WAN
+Geographical Area | Restricted to a limited geographical coverage such as a house, office or school | Spans a large geographic area, such as a state, province or country
+Data transmission cost | Much lower  since the data transmission medium is usually owned by the user organization | Very high because the transmission mediums used is leased lines or public systems such as telephone lines, microwaves or satellites
+Physical Connection | The computers, terminals and peripherals devices are usually physically connected with cables. | There may not be a direct physical connection between various computers.
+Speed of the network | Much higher than WAN
+The maximum speed of a LAN can be 1000 megabits per second | A WAN is usually slower than LAN because it has lower bandwidth. 
+The speed of a WAN can go up to 150 megabits per second
+Data transmission error | Fewer data transmission error | Higher than LAN
+
+--- Slide 25 ---
+Computer NetworkClassification: Structure
+Centralized network:
+A type of network where all users connect to a central server, which is the acting agent for all communications. This server would store both the communications and the user account information.
+Distributed Network
+A distributed network is a type of computer network that is spread over various different networks. This provides a single data communication network, which can be managed jointly or separately by each network.
+Besides shared communication within the network, a distributed network often also distributes processing.
+Hybrid computer network
+A hybrid computer network uses different communication standards simultaneously, such as Ethernet and WiFi.
+This type of network uses special routers, switches and hubs to connect computers and peripheral devices.
+The ability to use both Ethernet and WiFi within the same local area network, or LAN, is important when people want to be both connected and mobile.
+CSE-411
+
+--- Slide 26 ---
+The Uses of a Network /Main benefits of a using a computer network
+Simultaneous Access
+In organizations, many people may need to use the same data or programs. A network solves this problem.
+Shared data and programs can be stored on a central network server.  A server that stores data files may be called a file server.
+Managers may assign access rights to users.  Some users may only be able to read data, others may be able to make changes to existing files.
+Shared Peripheral Devices
+Because peripheral (external) devices like printers can be expensive, it is cost-effective to connect a device to a network so users can share it.
+Through a process called spooling, users can send multiple documents (called print jobs) to a networked printer at the same time.  The documents are temporarily stored on the server and printed in turn.
+CSE-411
+
+--- Slide 27 ---
+The Uses of a Network /Main benefits of a using a computer network
+Personal Communication
+One of the most common uses of networks is for electronic mail (e-mail).
+An e-mail system enables users to exchange written messages (often with data files attached) across the local network or over the Internet.
+Easier Backup
+Networks enable managers to easily back up (make backup copies of) important data.
+Administrators commonly back up shared data files stored on the server, but may also use the network to back up files on users' PCs.
+CSE-411
+
+--- Slide 28 ---
+The Uses of a Network /Main benefits of a using a computer network
+Aiding communication by teleconferencing and video-conferencing
+Two other popular network-based communications systems are teleconferencing and videoconferencing.
+A teleconference or teleseminar is the live exchange and mass articulation of information among several persons and machines remote from one another but linked by a telecommunications system.
+Terms such as audio conferencing, telephone conferencing and phone conferencing are also sometimes used to refer to teleconferencing.
+Videoconferencing is the conduct of a videoconference  (also known as a video conference or video teleconference) by a set of telecommunication technologies which allow two or more locations to communicate by simultaneous two-way video and audio transmissions. It has also been called 'visual collaboration' and is a type of groupware.
+CSE-411
+
+--- Slide 29 ---
+Questions related to this Lecture
+What is data Communication? What are the three basic elements of a communication system? What are the three ways of transmitting data from one point to another?
+List five differences between LAN and WAN. What are the benefits of a computer network?
+What is computer Network? Describe different types of computer Network based on geographical area.
+Briefly describe the different data transmission modes.
+Differentiate among Unicast, Multicast and broadcast.
+Classify computer network according to structure.
+CSE-411
+
+--- Slide 30 ---
+THANK YOU
+CSE-411
+
+
+============================================================
+=== Congestion control.pptx ===
+============================================================
+
+--- Slide 1 ---
+QoS and Congestion control: explicit, implicit, choking, leaky and token bucket alg., loadshedding
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+
+============================================================
+=== DNS-2.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+
+--- Slide 32 ---
+
+--- Slide 33 ---
+
+--- Slide 34 ---
+
+--- Slide 35 ---
+
+--- Slide 36 ---
+
+--- Slide 37 ---
+
+--- Slide 38 ---
+
+--- Slide 39 ---
+
+--- Slide 40 ---
+
+--- Slide 41 ---
+
+--- Slide 42 ---
+
+--- Slide 43 ---
+
+--- Slide 44 ---
+
+--- Slide 45 ---
+
+--- Slide 46 ---
+
+--- Slide 47 ---
+
+--- Slide 48 ---
+
+--- Slide 49 ---
+
+--- Slide 50 ---
+
+--- Slide 51 ---
+
+--- Slide 52 ---
+
+--- Slide 53 ---
+
+--- Slide 54 ---
+
+
+============================================================
+=== DTE and DCE.pptx ===
+============================================================
+
+--- Slide 1 ---
+DTE/DCE and CSU/DSU
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+CSU (channel service unit)/DSU(data service unit)
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+data
+Intermediate device
+
+--- Slide 8 ---
+
+
+============================================================
+=== HTTP.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+
+--- Slide 32 ---
+
+--- Slide 33 ---
+
+--- Slide 34 ---
+
+--- Slide 35 ---
+
+--- Slide 36 ---
+
+--- Slide 37 ---
+
+--- Slide 38 ---
+
+--- Slide 39 ---
+
+--- Slide 40 ---
+
+--- Slide 41 ---
+
+
+============================================================
+=== Hub,bridge,router,switch(questions answers).pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+A common connection point for devices in a network. Hubs are commonly used to connect segments of a LAN. A hub contains multiple ports. When apacketarrives at one port, it is copied to the other ports so that all segments of the LAN can see all packets.
+A passive hub serves simply as a conduit for the data, enabling it to go from one device (or segment) to another. So-called intelligent hubs include additional features that enables an administrator to monitor the traffic passing through the hub and to configure each port in the hub. Intelligent hubs are also called manageable hubs.
+
+
+============================================================
+=== ICMP, DNS, dhcp, arp (vvi slide 1).pptx ===
+============================================================
+
+--- Slide 1 ---
+ARP, ICMP, DNS
+DNS two question : name lookup and caching why important then replication, icmp: two question (how to trace a route and path mtu discovery, what is mtu)
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+How DHCP server dynamically assigns IP address to a host?
+DHCP is an abbreviation for Dynamic Host Configuration Protocol. It is an application layer protocol used by hosts for obtaining network setup information. The DHCP is controlled by DHCP server that dynamically distributes network configuration parameters such as IP addresses, subnet mask and gateway address.
+What is Dynamic host configuration protocol?
+Dynamic – Automatically
+Host – Any computer that is connected to the network
+Configuration – To configure a host means to provide network information(ip address,subnet mask,Gateway address) to a host
+Protocol – Set of rules
+Summing up, a DHCP server dynamically configures a host in a network.
+
+--- Slide 20 ---
+Disadvantage of manually Configuring the host: Configuring a host when it is connected to the network can be done either manually i.e., by the network administrator or by the DHCP server. In case of home networks, manual configuration is quite easy. Whereas in the large networks, the network administrator might face many problems.Also, the manual configuration is prone to mistakes. Say a Network administrator might assign an IP address which was already assigned. Thus, causing difficulty for both administrator as well as neighbors on network.
+Configuring a host using DHCP
+To configure a host, we require the following things:
+Leased IP address – IP address to a host which lasts for a particular duration which goes for a few hours,few days or few weeks.
+Subnet Mask – The host can know on which network it is on.
+Gateway address – The Gateway is the Internet Service Provider that connects user to the internet.The Gateway address lets the host know where the gateway is to connect to the internet.
+
+--- Slide 21 ---
+DHCP Entities
+DHCP server: It automatically provides network information(IPaddress, subnet mask, gateway address) on lease. Once the duration is expired, that network information can be assigned to other machine.  It also maintains the data storage which stores the available IP addresses.
+DHCP client: Any node which request an IP address allocation to a network is considered as DHCP client.
+DHCP Relay Agent: In case, we have only one DHCP server for multiple LAN’s then this Agent which presents in every network forwards the DHCP request to DHCP server. So, using DHCP Relay Agent we can configure multiple LAN’s with single server.
+
+--- Slide 22 ---
+How DHCP server assigns IP address to a host?
+DHCPDISCOVER: When a new node is connected to the network, it broadcasts the DHCPDISCOVER message which contains the source address as 0.0.0.0 to every node on the network including server. DHCP server on receiving the message, returns the DHCPOFFER message to the requested host which contains the server address and new IP address to the node.
+DHCPOFFER: If there are multiple servers on the network, host receives multiple DHCPOFFER messages. It is up to the host to select a particular message.
+DHCPREQUEST:  The requested host on receiving the offer message, it again broadcasts the DHCPREQUEST message on the network with the address of the server whose offer message is accepted by the host. The server which pertains to that server address sent by the host checks whether the address to be assigned to the node is available in the data storage.
+
+--- Slide 23 ---
+DHCPACK : If the address is assigned , it marks the IP address in the storage as unavailable to ensure consistency. Now, the server sends DHCPACK packet to the requested host which contains network information(IP address, subnet mask, gateway address). In case, if the address is assigned to other machine meanwhile, then the server sends the packet DHCPNAK to the requested host indicating that the IP address is assigned to some other machine.
+DHCPRELEASE : And finally, If the host wants to move to other network or if it has finished  its work, it sends the DHCPRELEASE packet to the server indicating that it wants to disconnect. Then the server marks the IP address as available in the storage so that it can be assigned to other machine.
+
+
+============================================================
+=== IP addressing 1.pptx ===
+============================================================
+
+--- Slide 1 ---
+IP addressing
+IPV4 and IPV6
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+
+============================================================
+=== Mail-transfer.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+
+============================================================
+=== NAT.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+
+============================================================
+=== New Microsoft Office PowerPoint Presentation (2).pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+
+============================================================
+=== RSA-new.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+
+============================================================
+=== Routing-q.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+
+============================================================
+=== SMTP, POP3, IMAP.pptx ===
+============================================================
+
+--- Slide 1 ---
+SMTP, POP3, IMAP
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+How Email Works
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+
+============================================================
+=== SMTP.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+
+============================================================
+=== VLAN.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+
+============================================================
+=== VPN.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+
+--- Slide 32 ---
+
+--- Slide 33 ---
+
+--- Slide 34 ---
+
+--- Slide 35 ---
+
+--- Slide 36 ---
+
+--- Slide 37 ---
+
+
+============================================================
+=== application layer main (vvi slide 3).pptx ===
+============================================================
+
+--- Slide 1 ---
+DTE/DCE and CSU/DSU device, NAT, DHCP, ARP, SMTP, WWW, HTTP, FTP
+Gateway, firewall, VPN, DSL, VLAN, DNS, ICMP
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+CSU (channel service unit)/DSU(data service unit)
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+data
+Intermediate device
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+The maximum transmission unit is the maximum size of a single data unit of digital communications that can be transmitted over a network. The MTU size is an inherent property of a physical network interface and is usually measured in bytes. The MTU for Ethernet, for example, is 1500 bytes. Some types of networks, such as token rings, have larger MTUs, and some networks have smaller MTUs, but the value is fixed for each physical technology.
+MTU Versus Maximum TCP Packet Size
+Higher-level network protocols like TCP/IP can be configured with a maximum packet size, which is a parameter independent of the physical layer MTU over which TCP/IP runs.
+
+--- Slide 22 ---
+In Microsoft Windows, the maximum packet size for protocols such as TCP can be set in the Registry. If this value is set too low, streams of network traffic are broken up into a relatively large number of small packets, which adversely affects performance. Xbox Live, for example, requires the value of the packet size to be at least 1365 bytes. If the maximum TCP packet size is set too high, it exceeds the network's physical MTU and degrades performance by requiring that each packet be subdivided into smaller ones — a process is known as fragmentation. Microsoft Windows computers default to a maximum packet size of 1500 bytes for broadband connections and 576 bytes for dial-up connections.
+
+--- Slide 23 ---
+In theory, the limitation of TCP packet size is 64K (65,525 bytes). This limit is much larger than you'll ever use because the transmission layers have much lower sizes plus protocol overhead; TCP, for example, reserves 20 to 60 bytes just for the header of each packet. Ethernet's MTU of 1500 bytes limits the size of packets that traverse it. Sending a packet that is larger than the maximum transmission window for Ethernet is called jabbering. Jabber can be identified and prevented. If unaddressed, jabbering can disrupt a network. Usually, jabber is detected by repeater hubs or network switches that are designed to do so. The simplest way to prevent jabber is to set the maximum size of a TCP packet to no more than 1500 bytes.
+Performance problems may also arise if the TCP maximum transmission setting on the home broadband router differs from the setting on individual devices connected to it.
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+
+--- Slide 32 ---
+
+--- Slide 33 ---
+
+--- Slide 34 ---
+
+--- Slide 35 ---
+
+--- Slide 36 ---
+
+--- Slide 37 ---
+
+--- Slide 38 ---
+
+--- Slide 39 ---
+
+--- Slide 40 ---
+
+--- Slide 41 ---
+
+--- Slide 42 ---
+
+--- Slide 43 ---
+
+--- Slide 44 ---
+
+--- Slide 45 ---
+1. Ipv4 address is 192.168.35.1/24 what will be the equivanet ipv6 address?
+2. Main features of ipv6 header formats+fields description
+3. IPV6 extension header and IPv6 tunneling. Define them.
+4. How QoS can be ensured.
+5. Different types of wireless MAC protocols compare.
+6. What is TCP fast retransmission
+7. Ip address is 192.168.121.121 and subnet mask is 255.255.248.0
+Find network address, broadcast address, maximum no of host that can can be connected first usable and last usable ip address
+8. Why port number is used?
+9. Why UDP is useful
+9. Compare ethernet frame format types
+10 Compare 802.3 with 802.5, 802.4
+11. Difference between segmentation and  multiplexing, packet and frame, error detection and error correction.
+12.Taxonomy of different WAN technologies.
+13. Significance of ATM
+14. Short note on cloud computing, IoT, distributed computing, sensor network, encryption and decryption
+15. What is binary exponential backoff. Differ CSMA/CD with CSMA/CA
+16. Compare copper wire with fiber optic
+17. Short note on DSL and FDDI
+
+
+============================================================
+=== comparison of wireless mac protocols.pptx ===
+============================================================
+
+--- Slide 1 ---
+Some important questions and answers
+
+--- Slide 2 ---
+WIMAX vs. Wi-Fi(802.16 vs. 802.11)
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+Discuss MAC protocol for wireless LANs
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+A CSU/DSU (Channel Service Unit/Data Service Unit) is a hardware device about the size of an external modem that converts a digital data frame from the communications technology used on a local area network (LAN) into a frame appropriate to a wide-area network (WAN) and vice versa. For example, if you have a Web business from your own home and have leased a digital line (perhaps a T-1 or fractional T-1 line) to a phone company or a gatewayat an Internet service provider, you have a CSU/DSU at your end and the phone company orgateway host has a CSU/DSU at its end.
+The Channel Service Unit (CSU) receives and transmits signals from and to the WAN line and provides a barrier for electrical interference from either side of the unit. The CSU can also echo loopback signals from the phone company for testing purposes. The Data Service Unit (DSU) manages line control, and converts input and output between RS-232C, RS-449, orV.xx frames from the LAN and the time-division multiplexed (TDM) DSX frames on the T-1 line. The DSU manages timing errors and signal regeneration. The DSU provides a modem-like interface between the computer as Data Terminal Equipment (DTE) and the CSU.
+CSU/DSU
+
+--- Slide 18 ---
+Wireless access points (APs or WAPs) are specially configured devices on wireless local area networks (WLANs). Access points act as a central transmitter and receiver of wireless radio signals including Wi-Fi. APs are most commonly used to support public Internet hotspots and also on internal business networks to extend their Wi-Fi signal range.
+An intelligent switch is a high-level storage area network (SAN) routing switch that provides features such as storage virtualization, quality of service (QoS), remote mirroring, data sharing, protocol conversion, and advanced security. Intelligent switches are an important part of storage area management (SAM), a methodology that is gaining in importance as networks become increasingly complex and expensive to deploy, operate, and maintain.
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+Network topology is the physical design of a LAN which resolves the conflict that occurs between computers on the network attempting to transmit at the same time. Whereas protocols are the standards used by networks to permit communication between network-connected devices.
+What is difference between topology and protocol?
+The difference between physical topology and logical topology is in perspective. A logical topology is how devices appear connected to the user. A physical topology is how the devices are actually interconnected with wires and cables.
+Difference between Physical and Logical Topology?
+
+--- Slide 22 ---
+The function of the network interface card or NIC controller is to provide a physical connection between a PC and a network. A typical setup in an office environment is a NIC card placed inside a PC with a cable running from the NIC card, eventually being connected to the company network or intranet.
+What Is the Function of a Network Interface Card?
+passive star has no electronics. The light from one fiber illuminates a  number of others. An active repeater converts the optical signal to an electri- cal one for further processing.
+What is the difference between passive star and active repeater in fiber network?
+
+--- Slide 23 ---
+What is the difference between Store-and-Forward switching and Cut-Through switching?
+Store-and-Forward: Store-and-Forward switchingwill wait until the entire frame has arrived prior to forwardingit. This method stores the entire frame in memory. Once the frameis in memory, the switch checksthe destination address, sourceaddress, and the CRC. If no errors are present, the frame isforwarded to the appropriate port. This process ensures that thedestination network is not affected by corrupted or truncatedframes.
+Cut-Through: Cut-Through switching will beginforwarding the frame as soon as the destination address isidentified. The difference between this and Store-and-Forward isthat Store-and-Forward receives the whole frame before forwarding.Since frame errors cannot be detected by reading only thedestination address, Cut-Through may impact network performance byforwarding corrupted or truncated frames. These bad frames cancreate broadcast storms wherein several devices on the networkrespond to the corrupted frames simultaneously.
+
+--- Slide 24 ---
+Fragment-Free Switching
+Fragment-free (runtless switching) switching is an advanced form of cut-through switching. The switches operating in cut-through switching read only up to the destination MAC address field in the Ethernet frame before making a switching decision. The switches operating in fragment-free switching read at least 64 bytes of the Ethernet frame before switching it to avoid forwardingEthernet runt frames (Ethernet frames smaller than 64 bytes).
+
+--- Slide 25 ---
+Difference Symmetric and asymmetric switching
+
+--- Slide 26 ---
+In computer networking, a port number is part of the addressing information used to identify the senders and receivers of messages. Port numbers are most commonly used withTCP/IP connections. Home network routers and computer software work with ports and sometimes allow you to configure port number settings. These port numbers allow different applications on the same computer to share network resources simultaneously.
+Port numbers work like telephone extensions. Just as a business telephone switchboard can use a main phone number and assign each employee an extension number (like x100, x101, etc.), so a computer has a main address and a set of port numbers to handle incoming and outgoing connections.
+In both TCP and UDP, port numbers start at 0 and go up to 65535. Numbers in the lower ranges are dedicated to common Internet protocols (like 21 forFTP and 80 for HTTP).
+How Port Numbers Work
+
+--- Slide 27 ---
+A routing protocol sends and receives routing information packets to and from other routers.
+A routed protocol can be routed by a router, which means that it can be forwarded from one router to another.
+A routed protocol contains the data elements required for a packet to be sent outside of its host netowkr or network segment. In other words, a routed protocol can be routed.
+Protocols used to communicate routing information between routers within an autonomous system are Interior Gateway Protocols (IGP), which are routing protocols, but not routed protocols.
+Examples of routed protocols are IP and IPX, and examples of routing protocfols are RIP and IGRP.
+Routed vs. Routing Protocols
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+A default route of a computer that is participating in computer networking is the packet forwarding rule (route) taking effect when no other route can be determined for a given Internet Protocol (IP) destination address. All packets for destinations not established in the routing table are sent via the default route. This route generally points to another router, which treats the packet the same way: If a route matches, the packet is forwarded accordingly, otherwise the packet is forwarded to the default route of that router. The process repeats until a packet is delivered to the destination. Each router traversal counts as one hop in the distance calculation for the transmission path.
+
+--- Slide 32 ---
+Subnetting vs Supernetting
+Subnetting is the process of dividing an IP network in to sub divisions called subnets. Computers belonging to a sub network have a common group of most-significant bits in their IP addresses. So, this would break the IP address in to two parts (logically), as the network prefix and the rest field. Supernetting is the process of combining several sub networks, which have a common Classless Inter-Domain Routing (CIDR) routing prefix. Suppernetting is also called route aggregation or route summarization.
+
+--- Slide 33 ---
+
+--- Slide 34 ---
+
+--- Slide 35 ---
+
+--- Slide 36 ---
+
+--- Slide 37 ---
+
+--- Slide 38 ---
+
+--- Slide 39 ---
+ATM
+
+--- Slide 40 ---
+
+--- Slide 41 ---
+
+--- Slide 42 ---
+
+--- Slide 43 ---
+Asymmetric digital subscriber line (ADSL) is a type of digital subscriber line (DSL) technology, a data communications technology that enables faster data transmission over copper telephone lines than a conventional voiceband modem can provide. It does this by utilizing frequencies that are not used by a voice telephone call.[1] A splitter, or DSL filter, allows a single telephone connection to be used for both ADSL service and voice calls at the same time. ADSL can generally only be distributed over short distances from the telephone exchange (the last mile), typically less than 4 kilometres (2 mi),[2] but has been known to exceed 8 kilometres (5 mi) if the originally laid wire gauge allows for further distribution.
+
+--- Slide 44 ---
+
+--- Slide 45 ---
+
+--- Slide 46 ---
+
+--- Slide 47 ---
+
+--- Slide 48 ---
+
+--- Slide 49 ---
+
+--- Slide 50 ---
+
+--- Slide 51 ---
+
+--- Slide 52 ---
+
+--- Slide 53 ---
+
+--- Slide 54 ---
+
+--- Slide 55 ---
+
+--- Slide 56 ---
+
+--- Slide 57 ---
+
+--- Slide 58 ---
+gateway
+
+
+============================================================
+=== congestion-15-9.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+CUET
+18
+Load Shedding
+The “big hammer” - router just starts throwing out packets
+Packet discard policy may depend on the application
+“wine”  drop new packets (old wine is better than new wine) - good for file transfer
+“milk”  drop old packets (don’t even need to talk about old milk!) - good for video/multimedia
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+
+============================================================
+=== csma-cd and csma-ca.pptx ===
+============================================================
+
+--- Slide 1 ---
+Topic 2: Data link layer: framing and error control
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+Q. Four methods of breaking bits into frame. (V.V.i)
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+
+============================================================
+=== data link-today.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+
+--- Slide 32 ---
+
+--- Slide 33 ---
+
+--- Slide 34 ---
+
+--- Slide 35 ---
+
+--- Slide 36 ---
+
+--- Slide 37 ---
+
+--- Slide 38 ---
+
+--- Slide 39 ---
+
+--- Slide 40 ---
+
+--- Slide 41 ---
+
+--- Slide 42 ---
+
+--- Slide 43 ---
+
+--- Slide 44 ---
+
+--- Slide 45 ---
+
+--- Slide 46 ---
+
+--- Slide 47 ---
+
+--- Slide 48 ---
+
+--- Slide 49 ---
+
+--- Slide 50 ---
+
+--- Slide 51 ---
+
+--- Slide 52 ---
+
+--- Slide 53 ---
+
+--- Slide 54 ---
+
+--- Slide 55 ---
+
+--- Slide 56 ---
+
+--- Slide 57 ---
+
+--- Slide 58 ---
+
+--- Slide 59 ---
+
+--- Slide 60 ---
+
+
+============================================================
+=== dns name resolver.pptx ===
+============================================================
+
+--- Slide 1 ---
+Domain Name System (or Service)(DNS)
+Computer Networks
+Term B10
+
+--- Slide 2 ---
+DNS Outline
+DNS Hierarchial Structure
+Root Name Servers
+Top-Level Domain Servers
+Authoritative Name Servers
+Local Name Server
+Caching and Updating DNS Records
+DNS Protocols and Messages
+Computer Networks   DNS
+2
+
+--- Slide 3 ---
+DNS: Domain Name System
+People: many identifiers:
+SSN, name, passport #
+Internet hosts, routers:
+IP address (32 bit) - used for addressing datagrams
+“name”, e.g., www.yahoo.com - used by humans
+Q: map between IP addresses and name?
+Domain Name System:
+distributed database implemented in hierarchy of many name servers
+application-layer protocol host, routers, name servers to communicate to resolve names (address/name translation)
+note: core Internet function, implemented as application-layer protocol
+complexity at network’s “edge”
+Computer Networks   DNS
+3
+
+--- Slide 4 ---
+DNS
+DNS servers often run on Unix machines running BIND (Berkeley Internet Name Domain)
+Runs over UDP
+Uses port 53
+Computer Networks   DNS
+4
+
+--- Slide 5 ---
+DNS
+Why not centralize DNS?
+single point of failure
+traffic volume
+distant centralized database
+maintenance
+doesn’t scale!
+Distributed by design
+DNS services
+hostname to IP address translation
+host aliasing
+Aliases, where canonical name is “real” name
+mail server aliasing
+load distribution
+replicated Web servers: set of IP addresses for one name
+Computer Networks   DNS
+5
+
+--- Slide 6 ---
+DNS
+Three classes of servers (approximation):
+Root DNS servers
+Top-level domain (TLD) servers
+Authoritative name servers
+Additionally:
+Local name server
+Computer Networks   DNS
+6
+
+--- Slide 7 ---
+Distributed, Hierarchical Database
+Example: Client wants IP for www.amazon.com {1st approx:}
+client queries a root server to find .com DNS server
+client queries .com DNS server to get amazon.com DNS server
+client queries amazon.com DNS server to get IP address for www.amazon.com
+Computer Networks   DNS
+7
+
+--- Slide 8 ---
+DNS: Root Name Servers
+Contacted by local name server that can not resolve name
+Root name server:
+Contacts authoritative name server if name mapping not known
+Gets mapping
+Returns mapping to local name server
+13 root name servers worldwide
+(  (a-m)
+b USC-ISI Marina del Rey, CA
+l  ICANN Los Angeles, CA
+e NASA Mt View, CA
+f  Internet Software C. Palo Alto, CA (and 36 other locations)
+i Autonomica, Stockholm (plus     28 other locations)
+k RIPE London (also 16 other locations)
+m WIDE Tokyo (also Seoul, Paris, SF)
+a Verisign, Dulles, VA
+c Cogent, Herndon, VA (also LA)
+d U Maryland College Park, MD
+g US DoD Vienna, VA
+h ARL Aberdeen, MD
+j  Verisign, ( 21 locations)
+Computer Networks   DNS
+8
+
+--- Slide 9 ---
+Top-Level Domain (TLD)
+Top-level domain (TLD) servers:
+Responsible for com, org, net, edu, etc, and all top-level country domains such as uk, fr, ca and jp.
+Network Solutions maintains servers for com TLD.
+Educause for edu TLD.
+VeriSign for net TLD.
+Computer Networks   DNS
+9
+
+--- Slide 10 ---
+Authoritative Servers
+Authoritative DNS servers:
+Organization’s DNS servers, providing authoritative hostname to IP mappings for organization’s servers (e.g., Web, mail).
+Can be maintained by organization or service provider.
+Computer Networks   DNS
+10
+
+--- Slide 11 ---
+Local Name Server
+Does not strictly belong to hierarchy.
+Each ISP (residential ISP, company, university) has one
+Also called “default name server”
+You can run one in your home/dorm!
+When a host makes  a DNS query, the query is sent to its local DNS server.
+ISP provides IP address of local DNS server using DHCP.
+Acts as proxy, forwards query into the name server hierarchy.
+Computer Networks   DNS
+11
+
+--- Slide 12 ---
+requesting host
+cis.poly.edu
+root DNS server
+1
+2
+3
+4
+5
+6
+authoritative DNS server
+dns.cs.umass.edu
+7
+8
+TLD DNS server
+DNS Name Resolution Example
+Host at cis.poly.edu wants IP address for gaia.cs.umass.edu
+Iterated query
+contacted server replies with name of server to contact.
+“I don’t know this name, but ask this server.”
+Computer Networks   DNS
+12
+
+--- Slide 13 ---
+Recursive query
+Puts burden of name resolution on contacted name server.
+Heavy load?
+DNS Name Resolution (example)
+Computer Networks   DNS
+13
+
+--- Slide 14 ---
+DNS: Caching and Updating Records
+Once (any) name server learns mapping, it caches mapping.
+Cache entries timeout (disappear) after some time (e.g two days) {specified as TTL ==Time-To-Live}.
+IP addresses of TLD servers are typically cached in local name servers.
+Thus root name servers are not visited frequently.
+Originally thought DNS names quite static, but increasingly not so  update/notify mechanisms under design by IETF
+RFC 2136: http://www.ietf.org/rfc/rfc2136.txt
+Computer Networks   DNS
+14
+
+--- Slide 15 ---
+DNS Records
+DNS: distributed database storing resource records (RR)
+Type=NS
+name is domain (e.g. foo.com)
+value is hostname of authoritative name server for this domain
+Type=A
+name is hostname
+value is IP address
+Type=CNAME
+name is alias name for some “canonical” (the real) name  www.ibm.com is really  servereast.backup2.ibm.com
+value is canonical name
+Type=MX
+value is name of mailserver associated with name
+Computer Networks   DNS
+15
+
+--- Slide 16 ---
+DNS Protocol and Messages
+DNS protocol: query and reply messages, both with the same message format.
+msg header
+identification: 16 bit # for query, reply to query uses same #
+flags:
+query or reply
+recursion desired
+recursion available
+reply is authoritative
+Computer Networks   DNS
+16
+
+--- Slide 17 ---
+DNS Protocol and Messages
+Name, type fields
+for a query
+Resource records in response to query
+Records for
+authoritative servers
+Additional “helpful”
+info that may be used
+Computer Networks   DNS
+17
+
+--- Slide 18 ---
+Inserting records into DNS
+Example: new startup “Network Utopia”
+How do people get IP address of your Web site?
+How do they send you email?
+Register name networkuptopia.com at DNS registrar (e.g., Network Solutions)
+provide names, IP addresses of authoritative name server (primary and secondary).
+registrar inserts two RRs into .com TLD server:
+(networkutopia.com, dns1.networkutopia.com, NS)
+(dns1.networkutopia.com, 212.212.212.1, A)
+Create authoritative server Type A record for www.networkuptopia.com; Type MX record for networkutopia.com for mail.
+Computer Networks   DNS
+18
+
+--- Slide 19 ---
+DNS Summary
+DNS Hierarchial Structure
+Root Name Servers
+Top-Level Domain Servers
+Authoritative Name Servers
+Local Name Server
+Caching and Updating DNS Records
+DNS Protocols and Messages
+Computer Networks   DNS
+19
+
+
+============================================================
+=== dns-25.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+
+--- Slide 32 ---
+
+
+============================================================
+=== dns-3.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+Definition: nslookup is a network utility program used to obtain information about Internet servers. As its name suggests, the utility finds name server information for domains by querying DNS.
+Using nslookup
+Most computer operating systems include a built-in command line program called nslookup.exe. Some network providers also host their own Web-based services of this same utility. These programs are all designed to perform name server look-ups against specified Internet domains.
+
+--- Slide 6 ---
+
+
+============================================================
+=== flow-error.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+
+--- Slide 32 ---
+
+--- Slide 33 ---
+
+--- Slide 34 ---
+
+--- Slide 35 ---
+
+--- Slide 36 ---
+
+--- Slide 37 ---
+
+--- Slide 38 ---
+
+--- Slide 39 ---
+
+--- Slide 40 ---
+
+--- Slide 41 ---
+
+--- Slide 42 ---
+
+--- Slide 43 ---
+
+--- Slide 44 ---
+
+--- Slide 45 ---
+
+--- Slide 46 ---
+
+--- Slide 47 ---
+
+--- Slide 48 ---
+
+--- Slide 49 ---
+
+--- Slide 50 ---
+
+--- Slide 51 ---
+
+--- Slide 52 ---
+
+--- Slide 53 ---
+
+--- Slide 54 ---
+
+--- Slide 55 ---
+
+--- Slide 56 ---
+
+--- Slide 57 ---
+
+--- Slide 58 ---
+
+--- Slide 59 ---
+
+--- Slide 60 ---
+
+
+============================================================
+=== how dhcp and icmp works (vvi slide 1).pptx ===
+============================================================
+
+--- Slide 1 ---
+ARP, ICMP, DNS
+DNS two question : name lookup and caching why important then replication, icmp: two question (how to trace a route and path mtu discovery, what is mtu)
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+How DHCP server dynamically assigns IP address to a host?
+DHCP is an abbreviation for Dynamic Host Configuration Protocol. It is an application layer protocol used by hosts for obtaining network setup information. The DHCP is controlled by DHCP server that dynamically distributes network configuration parameters such as IP addresses, subnet mask and gateway address.
+What is Dynamic host configuration protocol?
+Dynamic – Automatically
+Host – Any computer that is connected to the network
+Configuration – To configure a host means to provide network information(ip address,subnet mask,Gateway address) to a host
+Protocol – Set of rules
+Summing up, a DHCP server dynamically configures a host in a network.
+
+--- Slide 20 ---
+Disadvantage of manually Configuring the host: Configuring a host when it is connected to the network can be done either manually i.e., by the network administrator or by the DHCP server. In case of home networks, manual configuration is quite easy. Whereas in the large networks, the network administrator might face many problems.Also, the manual configuration is prone to mistakes. Say a Network administrator might assign an IP address which was already assigned. Thus, causing difficulty for both administrator as well as neighbors on network.
+Configuring a host using DHCP
+To configure a host, we require the following things:
+Leased IP address – IP address to a host which lasts for a particular duration which goes for a few hours,few days or few weeks.
+Subnet Mask – The host can know on which network it is on.
+Gateway address – The Gateway is the Internet Service Provider that connects user to the internet.The Gateway address lets the host know where the gateway is to connect to the internet.
+
+--- Slide 21 ---
+DHCP Entities
+DHCP server: It automatically provides network information(IPaddress, subnet mask, gateway address) on lease. Once the duration is expired, that network information can be assigned to other machine.  It also maintains the data storage which stores the available IP addresses.
+DHCP client: Any node which request an IP address allocation to a network is considered as DHCP client.
+DHCP Relay Agent: In case, we have only one DHCP server for multiple LAN’s then this Agent which presents in every network forwards the DHCP request to DHCP server. So, using DHCP Relay Agent we can configure multiple LAN’s with single server.
+
+--- Slide 22 ---
+How DHCP server assigns IP address to a host?
+DHCPDISCOVER: When a new node is connected to the network, it broadcasts the DHCPDISCOVER message which contains the source address as 0.0.0.0 to every node on the network including server. DHCP server on receiving the message, returns the DHCPOFFER message to the requested host which contains the server address and new IP address to the node.
+DHCPOFFER: If there are multiple servers on the network, host receives multiple DHCPOFFER messages. It is up to the host to select a particular message.
+DHCPREQUEST:  The requested host on receiving the offer message, it again broadcasts the DHCPREQUEST message on the network with the address of the server whose offer message is accepted by the host. The server which pertains to that server address sent by the host checks whether the address to be assigned to the node is available in the data storage.
+
+--- Slide 23 ---
+DHCPACK : If the address is assigned , it marks the IP address in the storage as unavailable to ensure consistency. Now, the server sends DHCPACK packet to the requested host which contains network information(IP address, subnet mask, gateway address). In case, if the address is assigned to other machine meanwhile, then the server sends the packet DHCPNAK to the requested host indicating that the IP address is assigned to some other machine.
+DHCPRELEASE : And finally, If the host wants to move to other network or if it has finished  its work, it sends the DHCPRELEASE packet to the server indicating that it wants to disconnect. Then the server marks the IP address as available in the storage so that it can be assigned to other machine.
+
+
+============================================================
+=== ip addr-2(questions answers).pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+
+============================================================
+=== lecture 1 (cse 411 must read).pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+
+--- Slide 32 ---
+
+--- Slide 33 ---
+
+--- Slide 34 ---
+
+--- Slide 35 ---
+
+--- Slide 36 ---
+
+--- Slide 37 ---
+
+--- Slide 38 ---
+
+--- Slide 39 ---
+
+--- Slide 40 ---
+
+--- Slide 41 ---
+
+--- Slide 42 ---
+
+--- Slide 43 ---
+
+--- Slide 44 ---
+
+--- Slide 45 ---
+
+--- Slide 46 ---
+
+--- Slide 47 ---
+
+--- Slide 48 ---
+
+--- Slide 49 ---
+
+
+============================================================
+=== lecture 1(questions answers).pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+Basic components, types of networks, applications
+
+
+============================================================
+=== mac protocol Presentation1.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+
+============================================================
+=== network last.pptx ===
+============================================================
+
+--- Slide 1 ---
+Some important questions and answers
+
+--- Slide 2 ---
+WIMAX vs. Wi-Fi(802.16 vs. 802.11)
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+Discuss MAC protocol for wireless LANs
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+A CSU/DSU (Channel Service Unit/Data Service Unit) is a hardware device about the size of an external modem that converts a digital data frame from the communications technology used on a local area network (LAN) into a frame appropriate to a wide-area network (WAN) and vice versa. For example, if you have a Web business from your own home and have leased a digital line (perhaps a T-1 or fractional T-1 line) to a phone company or a gatewayat an Internet service provider, you have a CSU/DSU at your end and the phone company orgateway host has a CSU/DSU at its end.
+The Channel Service Unit (CSU) receives and transmits signals from and to the WAN line and provides a barrier for electrical interference from either side of the unit. The CSU can also echo loopback signals from the phone company for testing purposes. The Data Service Unit (DSU) manages line control, and converts input and output between RS-232C, RS-449, orV.xx frames from the LAN and the time-division multiplexed (TDM) DSX frames on the T-1 line. The DSU manages timing errors and signal regeneration. The DSU provides a modem-like interface between the computer as Data Terminal Equipment (DTE) and the CSU.
+CSU/DSU
+
+--- Slide 18 ---
+Wireless access points (APs or WAPs) are specially configured devices on wireless local area networks (WLANs). Access points act as a central transmitter and receiver of wireless radio signals including Wi-Fi. APs are most commonly used to support public Internet hotspots and also on internal business networks to extend their Wi-Fi signal range.
+An intelligent switch is a high-level storage area network (SAN) routing switch that provides features such as storage virtualization, quality of service (QoS), remote mirroring, data sharing, protocol conversion, and advanced security. Intelligent switches are an important part of storage area management (SAM), a methodology that is gaining in importance as networks become increasingly complex and expensive to deploy, operate, and maintain.
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+Network topology is the physical design of a LAN which resolves the conflict that occurs between computers on the network attempting to transmit at the same time. Whereas protocols are the standards used by networks to permit communication between network-connected devices.
+What is difference between topology and protocol?
+The difference between physical topology and logical topology is in perspective. A logical topology is how devices appear connected to the user. A physical topology is how the devices are actually interconnected with wires and cables.
+Difference between Physical and Logical Topology?
+
+--- Slide 22 ---
+The function of the network interface card or NIC controller is to provide a physical connection between a PC and a network. A typical setup in an office environment is a NIC card placed inside a PC with a cable running from the NIC card, eventually being connected to the company network or intranet.
+What Is the Function of a Network Interface Card?
+passive star has no electronics. The light from one fiber illuminates a  number of others. An active repeater converts the optical signal to an electri- cal one for further processing.
+What is the difference between passive star and active repeater in fiber network?
+
+--- Slide 23 ---
+What is the difference between Store-and-Forward switching and Cut-Through switching?
+Store-and-Forward: Store-and-Forward switchingwill wait until the entire frame has arrived prior to forwardingit. This method stores the entire frame in memory. Once the frameis in memory, the switch checksthe destination address, sourceaddress, and the CRC. If no errors are present, the frame isforwarded to the appropriate port. This process ensures that thedestination network is not affected by corrupted or truncatedframes.
+Cut-Through: Cut-Through switching will beginforwarding the frame as soon as the destination address isidentified. The difference between this and Store-and-Forward isthat Store-and-Forward receives the whole frame before forwarding.Since frame errors cannot be detected by reading only thedestination address, Cut-Through may impact network performance byforwarding corrupted or truncated frames. These bad frames cancreate broadcast storms wherein several devices on the networkrespond to the corrupted frames simultaneously.
+
+--- Slide 24 ---
+Fragment-Free Switching
+Fragment-free (runtless switching) switching is an advanced form of cut-through switching. The switches operating in cut-through switching read only up to the destination MAC address field in the Ethernet frame before making a switching decision. The switches operating in fragment-free switching read at least 64 bytes of the Ethernet frame before switching it to avoid forwardingEthernet runt frames (Ethernet frames smaller than 64 bytes).
+
+--- Slide 25 ---
+Difference Symmetric and asymmetric switching
+
+--- Slide 26 ---
+In computer networking, a port number is part of the addressing information used to identify the senders and receivers of messages. Port numbers are most commonly used withTCP/IP connections. Home network routers and computer software work with ports and sometimes allow you to configure port number settings. These port numbers allow different applications on the same computer to share network resources simultaneously.
+Port numbers work like telephone extensions. Just as a business telephone switchboard can use a main phone number and assign each employee an extension number (like x100, x101, etc.), so a computer has a main address and a set of port numbers to handle incoming and outgoing connections.
+In both TCP and UDP, port numbers start at 0 and go up to 65535. Numbers in the lower ranges are dedicated to common Internet protocols (like 21 forFTP and 80 for HTTP).
+How Port Numbers Work
+
+--- Slide 27 ---
+A routing protocol sends and receives routing information packets to and from other routers.
+A routed protocol can be routed by a router, which means that it can be forwarded from one router to another.
+A routed protocol contains the data elements required for a packet to be sent outside of its host netowkr or network segment. In other words, a routed protocol can be routed.
+Protocols used to communicate routing information between routers within an autonomous system are Interior Gateway Protocols (IGP), which are routing protocols, but not routed protocols.
+Examples of routed protocols are IP and IPX, and examples of routing protocfols are RIP and IGRP.
+Routed vs. Routing Protocols
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+A default route of a computer that is participating in computer networking is the packet forwarding rule (route) taking effect when no other route can be determined for a given Internet Protocol (IP) destination address. All packets for destinations not established in the routing table are sent via the default route. This route generally points to another router, which treats the packet the same way: If a route matches, the packet is forwarded accordingly, otherwise the packet is forwarded to the default route of that router. The process repeats until a packet is delivered to the destination. Each router traversal counts as one hop in the distance calculation for the transmission path.
+
+--- Slide 32 ---
+Subnetting vs Supernetting
+Subnetting is the process of dividing an IP network in to sub divisions called subnets. Computers belonging to a sub network have a common group of most-significant bits in their IP addresses. So, this would break the IP address in to two parts (logically), as the network prefix and the rest field. Supernetting is the process of combining several sub networks, which have a common Classless Inter-Domain Routing (CIDR) routing prefix. Suppernetting is also called route aggregation or route summarization.
+
+--- Slide 33 ---
+
+--- Slide 34 ---
+
+--- Slide 35 ---
+
+--- Slide 36 ---
+
+--- Slide 37 ---
+
+--- Slide 38 ---
+
+--- Slide 39 ---
+ATM
+
+--- Slide 40 ---
+
+--- Slide 41 ---
+
+--- Slide 42 ---
+
+--- Slide 43 ---
+Asymmetric digital subscriber line (ADSL) is a type of digital subscriber line (DSL) technology, a data communications technology that enables faster data transmission over copper telephone lines than a conventional voiceband modem can provide. It does this by utilizing frequencies that are not used by a voice telephone call.[1] A splitter, or DSL filter, allows a single telephone connection to be used for both ADSL service and voice calls at the same time. ADSL can generally only be distributed over short distances from the telephone exchange (the last mile), typically less than 4 kilometres (2 mi),[2] but has been known to exceed 8 kilometres (5 mi) if the originally laid wire gauge allows for further distribution.
+
+--- Slide 44 ---
+
+--- Slide 45 ---
+
+--- Slide 46 ---
+
+--- Slide 47 ---
+
+--- Slide 48 ---
+
+--- Slide 49 ---
+
+--- Slide 50 ---
+
+--- Slide 51 ---
+
+--- Slide 52 ---
+
+--- Slide 53 ---
+
+--- Slide 54 ---
+
+--- Slide 55 ---
+
+--- Slide 56 ---
+
+--- Slide 57 ---
+
+--- Slide 58 ---
+gateway
+
+
+============================================================
+=== routing -2.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+
+============================================================
+=== routing 1.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+
+============================================================
+=== routing 3 (example main).pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+--- Slide 28 ---
+
+--- Slide 29 ---
+
+--- Slide 30 ---
+
+--- Slide 31 ---
+
+--- Slide 32 ---
+
+--- Slide 33 ---
+
+--- Slide 34 ---
+
+--- Slide 35 ---
+
+--- Slide 36 ---
+
+--- Slide 37 ---
+
+--- Slide 38 ---
+
+--- Slide 39 ---
+
+--- Slide 40 ---
+
+--- Slide 41 ---
+
+--- Slide 42 ---
+
+--- Slide 43 ---
+
+--- Slide 44 ---
+
+--- Slide 45 ---
+
+--- Slide 46 ---
+
+--- Slide 47 ---
+
+--- Slide 48 ---
+
+--- Slide 49 ---
+
+--- Slide 50 ---
+
+--- Slide 51 ---
+
+--- Slide 52 ---
+
+--- Slide 53 ---
+
+--- Slide 54 ---
+
+--- Slide 55 ---
+
+--- Slide 56 ---
+
+--- Slide 57 ---
+
+--- Slide 58 ---
+
+--- Slide 59 ---
+
+--- Slide 60 ---
+
+--- Slide 61 ---
+
+--- Slide 62 ---
+
+--- Slide 63 ---
+
+--- Slide 64 ---
+
+--- Slide 65 ---
+
+--- Slide 66 ---
+
+--- Slide 67 ---
+
+--- Slide 68 ---
+
+--- Slide 69 ---
+
+--- Slide 70 ---
+
+--- Slide 71 ---
+
+--- Slide 72 ---
+
+--- Slide 73 ---
+
+--- Slide 74 ---
+
+
+============================================================
+=== routing-congestion.pptx ===
+============================================================
+
+--- Slide 1 ---
+
+--- Slide 2 ---
+
+--- Slide 3 ---
+
+--- Slide 4 ---
+
+--- Slide 5 ---
+
+--- Slide 6 ---
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+
+--- Slide 9 ---
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+
+--- Slide 12 ---
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+An important difference between two traffic shaping algorithms: token bucket throws away tokens when the bucket is full but never discards packets while leaky bucket discards packets when the bucket is full. Unlike leaky bucket, token bucket allows saving, up to maximum size of bucket n. This means that bursts of up to n packets can be sent at once, giving faster response to sudden bursts of input. Leaky bucket forces bursty traffic to smooth out, token bucket permits burstiness but bounds it. Token bucket has no discard or priority policy. Token bucket when compared to leaky bucket, is easy to implement. Each flow needs just a counter to count tokens and a timer to determine when to add new tokens to the counter.
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+
+--- Slide 17 ---
+
+--- Slide 18 ---
+
+--- Slide 19 ---
+
+--- Slide 20 ---
+
+--- Slide 21 ---
+
+--- Slide 22 ---
+
+--- Slide 23 ---
+
+--- Slide 24 ---
+
+--- Slide 25 ---
+
+--- Slide 26 ---
+
+--- Slide 27 ---
+
+
+============================================================
+=== wan taxonomy.pptx ===
+============================================================
+
+--- Slide 1 ---
+Selecting a WAN Technology
+Lecture 4: WAN Devices &Technology
+
+--- Slide 2 ---
+WAN OperationsWAN Devices
+
+--- Slide 3 ---
+WAN OperationsCircuit Switching
+The two most common types of circuit-switched WAN technologies are the public switched telephone network (PSTN) and the Integrated Services Digital Network (ISDN).
+
+--- Slide 4 ---
+WAN OperationsPacket Switching
+Splits traffic data into packets that are routed over a shared network. Packet-switching allow many pairs of nodes to communicate over the same channel.
+
+--- Slide 5 ---
+WAN ServicesWAN Link Connection Options
+
+--- Slide 6 ---
+WAN ServicesService-Provided Network Infrastructure
+
+--- Slide 7 ---
+Private WAN InfrastructuresLeased Lines
+Advantages:
+Simplicity
+Quality
+Availability
+Disadvantages:
+Cost
+Limited flexibility
+
+--- Slide 8 ---
+Private WAN InfrastructuresDialup
+Advantages:
+Simplicity
+Availability
+Low implementation cost
+Disadvantages:
+Low data rates
+Relatively long connection time
+
+--- Slide 9 ---
+Private WAN InfrastructuresISDN
+ISDN BRI
+ISDN PRI
+Sample ISDN Topology
+
+--- Slide 10 ---
+Private WAN InfrastructuresFrame Relay
+PVCs carry both voice and data traffic.
+PVCs are uniquely identified by a data-link connection identifier (DLCI).
+PVCs and DLCIs ensure bidirectional communication from one DTE device to another.
+R1 uses DLCI 102 to reach R2 while R2 uses DLCI 201 to reach R1.
+
+--- Slide 11 ---
+Private WAN InfrastructuresATM
+Built on a cell-based architecture, rather than on a frame-based architecture. ATM cells are always a fixed length of 53 bytes.
+
+--- Slide 12 ---
+Private WAN InfrastructuresEthernet WAN
+Features and Benefits of Ethernet WAN include:
+Reduced expenses and administration
+Easy integration with existing networks
+Enhanced business productivity
+Service providers now offer Ethernet WAN service using fiber-optic cabling.
+Known as Metropolitan Ethernet (MetroE), Ethernet over MPLS (EoMPLS), and Virtual Private LAN Service (VPLS).
+Note: Commonly used to replace the traditional Frame Relay and ATM WAN links.
+
+--- Slide 13 ---
+Private WAN InfrastructuresMPLS
+Multiprotocol Label Switching (MPLS) is a multiprotocol high-performance WAN technology that directs data from one router to the next, based on short path labels rather than IP network addresses.
+
+--- Slide 14 ---
+Private WAN InfrastructuresVSAT
+Very small aperture terminal (VSAT) -  a solution that creates a private WAN using satellite communications.
+
+--- Slide 15 ---
+Private WAN InfrastructuresDSL
+Always-on connection technology that uses existing twisted-pair telephone lines to transport high-bandwidth data, and provides IP services to subscribers.
+A DSL modem converts an Ethernet signal from the user device to a DSL signal, which is transmitted to the central office.
+
+--- Slide 16 ---
+Private WAN InfrastructuresCable
+Network access is available from some cable television networks.
+Cable modems provide an always-on connection and a simple installation.
+
+--- Slide 17 ---
+Private WAN InfrastructuresWireless
+New developments in broadband wireless technology:
+Municipal Wi-Fi – Many cities have begun setting up municipal wireless
+WiMAX – Worldwide Interoperability for Microwave Access (WiMAX) is a new technology that is just beginning to come into use.
+Satellite Internet
+
+--- Slide 18 ---
+Private WAN Infrastructures3G/4G Cellular
+Common cellular industry terms include:
+3G/4G Wireless – Abbreviation for 3rd generation and 4th generation cellular access. These technologies support wireless Internet access.
+Long-Term Evolution (LTE) – A newer and faster technology, considered to be part of the 4th generation (4G) technology.
+
+--- Slide 19 ---
+Private WAN InfrastructuresVPN Technology
+VPN is an encrypted connection between private networks over a public network.
+Benefits:
+Cost savings
+Security
+Scalability
+Compatibility with broadband technology
+Two types of VPN:
+Site-to-site VPNs
+Remote-access VPNs
+
+--- Slide 20 ---
+Selecting WAN ServicesChoosing a WAN Link Connection
+Answer the following questions when choosing a WAN Connection:
+What is the purpose of the WAN?
+What is the geographic scope?
+What are the traffic requirements?
+
+--- Slide 21 ---
+Selecting WAN ServicesChoosing a WAN Link Connection
+
+--- Slide 22 ---
+Summary
+A business can use private lines or the public network infrastructure for WAN connections.
+WAN access standards operate at layers 1 and 2 of the OSI model, and are defined and managed by the TIA/EIA, ISO, and IEEE.
+A WAN may be circuit-switched or packet-switched.
+There is common terminology used to identify the physical components of WAN connections and who, the service provider or the customer, is responsible for which components.
+Service provider networks are complex and the service provider’s backbone networks consist primarily of high-bandwidth fiber optic media.
+
+--- Slide 23 ---
+Summary (cont.)
+Permanent, dedicated point-to-point connections are provided by using leased lines.
+Public infrastructure connections include DSL, cable, wireless, and 3G/4G cellular.
+Security over public infrastructure connections can be provided by using remote-access or site-to-site VPNs.
+
+
+
+============================================================
+=== OLD FORMAT .PPT FILES (cannot extract with python-pptx) ===
+============================================================
+  - 14-Data Link Control.ppt
+  - 3-Queuing Delay & Analysis.ppt
+  - CS460 - CH07.ppt
+  - Ch 11(if anyone interested).ppt
+  - Ch 23 icmp.ppt
+  - Ch 35.ppt
+  - Chap-02(layering).ppt
+  - Chapter4-MediumAccessControlSublayer.ppt
+  - Computer Network Slides 1.ppt
+  - NetworkDelayProblemsAfter.ppt
+  - PPP.ppt
+  - Reference Model.ppt
+  - TOPOLOGY (main slide).ppt
+  - TransMissionMedia.ppt
+  - chap24.ppt
+  - devices (main slide).ppt
+  - dns (how resolve a name).ppt
+  - dns.ppt
+  - ethernet and csma-cd.ppt
+  - fragmentation 1.ppt
+  - ftp.ppt
+  - icmp (main).ppt
+  - icmp error message and traceroute.ppt
+  - icmp error message.ppt
+  - ip fragmentation  (vvi slide 2).ppt
+  - ipaddress (main slide).ppt
+  - ipaddress.ppt
+  - lan and ethernet (must read).ppt
+  - lan technology and nw topogy (book slide).ppt
+  - layering.ppt
+  - part12.ppt
+  - shannon Lecture 5.ppt
+  - switching Lecture - 5.ppt
+  - vlan and spanning tree (18-07).ppt
+  - wan tech.ppt
