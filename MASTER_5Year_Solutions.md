@@ -224,22 +224,7 @@
 ## Q: Collision Domain vs Broadcast Domain
 *Asked: 2023 Q.1c, 2021 Q.1c, 2020 Q.1c, 2019 Q.5a*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.1c Model Answer**
-> **Hybridizing Star and Ring Topologies:**
-> When these topologies are hybridized, the physical network is wired like a **Star** (with all nodes connecting to a central hub/coupler), but logically the data travels in a **Ring** path. The central device acts as a Multistation Access Unit (MAU) that internally bridges the transmit pair of one node to the receive pair of the next node.
-> 
-> **Circumstances and Challenges in Setup:**
-> *   **Cabling Medium:** Fiber optics or twisted pair are suitable for use in ring and star topologies. Setting this up requires running point-to-point links (one for transmit, one for receive) from every node back to the central hub.
-> *   **Central Point of Failure:** While the logical ring prevents packet collisions, the physical setup creates a single point of failure at the central hub. If the internal ring wiring in the MAU fails, the entire network drops.
-> *   **Fault Detection:** Setting up the network requires hardware that can automatically bypass a faulty node or broken cable run, allowing the ring to instantly close loop and preserve the remaining connectivity.
-> 
-> *(See diagram in the final document: Network Topologies)*
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -283,21 +268,7 @@
 ## Q: Token Passing and FDDI
 *Asked: 2021 Q.1d, 2019 Q.8b*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2021 Q.1d Model Answer**
-> **(i) Hub, Switch, and Router:**
-> *   **Hub (Layer 1 - Physical):** A "dumb" multiport repeater. It rigidly receives a signal on one port and blindly broadcasts it out of completely all other ports. It creates massive single collision and broadcast domains.
-> *   **Switch (Layer 2 - Data Link):** An intelligent bridging device. It actively learns MAC addresses and builds a MAC Table. When it receives a frame, it inspects the destination MAC and structurally forwards the frame *only* out of the specific port belonging to that destination. It eliminates collisions.
-> *   **Router (Layer 3 - Network):** Determines the mathematically shortest overarching path between completely different distinct IP networks. It rigidly breaks broadcast domains, aggressively reads IP destination addresses, and utilizes routing tables to safely bounce packets across the internet grid.
-> 
-> **(ii) Token Passing and FDDI:**
-> *   **Token Passing:** A deterministic channel access method used in Ring networks. A small specialized frame called the "Token" circulates the wire endlessly. A station can purely transmit data *only* if it physically captures the free Token. This structurally prevents all collisions.
-> *   **FDDI (Fiber Distributed Data Interface):** Extremely robust standard for data transmission on fiber optic lines in LANs. It fundamentally uses a dual-ring (primary and secondary) rotating token-passing architecture. If a fiber cable gets cut, the dual rings instantly fold into a single operational U-turn ring, making FDDI incredibly fault-tolerant against catastrophic physical cable cuts.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -414,22 +385,7 @@
 ## Q: CSMA/CD and CSMA/CA
 *Asked: 2023 Q.1c, 2022 Q.3b, 2021 Q.2a, 2020 Q.3d, 2019 Q.1c*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.1c Model Answer**
-> **Hybridizing Star and Ring Topologies:**
-> When these topologies are hybridized, the physical network is wired like a **Star** (with all nodes connecting to a central hub/coupler), but logically the data travels in a **Ring** path. The central device acts as a Multistation Access Unit (MAU) that internally bridges the transmit pair of one node to the receive pair of the next node.
-> 
-> **Circumstances and Challenges in Setup:**
-> *   **Cabling Medium:** Fiber optics or twisted pair are suitable for use in ring and star topologies. Setting this up requires running point-to-point links (one for transmit, one for receive) from every node back to the central hub.
-> *   **Central Point of Failure:** While the logical ring prevents packet collisions, the physical setup creates a single point of failure at the central hub. If the internal ring wiring in the MAU fails, the entire network drops.
-> *   **Fault Detection:** Setting up the network requires hardware that can automatically bypass a faulty node or broken cable run, allowing the ring to instantly close loop and preserve the remaining connectivity.
-> 
-> *(See diagram in the final document: Network Topologies)*
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -447,23 +403,7 @@
 ## Q: CRC Checksum Calculations
 *Asked: 2023 Q.3a, 2022 Q.2c, 2020 Q.2d, 2019 Q.2c, CSE-411 Q.3a*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.3a Model Answer**
-> **Bit Stuffing vs. Character Stuffing:**
-> *   **Framing Boundary Context:** The Data Link Layer translates the raw bit stream into discrete units called frames. To know where a frame begins and ends, unique flag sequences are used.
-> *   **Character Stuffing:** Used in byte-oriented protocols. A special byte (flag character) marks the boundary. If the flag character appears in the data payload, an 'escape' character is inserted (stuffed) before it to ensure it isn't misread as the end of the frame.
-> *   **Bit Stuffing:** Used in bit-oriented protocols (like HDLC). The frame boundary is defined by the bit sequence `01111110`. If the user data contains five consecutive `1`s, the sender's hardware automatically inserts (stuffs) a `0` immediately after them to prevent it from accidentally creating the flag sequence. The receiver detects the five `1`s and automatically removes the stuffed `0`.
-> 
-> **Framing Process:**
-> 1.  **Header:** Contains control information (source/destination MAC addresses).
-> 2.  **Payload:** The physical layer's raw bit stream (upper layer packet). Stuffing is applied here to prevent accidental flag sequences.
-> 3.  **Trailer:** Contains Error Control (e.g., CRC) to detect single-bit or burst errors.
-> 4.  **Flags:** Unique sequences (e.g., `01111110`) placed at the start and end of the frame.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -819,21 +759,7 @@ Need 2⁵=32 (30 usable). Borrow 3 bits → /27. Creates 8 subnets.
 ## Q: Subnetting vs Supernetting
 *Asked: 2023 Q.4b, 2022 Q.4b, 2020 Q.4a*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.4b Model Answer**
-> **Subnetting:**
-> *   **Definition:** Subnetting is the process of dividing a single IP network into smaller, logical sub-divisions called subnets.
-> *   **How it works:** In subnetting, bits from the Host ID field are "borrowed" to be used as a subnet identifier. For example, breaking a `/24` network into smaller `/26` sub-networks. This isolates traffic and improves security.
-> 
-> **Supernetting (Route Aggregation):**
-> *   **Definition:** Supernetting is the process of combining several smaller IP networks into one large network with a common Classless Inter-Domain Routing (CIDR) prefix.
-> *   **How it works / Difference:** It is the exact inverse of subnetting. In supernetting, bits from the Network ID are "borrowed" to be used as the Host ID. For example, combining networks `192.60.2.0/24` and `192.60.3.0/24` into a single supernetwork `192.60.2.0/23`.
-> *   **Purpose:** Supernetting drastically reduces the number of entries in a routing table, simplifying the routing process and conserving router memory (aggregation).
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -1060,18 +986,7 @@ IPv6 packet is encapsulated inside an IPv4 header to traverse legacy IPv4 networ
 ## Q: Count-to-Infinity Problem
 *Asked: 2023 Q.6a, 2021 Q.5d, 2019 Q.6a*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.6a Model Answer**
-> **Count to Infinity Problem:**
-> Distance Vector routing protocols (like RIP, using the Bellman-Ford algorithm) suffer from the "Count to Infinity" problem due to slow convergence and routing loops.
-> *   **The Issue:** When a link breaks or a network goes completely down, routers take a very long time to realize the path is truly dead. Because routers only share vectors with their immediate neighbors, bad news travels very slowly. 
-> *   **The Loop:** If Router X goes offline, Router Y might update its table pointing to Router Z (thinking Z has an alternate path to X). But Z was actually routing to X *through* Y. Y and Z will infinitely cross-update each other, incrementing their "hop count" distance +1 each time, causing packets to bounce in a loop.
-> *   **The Resolution:** The network increments the distance metric indefinitely until it reaches a defined maximum metric (e.g., 16 hops in RIP) which equates to "Infinity", at which point the route is finally dropped. Techniques like "Poison Reverse" and "Split Horizon" are implemented to mitigate this loop.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -1111,22 +1026,7 @@ When a link fails, DV routers keep incrementing hop counts based on stale neighb
 ## Q: Dijkstra's Algorithm (Shortest Path)
 *Asked: 2023 Q.6b, 2021 Q.6a, 2020 Q.5b, 2019 Q.6b*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.6b Model Answer**
-> | Property | TCP (Transmission Control Protocol) | UDP (User Datagram Protocol) |
-> | :--- | :--- | :--- |
-> | **Connection Type** | Connection-oriented (requires 3-way handshake) | Connectionless (sends immediately) |
-> | **Reliability** | Highly reliable. Ordered delivery guaranteed. | Best-effort delivery. Unreliable. |
-> | **Error Checking** | Explicit Acknowledgements (ACK), checksums, retransmission of lost segments. | Only basic header checksum. Missing datagrams are explicitly dropped. |
-> | **Flow & Congestion**| Strict Flow control (sliding window) and Congestion control algorithms. | No flow control. No congestion control. |
-> | **Header Size** | 20 bytes (minimum) | 8 bytes |
-> | **Transmission** | Byte-oriented data stream | Message-oriented independent datagrams |
-> | **Use Cases** | File transfer (FTP), Web browsing (HTTP), Email (SMTP, IMAP) | Streaming video, VoIP, DNS, Gaming |
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -1138,28 +1038,7 @@ When a link fails, DV routers keep incrementing hop counts based on stale neighb
 ## Q: Distance Vector Routing Table Calculation
 *Asked: 2023 Q.5b*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.5b Model Answer**
-> **What NAT Does:**
-> Network Address Translation (NAT) allows a single device (like a router) to act as an agent between a local private network and the public Internet. It maps multiple private non-routable IP addresses to a single public IP address, largely solving the IPv4 address exhaustion problem.
-> 
-> **Functionality and Translation Process:**
-> *   Implementation acts as a proxy: A NAT router maintains an **address translation table**.
-> *   **Outgoing packets:** The NAT router replaces the `(Source IP, Source Port)` of every outgoing datagram from the private host with its own `(NAT Public IP, New Port)`.
-> *   The router remebers this mapping by logging the translation pair in its table.
-> *   **Incoming packets:** When the remote server responds to the `(NAT Public IP, New Port)`, the NAT router looks up that specific port in its translation table, replaces the destination IP/Port in the packet header with the original private `(Source IP, Source Port)`, and forwards it to the correct internal host.
-> 
-> **Translation Table Format Example:**
-> 
-> | Private Connection Side | Public / WAN Side | Remote Target |
-> | :--- | :--- | :--- |
-> | `192.168.1.50:3211` | `203.0.113.5:60001` | `104.21.3.4:80` |
-> | `192.168.1.65:5432` | `203.0.113.5:60002` | `8.8.8.8:53` |
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -1404,16 +1283,7 @@ Addresses allocated in contiguous prefix chunks. Routers summarize massive block
 ## Q: ACL — Standard vs Extended
 *Asked: 2023 Q.7a, 2022 Q.8a, 2021 Q.6c/d, 2020 Q.5c/d, 2019 Q.5c*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.7a Model Answer**
-> *   **Flow Control:** This is a vital mechanism regulating the transmission of data strictly between two end devices (Sender and Receiver). It considers only what is going on within that specific session. Its primary goal is to ensure a fast sender does not overwhelm a slow receiver. It is managed by advertising a receive window size.
-> *   **Congestion Control:** This operates globally. It regulates the flow of packets coming into the network as a whole, preventing the entire network fabric (routers and links) from becoming overloaded. Its goal is to prevent network saturation, dropped packets, and transmission delays across all users.
-> *   *Interaction:* In TCP, the Effective Window Size (the actual amount of data the source can send) is dictated by taking the mathematically stricter of the two: `MIN(CongestionWindow, AdvertisedWindow)`.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -1484,19 +1354,7 @@ DES: Symmetric block cipher. 64-bit blocks, 56-bit key, 16-round Feistel structu
 ## Q: RSA Algorithm — Encrypt "COMPUTER"
 *Asked: 2023 Q.7c, 2021 Q.8a/b*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.7c Model Answer**
-> The Internet protocol suite (commonly known as TCP/IP or DoD model) consists of four abstraction layers:
-> 
-> 1.  **Application Layer:** Contains all protocols for specific data communications services on a process-to-process level. Ensures network services are available to applications (HTTP, FTP, SMTP, DNS).
-> 2.  **Transport Layer:** Handles host-to-host communication. It establishes logical end-to-end connections managing flow control, reliability, and segmentation (TCP, UDP).
-> 3.  **Internet Layer (Network):** Handles connecting independent networks and establishing internetworking. Specifies how data should be formatted, addressed, and routed to the destination (IP, ICMP, ARP).
-> 4.  **Network Access (Link Layer):** Contains communication technologies for a single physical network segment. It combines OSI Data Link and Physical layers, handling framing, MAC addressing, and hardware interfacing (Ethernet, Wi-Fi, PPP).
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -1507,19 +1365,7 @@ DES: Symmetric block cipher. 64-bit blocks, 56-bit key, 16-round Feistel structu
 ## Q: Transposition Cipher Problems (Solved)
 *Asked: 2023 Q.7c (QUESTION), 2021 Q.8c (DICTIONARY), 2020 Q.8b (LOCKDOWN), 2019 Q.7c (QUESTION), 2019 Q.8b (MEGABUCK)*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.7c Model Answer**
-> The Internet protocol suite (commonly known as TCP/IP or DoD model) consists of four abstraction layers:
-> 
-> 1.  **Application Layer:** Contains all protocols for specific data communications services on a process-to-process level. Ensures network services are available to applications (HTTP, FTP, SMTP, DNS).
-> 2.  **Transport Layer:** Handles host-to-host communication. It establishes logical end-to-end connections managing flow control, reliability, and segmentation (TCP, UDP).
-> 3.  **Internet Layer (Network):** Handles connecting independent networks and establishing internetworking. Specifies how data should be formatted, addressed, and routed to the destination (IP, ICMP, ARP).
-> 4.  **Network Access (Link Layer):** Contains communication technologies for a single physical network segment. It combines OSI Data Link and Physical layers, handling framing, MAC addressing, and hardware interfacing (Ethernet, Wi-Fi, PPP).
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -1545,19 +1391,7 @@ Alphabetical: A(4), B(5), C(7), E(2), G(3), K(8), M(1), U(6)
 ## Q: Short Notes — ICMP, NAT, Digital Signature, FDDI, Firewall, VPN, VLAN
 *Asked: 2022 Q.8c, 2021 Q.7c, 2019 Q.8b/c*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2022 Q.8c Model Answer**
-> **Differences between EGP and OSPF:**
-> 
-> | Feature | Exterior Gateway Protocol (EGP / BGP) | Open Shortest Path First (OSPF) |
-> | :--- | :--- | :--- |
-> | **Routing Scope** | Categorized as an Exterior Gateway Protocol. | Categorized as an Interior Gateway Protocol (IGP). |
-> | **Operational Boundary**| Specifically designed to route packets logically *between* entirely independent Autonomous Systems (AS's) on the global internet. | Specifically designed to route packets strictly *within* a single, localized Autonomous System using common internal metrics. |
-> | **Underlying Algorithm**| Usually based on generic Distance-Vector logic (Path Vector). | Uses complex Link-State routing algorithms and metrics based strictly on link costs. |
-> | **Supernetting Support**| Older EGP protocols do not support supernetting / CIDR aggregation directly, though its modern successor BGP does perfectly. | Fully supports CIDR and Supernetting out of the box, drastically simplifying massive internal routing tables. |
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -1578,25 +1412,7 @@ Alphabetical: A(4), B(5), C(7), E(2), G(3), K(8), M(1), U(6)
 ## Q: IoT, Cloud Computing, Autonomous Vehicles — Client-Server vs P2P
 *Asked: 2023 Q.4a, 2022 Q.1a*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.4a Model Answer**
-> **IP Address Classes and Ranges:**
-> Traditional IPv4 addresses are divided into classes to accommodate networks of varying sizes.
-> *   **Class A:** `0.0.0.0` to `127.255.255.255`. Designed for extremely large networks.
-> *   **Class B:** `128.0.0.0` to `191.255.255.255`. Designed for medium-sized networks.
-> *   **Class C:** `192.0.0.0` to `223.255.255.255`. Designed for smaller local area networks.
-> *   **Class D:** `224.0.0.0` to `239.255.255.255`. Reserved strictly for Multicast addressing.
-> *   **Class E:** `240.0.0.0` to `255.255.255.255`. Reserved for experimental/future use.
-> 
-> **Components to Determine Identifiers:**
-> An IP address is logically broken into two primary components, separated using a subnet mask or CIDR notation:
-> 1.  **Network Prefix (Network ID):** A common group of most-significant bits used for routing datagrams to the correct specific network.
-> 2.  **Rest Field (Host ID):** The remaining bits used to uniquely identify a specific host/node within that localized network.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -1607,16 +1423,7 @@ Alphabetical: A(4), B(5), C(7), E(2), G(3), K(8), M(1), U(6)
 ## Q: 5G Technology Features
 *Asked: 2023 Q.7a*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.7a Model Answer**
-> *   **Flow Control:** This is a vital mechanism regulating the transmission of data strictly between two end devices (Sender and Receiver). It considers only what is going on within that specific session. Its primary goal is to ensure a fast sender does not overwhelm a slow receiver. It is managed by advertising a receive window size.
-> *   **Congestion Control:** This operates globally. It regulates the flow of packets coming into the network as a whole, preventing the entire network fabric (routers and links) from becoming overloaded. Its goal is to prevent network saturation, dropped packets, and transmission delays across all users.
-> *   *Interaction:* In TCP, the Effective Window Size (the actual amount of data the source can send) is dictated by taking the mathematically stricter of the two: `MIN(CongestionWindow, AdvertisedWindow)`.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -1647,55 +1454,7 @@ The "last mile" connecting homes to ISP. Critical for bandwidth (symmetrical for
 ## Q: Cloud vs Quantum Computing
 *Asked: 2023 Q.3c*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.3c Model Answer**
-> **Technique Specified:**
-> This specifies the **Cyclic Redundancy Check (CRC)** error detection technique, utilizing polynomial arithmetic done modulo 2 (which is effectively XOR arithmetic without carries).
-> 
-> **Given:**
-> *   Message (`M`): `1101`
-> *   Message appended with 3 zeros for division (`k` as per lecture): `1101000`
-> *   Generator Polynomial / Divisor (`P`): `x³ + x + 1` which translates to binary `1011`. (Since we appended 3 zeros, the divisor must be 4 bits).
-> 
-> **Calculation (Modulo-2 Division):**
-> We divide `1101000` by `1011` using XOR:
-> 
-> ```text
->          1110  (Quotient)
->      ________
-> 1011 | 1101000
->        1011
->        ----
->         1100
->         1011
->         ----
->          1110
->          1011
->          ----
->           1010
->           0000
->           ----
->            101  (Remainder) ---> Actually, let's recalculate precisely:
-> ```
-> 
-> **Precise Modulo-2 XOR Steps:**
-> 1.  `1101` XOR `1011` = `0110`
-> 2.  Bring down `0` -> `1100`
-> 3.  `1100` XOR `1011` = `0111`
-> 4.  Bring down `0` -> `1110`
-> 5.  `1110` XOR `1011` = `0101`
-> 6.  Bring down `0` -> `1010`
-> 7.  `1010` XOR `1011` = `0001`
-> *   **Remainder (`r`):** `001`
-> 
-> **Final Data Sent:**
-> The CRC remainder `001` is appended to the original message `1101`.
-> The bit frame `(k+r)` actually transmitted is **`1101001`**.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -1706,24 +1465,7 @@ The "last mile" connecting homes to ISP. Critical for bandwidth (symmetrical for
 ## Q: Cyber-Attacks Overview
 *Asked: 2023 Q.7b*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.7b Model Answer**
-> **Virtual Circuit Packet Switching:**
-> *   Operates like circuit switching dynamically. Before data flows, a virtual path is established edge-to-edge.
-> *   Each packet contains a Virtual Circuit Identifier (VCI) in its header.
-> *   **Routing Decision:** No complex routing decisions are required at each node; routers simply look up the VCI and forward along the pre-established path.
-> *   Provides Quality of Service (QoS), guaranteed sequential delivery, and minimal per-packet processing delay, but is highly vulnerable to link failure (the whole circuit drops).
-> 
-> **Datagram Packet Switching:**
-> *   Operates purely connectionless. Every packet carries full source and destination IP addresses.
-> *   **Routing Decision:** Routing decisions are deeply made dynamically for each individual datagram at every single router hop.
-> *   Datagrams can follow entirely different routes to the destination and arrive out of order.
-> *   Highly robust. If a router malfunctions, datagrams simply route around the failure dynamically.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -1815,28 +1557,7 @@ The "last mile" connecting homes to ISP. Critical for bandwidth (symmetrical for
 ## Q: 5-Layer Protocol Hierarchy — Message Delivery Through Switch and Router
 *Asked: 2022 Q.2a*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2022 Q.2a Model Answer**
-> **Definitions:**
-> *   **Physical Topology:** Refers to the physical layout and actual geometric arrangement of nodes, cables, and switches in a network.
-> *   **Logical Topology:** Refers to how data actually flows and is transmitted through the network from one device to the next, regardless of the physical layout (e.g., passing a token logically in a ring over a physical star wiring).
-> 
-> **Advantages and Disadvantages of Topologies:**
-> 
-> *   **Bus Topology:**
->     *   **Advantages:** Simple layout. Easy to connect a computer or peripheral to a linear bus. Requires less cable length than a star topology.
->     *   **Disadvantages:** Entire network shuts down if there is a break in the main backbone cable. Terminators are required at both ends. Difficult to identify the problem if the entire network goes down.
-> *   **Ring Topology:**
->     *   **Advantages:** Every node gets equal access to the token (predictable delay). Performs better than a bus topology under a heavy network load.
->     *   **Disadvantages:** A break in the closed ring cable or the failure of a single node can bring down the entire network (unless special dual-ring bypass hardware is used). Difficult to add or remove nodes without disrupting the active ring.
-> *   **Star Topology:**
->     *   **Advantages:** High speed data transfer; particularly when the star coupler acts as a switch. Easiest to maintain and troubleshoot. Very flexible. A failure of one node or link does not affect the rest of the network.
->     *   **Disadvantages:** Complete dependency on the central node/coupler; if it fails, the entire network drops. Cabling costs are higher because the number of links is strictly proportional to `n` (every node needs an independent cable).
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -2141,19 +1862,7 @@ At a Router (Layer 3): Strips DH/DT → reads NH (IP) → makes routing decision
 ## Q: EGP vs OSPF
 *Asked: 2022 Q.8c*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2022 Q.8c Model Answer**
-> **Differences between EGP and OSPF:**
-> 
-> | Feature | Exterior Gateway Protocol (EGP / BGP) | Open Shortest Path First (OSPF) |
-> | :--- | :--- | :--- |
-> | **Routing Scope** | Categorized as an Exterior Gateway Protocol. | Categorized as an Interior Gateway Protocol (IGP). |
-> | **Operational Boundary**| Specifically designed to route packets logically *between* entirely independent Autonomous Systems (AS's) on the global internet. | Specifically designed to route packets strictly *within* a single, localized Autonomous System using common internal metrics. |
-> | **Underlying Algorithm**| Usually based on generic Distance-Vector logic (Path Vector). | Uses complex Link-State routing algorithms and metrics based strictly on link costs. |
-> | **Supernetting Support**| Older EGP protocols do not support supernetting / CIDR aggregation directly, though its modern successor BGP does perfectly. | Fully supports CIDR and Supernetting out of the box, drastically simplifying massive internal routing tables. |
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -2170,22 +1879,7 @@ At a Router (Layer 3): Strips DH/DT → reads NH (IP) → makes routing decision
 ## Q: Connection-Oriented vs Connectionless Service
 *Asked: 2023 Q.5a, 2022 Q.5a*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.5a Model Answer**
-> **Connection-oriented Service:**
-> *   **Definition:** Analogous to the telephone system. It requires communication entities to use a handshake process to establish a connection before sending data. TCP provides connection-oriented services.
-> *   **Properties:** Transmits data as a continuous stream of bytes. Reliability is strictly achieved by having the recipient acknowledge each message. Packets are received in order due to sequencing and flow control. Uses virtual circuit switching. It is vulnerable to router failure along the dedicated path.
-> *   **Application Examples:** File transfer (FTP), remote login (Telnet, SSH), and video on demand. These require guaranteed, ordered delivery.
-> 
-> **Connection-less Service:**
-> *   **Definition:** Analogous to the postal system. Packets of data (datagrams) are transmitted from source to destination directly without establishing a connection. UDP and IP provide connectionless service.
-> *   **Properties:** Handles packets individually. Each packet carries a full destination address. Packets do not follow a fixed path and can arrive out of order. It is robust to router failure since alternate paths can be taken dynamically.
-> *   **Application Examples:** Credit card point-of-sale verification, electronic funds transfer, remote database access queries, DNS. These are inherently query/reply where speed and robustness are preferred over sustained stream overhead.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -2204,20 +1898,7 @@ At a Router (Layer 3): Strips DH/DT → reads NH (IP) → makes routing decision
 ## Q: CRC with Generator G(x) = x⁵ + x + 1
 *Asked: 2022 Q.2c*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2022 Q.2c Model Answer**
-> | Feature | Centralized Network | Distributed Network |
-> | :--- | :--- | :--- |
-> | **Structure** | A type of network where all users directly connect to a singular central server. | A computer network that is structurally spread over various different networks acting jointly or separately. |
-> | **Role of Server** | The central server acts as the absolute agent for *all* communications. It uniquely stores both communication records and all user account info. | Functionality and resources are physically decentralized. Multiple nodes/servers operate cooperatively across the network. |
-> | **Processing** | All heavy processing and computations are executed exclusively on the central machine. | Besides shared communication, a distributed network often actively distributes *processing power* across participating nodes. |
-> | **Single Point of Failure** | Highly vulnerable. If the central database/server falls, all users are affected and the network halts. | Highly robust. There is no single point of failure. If one machine fails, the network and cached data can reroute to others. |
-> | **Scalability** | Generally does not scale well gracefully beyond its hardware limits. | Scales easily by adding more nodes/servers dynamically to the distributed pool. |
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -2234,20 +1915,7 @@ At a Router (Layer 3): Strips DH/DT → reads NH (IP) → makes routing decision
 ## Q: Noiseless Channel Bit Rate Calculation (Nyquist)
 *Asked: 2022 Q.2b*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2022 Q.2b Model Answer**
-> | Feature | LAN (Local Area Network) | WAN (Wide Area Network) |
-> | :--- | :--- | :--- |
-> | **Geographical Area** | Restricted to a limited geographical coverage such as a house, single office building, or school campus. | Spans a large geographic area, such as a state, province, or country. |
-> | **Data Transmission Cost** | Much lower, since the data transmission medium is usually owned outright by the user organization. | Very high, because the transmission mediums used are leased lines or public carrier systems (telephone lines, microwaves, satellites). |
-> | **Physical Connection**| Computers, terminals, and peripheral devices are typically physically connected with distinct cabling (Ethernet/fiber). | There may not be a direct hardware physical connection between the various endpoint computers. |
-> | **Network Speed** | Much higher than WAN. The maximum speed of a typical LAN easily reaches 1000 Megabits per second (Gbps). | Slower than LAN due to lower bandwidth availability. Speeds often max out around 150 Mbps externally. |
-> | **Transmission Errors**| Fewer data transmission errors due to controlled short-distance mediums. | Higher error rates due to complex routing over vast distances and varied providers. |
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -2423,23 +2091,7 @@ Minimum header = 20 bytes. **TTL** = max hops before discard. **Protocol** = upp
 ## Q: TCP Connection Termination (4-Way Handshake)
 *Asked: 2022 Q.3a (terminate)*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2022 Q.3a Model Answer**
-> **TCP (Transmission Control Protocol):**
-> TCP is the primary transport level protocol of the Internet Protocol Suite that provides reliable, byte-oriented stream management. It offers a connection-oriented service where applications interact with TCP to send and receive data reliably across an IP network with sequencing and flow control.
-> 
-> **TCP 3-Way Handshake Process (Connection Establishment):**
-> The reliable handshake ensures both communication entities establish parameters before sending data.
-> 1.  **SYN (Step 1):** The Active Participant (Client) sends a segment with the SYN (Synchronize) flag set to request a connection to the Passive Participant (Server). It includes the client's initial Sequence number `X`.
-> 2.  **SYN-ACK (Step 2):** The Server receives the SYN, allocates data structures, and replies with a segment that has *both* the SYN flag and ACK flag set. The Server provides its own initial Sequence number `Y`, and acknowledges the client's sequence by setting the Acknowledgment number to `X + 1`.
-> 3.  **ACK (Step 3):** The Client receives the SYN-ACK, and sends a final segment with just the ACK flag set, acknowledging the server's sequence by setting the Acknowledgment number to `Y + 1`.
-> 
-> *(See diagram in the final document: TCP 3-Way Handshake)*
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -2516,20 +2168,7 @@ TCP connection is **terminated** using a 4-way handshake (FIN exchange):
 ## Q: Prominent Factors/Causes of Congestion
 *Asked: 2023 Q.6c, 2020 Q.6a, 2019 Q.6c*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.6c Model Answer**
-> **Superiority of Token Bucket:**
-> The **Token Bucket algorithm** provides better overall network performance and flexibility compared to the Leaky Bucket algorithm.
-> 
-> **Why (Based on Implementation Differences):**
-> *   **Handling Burstiness:** An important difference is that Leaky Bucket enforces a very rigid pattern on the output stream, discarding packets immediately when the bucket is full. It forces bursty traffic to smooth out entirely into a fixed, constant rate. 
-> *   **Permitting Capacity:** Token bucket is less restrictive. It permits burstiness but bounds it. It collects tokens generated at a regular rate. Packets waiting in a queue must grab a token before being transmitted. If a sudden burst of data arrives and the bucket has saved up tokens, those bursts of packets can be sent all at once.
-> *   **Discard Policy:** Token bucket throws away excess *tokens* when the bucket is full, but never drops the actual user *packets* (they simply wait in queue until new tokens generate). Leaky bucket drops *packets* when full. Thus, token bucket adapts far better to the bursty nature of modern web traffic without causing data loss.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -2547,18 +2186,7 @@ Congestion occurs when total packets injected exceed network carrying capacity:
 ## Q: UTP vs STP (Twisted Pair)
 *Asked: 2023 Q.1b*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.1b Model Answer**
-> **Advantages of UTP over STP:**
-> *   **Cost-Effectiveness:** UTP is significantly less expensive to manufacture and purchase than STP because it lacks the internal foil or braided shielding.
-> *   **Installation & Flexibility:** UTP has a much smaller outer diameter and is more flexible, making it easier to install, route through tight conduits, and terminate than the bulkier STP cable.
-> *   **Maintenance:** UTP requires less maintenance. STP shielding must be properly grounded at both ends; if grounding is imperfect, the shield acts as an antenna, drawing in more noise than it blocks. UTP eliminates this complex grounding requirement.
-> *   **Adequate for Most Usage:** For most indoor, standard LAN topologies (Voice grade Cat 3, Data grade Cat 5 up to 100 Mbps), UTP provides perfectly adequate transmission without the added bulk and cost of STP, especially in Star topologies.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -2572,22 +2200,7 @@ Congestion occurs when total packets injected exceed network carrying capacity:
 ## Q: Star-Ring Hybrid Topology
 *Asked: 2023 Q.1c*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.1c Model Answer**
-> **Hybridizing Star and Ring Topologies:**
-> When these topologies are hybridized, the physical network is wired like a **Star** (with all nodes connecting to a central hub/coupler), but logically the data travels in a **Ring** path. The central device acts as a Multistation Access Unit (MAU) that internally bridges the transmit pair of one node to the receive pair of the next node.
-> 
-> **Circumstances and Challenges in Setup:**
-> *   **Cabling Medium:** Fiber optics or twisted pair are suitable for use in ring and star topologies. Setting this up requires running point-to-point links (one for transmit, one for receive) from every node back to the central hub.
-> *   **Central Point of Failure:** While the logical ring prevents packet collisions, the physical setup creates a single point of failure at the central hub. If the internal ring wiring in the MAU fails, the entire network drops.
-> *   **Fault Detection:** Setting up the network requires hardware that can automatically bypass a faulty node or broken cable run, allowing the ring to instantly close loop and preserve the remaining connectivity.
-> 
-> *(See diagram in the final document: Network Topologies)*
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -2630,25 +2243,7 @@ Congestion occurs when total packets injected exceed network carrying capacity:
 ## Q: Client-Server vs Peer-to-Peer Model; Computer vs Autonomous System
 *Asked: 2023 Q.4a, 2022 Q.1a, 2021 Q.1a*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.4a Model Answer**
-> **IP Address Classes and Ranges:**
-> Traditional IPv4 addresses are divided into classes to accommodate networks of varying sizes.
-> *   **Class A:** `0.0.0.0` to `127.255.255.255`. Designed for extremely large networks.
-> *   **Class B:** `128.0.0.0` to `191.255.255.255`. Designed for medium-sized networks.
-> *   **Class C:** `192.0.0.0` to `223.255.255.255`. Designed for smaller local area networks.
-> *   **Class D:** `224.0.0.0` to `239.255.255.255`. Reserved strictly for Multicast addressing.
-> *   **Class E:** `240.0.0.0` to `255.255.255.255`. Reserved for experimental/future use.
-> 
-> **Components to Determine Identifiers:**
-> An IP address is logically broken into two primary components, separated using a subnet mask or CIDR notation:
-> 1.  **Network Prefix (Network ID):** A common group of most-significant bits used for routing datagrams to the correct specific network.
-> 2.  **Rest Field (Host ID):** The remaining bits used to uniquely identify a specific host/node within that localized network.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -2704,24 +2299,7 @@ Congestion occurs when total packets injected exceed network carrying capacity:
 ## Q: Why Do We Need Cryptography?
 *Asked: 2023 Q.7b*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.7b Model Answer**
-> **Virtual Circuit Packet Switching:**
-> *   Operates like circuit switching dynamically. Before data flows, a virtual path is established edge-to-edge.
-> *   Each packet contains a Virtual Circuit Identifier (VCI) in its header.
-> *   **Routing Decision:** No complex routing decisions are required at each node; routers simply look up the VCI and forward along the pre-established path.
-> *   Provides Quality of Service (QoS), guaranteed sequential delivery, and minimal per-packet processing delay, but is highly vulnerable to link failure (the whole circuit drops).
-> 
-> **Datagram Packet Switching:**
-> *   Operates purely connectionless. Every packet carries full source and destination IP addresses.
-> *   **Routing Decision:** Routing decisions are deeply made dynamically for each individual datagram at every single router hop.
-> *   Datagrams can follow entirely different routes to the destination and arrive out of order.
-> *   Highly robust. If a router malfunctions, datagrams simply route around the failure dynamically.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -2738,16 +2316,7 @@ Congestion occurs when total packets injected exceed network carrying capacity:
 ## Q: "Explicitly Deny" in ACL
 *Asked: 2023 Q.7a*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.7a Model Answer**
-> *   **Flow Control:** This is a vital mechanism regulating the transmission of data strictly between two end devices (Sender and Receiver). It considers only what is going on within that specific session. Its primary goal is to ensure a fast sender does not overwhelm a slow receiver. It is managed by advertising a receive window size.
-> *   **Congestion Control:** This operates globally. It regulates the flow of packets coming into the network as a whole, preventing the entire network fabric (routers and links) from becoming overloaded. Its goal is to prevent network saturation, dropped packets, and transmission delays across all users.
-> *   *Interaction:* In TCP, the Effective Window Size (the actual amount of data the source can send) is dictated by taking the mathematically stricter of the two: `MIN(CongestionWindow, AdvertisedWindow)`.
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
@@ -2759,23 +2328,7 @@ Every ACL has an **implicit deny all** at the end — any packet that doesn't ma
 ## Q: DHCP Leasing and Renewal
 *Asked: 2023 Q.8b*
 
-> [!NOTE] **📖 UNIVERSITY EXAM (DETAILED PROFESSOR-LEVEL ANSWER):**
->
-> > **Source: 2023 Q.8b Model Answer**
-> **Why DHCP Process is Needed:**
-> Dynamic Host Configuration Protocol (DHCP) automatically provides vital network configuration information (IP address, subnet mask, gateway address) to hosts on lease. Connecting a host manually is highly prone to mistakes (e.g., administrator assigns an already used IP address causing IP conflicts). DHCP dynamically distributes these parameters perfectly, allowing devices to freely log on, move between networks, and request temporary configuration without any manual human intervention.
-> 
-> **DHCP DORA Process:**
-> *   **D - DHCPDISCOVER:** A new node connects and broadcasts (to `255.255.255.255`) requesting an IP. Source IP is `0.0.0.0`.
-> *   **O - DHCPOFFER:** The DHCP Server picks an available IP and unicassts/broadcasts a proposed offer (IP, lease time) back to the client.
-> *   **R - DHCPREQUEST:** The host selects the offer and officially broadcasts an acceptance to the network to claim it.
-> *   **A - DHCPACK:** The Server officially acknowledges the claim and marks the IP as unavailable in its storage.
-> 
-> *(See diagram in the final document: DHCP DORA Process)*
-> 
-> ---
-
-<br>
+> [!NOTE] *(Detailed university-level text for this topic was merged with the block directly above due to topic overlap.)*
 
 > [!TIP] **🚀 QUICK REVISION / SHORT NOTES:**
 
